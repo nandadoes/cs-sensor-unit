@@ -19,6 +19,7 @@ As part of a research into how Internet of Things and sensor technologies can be
 * [Required software](https://github.com/nandadoes/cs-sensor-unit#required-software)
 * [Circuit Building and Installation](https://github.com/nandadoes/cs-sensor-unit#circuit-building-and-installation)
 * [Usage](https://github.com/nandadoes/cs-sensor-unit#usage)
+* [Contribuiting](https://github.com/nandadoes/cs-sensor-unit#contributing)
 * [Credits](https://github.com/nandadoes/cs-sensor-unit#credits)
 * [Licenses](https://github.com/nandadoes/cs-sensor-unit#licenses)
 
