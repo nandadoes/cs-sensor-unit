@@ -30,6 +30,10 @@ See [component list](https://github.com/nandadoes/cs-sensor-unit/wiki/Required-H
 ### Circuit Building and Installation: 
   1. Prepare CS shields – download PCB design files (i.e. [L2](http://nandadoes.com/download_seeds/docu_media/seedsShieldTwo.zip) and [L4](http://nandadoes.com/download_seeds/docu_media/seedsShieldFour.zip)) and print each as a double-sided shield. For detail, see [PCB design note](https://github.com/nandadoes/cs-sensor-unit/wiki/PCB-design-note).      
   2.  Assemble – Solder components on both shields and assemble a 4-layer circuit. See [Assemble note]
+      <br/>
+      _A full assembled CS sensor circuit:_     
+      <img src="http://nandadoes.com/download_seeds/docu_media/stacking_circuit_4_Layers.jpg" width="350">
+ 
   3. Download and install all required libraries into Arduino/library folder
   4. Download the zip folder of [CS_sensorUnit](https://github.com/nandadoes/cs-sensor-unit/blob/master/cs_sensorUnit.zip) software, unzip and open CS_sensorUnit.ino file in Arduino or other preferred IDE
   5. Create a channel on [Thingspeak](https://thingspeak.com/channels) with 7 [fields](https://www.mathworks.com/help/thingspeak/create-a-channel.html); copy the channel's API write key to replace the 16-digit key on line 153 in CS_sensorUnit.ino file   
@@ -37,7 +41,7 @@ See [component list](https://github.com/nandadoes/cs-sensor-unit/wiki/Required-H
   7. Switch on the circuit
   8. Place all of the components in the enclosure and install it half way into the soil. Make sure the upper SHT10 sensor is exposed to air.   
     <br/>
-    _A full assembled CS sensor unit with two ST10 sensors on the side:_    
+    _A fully assembled CS sensor unit with two ST10 sensors on the side:_    
 
     <br/>
     <img src="http://nandadoes.com/download_seeds/docu_media/sensor_unit_dried_cut.jpg" width="350">
