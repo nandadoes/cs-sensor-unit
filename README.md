@@ -14,8 +14,7 @@ As part of a research into how Internet of Things and sensor technologies can be
 
 
 ### Required hardware:
-See [wiki](https://github.com/nandadoes/cs-sensor-unit/wiki/Required-Hardware:-list-of-components)
-
+See [component list](https://github.com/nandadoes/cs-sensor-unit/wiki/Required-Hardware:-list-of-components)
 
 ### Required software:
 * [CS_sensorUnit](https://github.com/nandakrpp/connectedseeds/raw/master/cs_sensorUnit.zip) (tested with Arduino 1.6.9)
@@ -27,9 +26,6 @@ See [wiki](https://github.com/nandadoes/cs-sensor-unit/wiki/Required-Hardware:-l
 * Adafruit [BMP085 library](https://github.com/adafruit/Adafruit-BMP085-Library)
 * Adafruit [INA219 library](https://github.com/adafruit/Adafruit_INA219)
 * Jonathan Oxer's [SHT1x library](https://github.com/practicalarduino/SHT1x)
-
-
-
 
 ### Circuit Building and Installation: 
   1. Prepare CS shields – download PCB design files (i.e. [L2](http://nandadoes.com/download_seeds/docu_media/seedsShieldTwo.zip) and [L4](http://nandadoes.com/download_seeds/docu_media/seedsShieldFour.zip)) print each as a double-sided PCB. For detail, see [PCB design note](https://github.com/nandadoes/cs-sensor-unit/wiki/PCB-design-note).      
@@ -47,18 +43,10 @@ See [wiki](https://github.com/nandadoes/cs-sensor-unit/wiki/Required-Hardware:-l
     <img src="http://nandadoes.com/download_seeds/docu_media/sensor_unit_dried_cut.jpg" width="350">
 
 
-
-
-
-
-
 ### Usage:
 * __How it works__ – On start up, MCU is put into sleep mode and only wakes up by 2 alarms to perform series of events: 
     + _Alarm 1_ wakes up MCU @ minute zero of every hour. This is to read, do a simple stat and store all data including alarm event in text files before entering sleep mode. 
     + _Alarm 2_ wakes up MCU @ 23:10 every day to upload data toThingSpeak and record alarm and 3G communication events in text files. After that, it checks 3G shield's power state and attempts to power it off (several times since the 3G shield is having issue with its power on/off feature of the original hardware). Before going into sleep mode, it sends out an sms notification to two phone numbers if the sensed voltage is lower than the mininum threshold.
-
-
-
 
 
 ### Contributing: 
