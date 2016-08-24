@@ -1,13 +1,4 @@
----
-title: "README"
-author: "nandadoes"
-date: "24 August 2016"
-output: html_document
----
-
 # Connected Seeds' sensor unit
-
-
 
 ### Description:
 As part of a research into how Internet of Things and sensor technologies can benefit an urban food growing community in London, this [Connected Seeds](http://www.connectedseeds.org) (CS) sensor unit is designed for outdoor monitoring weather and plant growing conditions. It measures 7 parameters hourly (i.e. luminosity, barometric pressure, air temperature and humidity, soil temperature and humidity and approximated voltage level of the power supply), all of which are stored in an SD card and uploaded to an online server [Thingspeak](http://thingspeak.com) channels via 3G communication once a day.
