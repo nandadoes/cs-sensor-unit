@@ -28,7 +28,7 @@ See [component list](https://github.com/nandadoes/cs-sensor-unit/wiki/Required-H
 * Jonathan Oxer's [SHT1x library](https://github.com/practicalarduino/SHT1x)
 
 ### Circuit Building and Installation: 
-  1. Prepare CS shields – download PCB design files (i.e. [L2](http://nandadoes.com/download_seeds/docu_media/seedsShieldTwo.zip) and [L4](http://nandadoes.com/download_seeds/docu_media/seedsShieldFour.zip)) print each as a double-sided PCB. For detail, see [PCB design note](https://github.com/nandadoes/cs-sensor-unit/wiki/PCB-design-note).      
+  1. Prepare CS shields – download PCB design files (i.e. [L2](http://nandadoes.com/download_seeds/docu_media/seedsShieldTwo.zip) and [L4](http://nandadoes.com/download_seeds/docu_media/seedsShieldFour.zip)) and print each as a double-sided shield. For detail, see [PCB design note](https://github.com/nandadoes/cs-sensor-unit/wiki/PCB-design-note).      
   2.  Assemble – Solder components on both shields and assemble a 4-layer circuit. See [Assemble note]
   3. Download and install all required libraries into Arduino/library folder
   4. Download the zip folder of [CS_sensorUnit](https://github.com/nandadoes/cs-sensor-unit/blob/master/cs_sensorUnit.zip) software, unzip and open CS_sensorUnit.ino file in Arduino or other preferred IDE
