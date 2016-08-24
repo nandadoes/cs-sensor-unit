@@ -28,8 +28,8 @@ See [component list](https://github.com/nandadoes/cs-sensor-unit/wiki/Component-
 * Jonathan Oxer's [SHT1x library](https://github.com/practicalarduino/SHT1x)
 
 ### Circuit Building and Installation: 
-  1. Prepare CS shields – download PCB design files (i.e. [L2](http://nandadoes.com/download_seeds/docu_media/seedsShieldTwo.zip) and [L4](http://nandadoes.com/download_seeds/docu_media/seedsShieldFour.zip)) and print each as a double-sided shield. For detail, see [PCB design note](https://github.com/nandadoes/cs-sensor-unit/wiki/PCB-design-note).      
-  2.  Assemble – Solder components on both shields and assemble a 4-layer circuit. See [Assemble note](https://github.com/nandadoes/cs-sensor-unit/wiki/Assemble-note)
+  1. Prepare CS shields – download PCB design files (i.e. [L2](http://nandadoes.com/download_seeds/docu_media/seedsShieldTwo.zip) and [L4](http://nandadoes.com/download_seeds/docu_media/seedsShieldFour.zip)) and print each as a double-sided shield. For detail. See [PCB design note](https://github.com/nandadoes/cs-sensor-unit/wiki/PCB-design-note) for details.      
+  2.  Assemble – Solder components on both shields and assemble a 4-layer circuit. See [Assemble note](https://github.com/nandadoes/cs-sensor-unit/wiki/Assemble-note) for details.
       <br/>
       _A fully assembled CS sensor circuit:_     
       <img src="http://nandadoes.com/download_seeds/docu_media/stacking_circuit_4_Layers.jpg" width="350">
