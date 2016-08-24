@@ -14,7 +14,7 @@ As part of a research into how Internet of Things and sensor technologies can be
 
 
 ### Required hardware:
-See [component list](https://github.com/nandadoes/cs-sensor-unit/wiki/Required-Hardware:-list-of-components)
+See [component list](https://github.com/nandadoes/cs-sensor-unit/wiki/Component-list)
 
 ### Required software:
 * [CS_sensorUnit](https://github.com/nandakrpp/connectedseeds/raw/master/cs_sensorUnit.zip) (tested with Arduino 1.6.9)
