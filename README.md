@@ -15,12 +15,12 @@ As part of a research into how Internet of Things and sensor technologies can be
 
 
 ### Table of Contents:
-* [Required hardware](https://github.com/nandadoes/connectedSeeds/blob/master/README.md#required-hardware)
-* [Required software](https://github.com/nandadoes/connectedSeeds/blob/master/README.md#required-software)
-* [Circuit Building and Installation](https://github.com/nandadoes/connectedSeeds/blob/master/README.md#circuit-building-and-installation)
-* [Usage](https://github.com/nandadoes/connectedSeeds/blob/master/README.md#usage)
-* [Credits](https://github.com/nandadoes/connectedSeeds/blob/master/README.md#credits)
-* [Licenses](https://github.com/nandadoes/connectedSeeds/blob/master/README.md#licenses)
+* [Required hardware](https://github.com/nandadoes/cs-sensor-unit#required-hardware)
+* [Required software](https://github.com/nandadoes/cs-sensor-unit#required-software)
+* [Circuit Building and Installation](https://github.com/nandadoes/cs-sensor-unit#circuit-building-and-installation)
+* [Usage](https://github.com/nandadoes/cs-sensor-unit#usage)
+* [Credits](https://github.com/nandadoes/cs-sensor-unit#credits)
+* [Licenses](https://github.com/nandadoes/cs-sensor-unit#licenses)
 
 ### Required hardware:
 * 1 of [Arduino or Genuino Mega 2560](https://www.arduino.cc/en/Main/ArduinoBoardMega2560)   
