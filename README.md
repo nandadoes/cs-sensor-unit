@@ -32,56 +32,8 @@ See [wiki](https://github.com/nandadoes/cs-sensor-unit/wiki/Required-Hardware:-l
 
 
 ### Circuit Building and Installation: 
-  1. Prepare CS shields – download and print both CS shields (i.e. [L2](http://nandadoes.com/download_seeds/docu_media/seedsShieldTwo.zip) and [L4](http://nandadoes.com/download_seeds/docu_media/seedsShieldFour.zip)) designed as double-sided PCBs. See details below.       
-       
-     _Cs-Shield-L2 schematic:_ 
-      ![shieldL2_sch.png](http://nandadoes.com/download_seeds/docu_media/shieldL2_sch_gpl.png)     
-      <br/>
-      _Cs-Shield-L2 double-sided board design:_        
-    <img src="http://nandadoes.com/download_seeds/docu_media/shieldL2_brd.png" width="500">
-    <br/>   
-    _CS shield-L2 top (left) and bottom (right) sides:_    
-    ![shieldL2_print](http://nandadoes.com/download_seeds/docu_media/shieldL2_print.jpg)     
-    <br/>
-      _Cs-Shield-L4 schematic:_       
-     ![shieldL4_sch.png](http://nandadoes.com/download_seeds/docu_media/shieldL4_sch_gpl.png)   
-     <br/>  
-     _Cs-Shield-L4 board design:_             
-    <img src="http://nandadoes.com/download_seeds/docu_media/shieldL4_brd.png" width="500">
-     <br/>      
-     _CS shield-L4 top (left) and bottom (right) sides:_     
-     ![shieldL4_print](http://nandadoes.com/download_seeds/docu_media/shieldL4_print.jpg)    
-     <br/> 
-      
-      
-
-     
-
-
-
-
-
-
-
-
-
-
-  2.  Assemble – Solder components on both shields and assemble a 4-layer circuit   
-     <br/>   
-     _Top view of circuit destacked in 4 layers:_        
-     <img src="http://nandadoes.com/download_seeds/docu_media/circuit_destacked_noted_top_view.jpg" width="500">
-     <br/>  
-    _Bottom view of circuit destacked in 4 layers:_     
-     <img src="http://nandadoes.com/download_seeds/docu_media/circuit_destacked_noted_bottom_view.jpg" width="500">
-    <br/>   
-    _Side view of the circuit assembled from 4 layers (i.e. bottom layer - Arduino, layer 2 - Cs shield L2, layer 3 - 3G shield, top layer - Cs shield L4:_      
-     <img src="http://nandadoes.com/download_seeds/docu_media/stacking_circuit_4_Layers.jpg" width="500">
-     <br/>   
-    _Top view of the circuit assembled from 4 layers (i.e. bottom layer - Arduino, layer 2 - Cs shield L2, layer 3 - 3G shield, top layer - Cs shield L4) with two power banks:_      
-     ![stacking_circuit_4_Layers_top_view](http://nandadoes.com/download_seeds/docu_media/stacking_circuit_4_Layers_top_view.jpg)
-    <br/>   
-    
-    
+  1. Prepare CS shields – download PCB design files (i.e. [L2](http://nandadoes.com/download_seeds/docu_media/seedsShieldTwo.zip) and [L4](http://nandadoes.com/download_seeds/docu_media/seedsShieldFour.zip)) print each as a double-sided PCB. For detail, see [PCB design note](https://github.com/nandadoes/cs-sensor-unit/wiki/PCB-design-note).      
+  2.  Assemble – Solder components on both shields and assemble a 4-layer circuit. See [Assemble note]
   3. Download and install all required libraries into Arduino/library folder
   4. Download the zip folder of [CS_sensorUnit](https://github.com/nandadoes/cs-sensor-unit/blob/master/cs_sensorUnit.zip) software, unzip and open CS_sensorUnit.ino file in Arduino or other preferred IDE
   5. Create a channel on [Thingspeak](https://thingspeak.com/channels) with 7 [fields](https://www.mathworks.com/help/thingspeak/create-a-channel.html); copy the channel's API write key to replace the 16-digit key on line 153 in CS_sensorUnit.ino file   
