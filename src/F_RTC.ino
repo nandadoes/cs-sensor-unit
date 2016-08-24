@@ -1,0 +1,294 @@
+int get_lastDateOfMonth()
+{
+  const int arrMonthsInt31[] = {1, 3, 5, 7, 8, 10, 12};
+  const int arrMonthsInt30[] = {4, 6, 9, 11};
+  const int month2829 = 2; // to work on leap year date  *************************************
+  int lastDateOfMonth, nextD;
+
+
+  // Find out which date this month ends with
+  for (int i = 0; i < (sizeof(arrMonthsInt31) / sizeof(int)); i++)
+  {
+    if (thisMonthInt == arrMonthsInt31[i])
+    {
+      lastDateOfMonth = 31;
+    }
+  }
+  for (int i = 0; i < (sizeof(arrMonthsInt30) / sizeof(int)); i++)
+  {
+    if (thisMonthInt == arrMonthsInt30[i])
+    {
+      lastDateOfMonth = 30;
+    }
+  }
+  if (thisMonthInt == month2829)
+  {
+    lastDateOfMonth = 28; // to work on leap year date  *************************************
+  }
+
+  return lastDateOfMonth;
+}
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+void beep(unsigned char ALARM_PERIOD)
+{
+  analogWrite(ALM_NOTI_PIN, 180);      // Almost any value can be used except 0 and 255
+  // experiment to get the best tone
+  delay(ALARM_PERIOD);          // wait for a ALARM_PERIOD ms
+  analogWrite(ALM_NOTI_PIN, 0);       // 0 turns it off
+  delay(ALARM_PERIOD);          // wait for a ALARM_PERIOD ms
+}
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+void alarmIsr(void)
+{
+  alarmIsrWasCalled = true;
+}
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+void printDateTime(time_t t)
+{
+  Serial << ((day(t) < 10) ? "0" : "") << _DEC(day(t)) << ' ';
+  Serial << monthShortStr(month(t)) << " " << _DEC(year(t)) << ' ';
+  Serial << ((hour(t) < 10) ? "0" : "") << _DEC(hour(t)) << ':';
+  Serial << ((minute(t) < 10) ? "0" : "") << _DEC(minute(t)) << ':';
+  Serial << ((second(t) < 10) ? "0" : "") << _DEC(second(t));
+}
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+void get_currentTimeVariables(time_t t)
+{
+  thisS = second(t);
+  thisM = minute(t);
+  thisH = hour(t);
+  thisD = day(t);
+  thisMonthInt = month(t);
+  thisMonth = monthShortStr(month(t));
+  thisY = year(t);
+}
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+String prep_strUUMMDDHH(time_t t)
+{
+
+  // prepare timestamp string
+  //  Serial.println();
+  String strTimeDigit = "";
+
+
+  //  // Add year
+  //  strTimeDigit += thisY;
+
+
+  // Add unit ID
+  strTimeDigit += strUnitId;
+
+
+  // Add month
+  if (thisMonthInt < 10)
+  {
+    strTimeDigit += "0";
+  }
+  strTimeDigit += thisMonthInt;
+
+
+  // Add date
+  if (thisD < 10)
+  {
+    strTimeDigit += "0";
+  }
+  strTimeDigit += thisD;
+
+
+  // Add hour
+  if (thisH < 10)
+  {
+    strTimeDigit += "0";
+  }
+  strTimeDigit += thisH;
+
+
+  Serial << endl;
+  Serial << "strTimeDigit: " << strTimeDigit << endl;
+  return strTimeDigit;
+}
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+String prep_strUUYYYYMMDDHHUpdatedT(time_t t)
+{
+  thisY = year(t);
+  //    thisMonth = monthShorstrT(month(t));
+  thisMonthInt = month(t);
+  thisD = day(t);
+  thisH = hour(t);
+  thisM = minute(t);
+  //  thisS = second(t);
+
+  // prepare timestamp string
+  //  Serial.println();
+  String strTimeDigit = "";
+
+  // Add unit ID
+  strTimeDigit += strUnitId
+                  ;
+  // Add year
+  strTimeDigit += thisY;
+
+  // Add month
+  if (thisMonthInt < 10)
+  {
+    strTimeDigit += "0";
+  }
+  strTimeDigit += thisMonthInt;
+
+  // Add date
+  if (thisD < 10)
+  {
+    strTimeDigit += "0";
+  }
+  strTimeDigit += thisD;
+
+  // Add hour
+  if (thisH < 10)
+  {
+    strTimeDigit += "0";
+  }
+  strTimeDigit += thisH;
+
+  return strTimeDigit;
+
+}
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+String prep_strUUYYYYMMDDHHMMUpdatedT(time_t t)
+{
+  //    thisY = year(t);
+  //    thisMonth = monthShorstrT(month(t));
+  thisMonthInt = month(t);
+  thisD = day(t);
+  thisH = hour(t);
+  thisM = minute(t);
+  //  thisS = second(t);
+
+  // prepare timestamp string
+  //  Serial.println();
+  String strTimeDigit = "";
+
+
+  // Add year
+  strTimeDigit += thisY;
+
+  // Add month
+  if (thisMonthInt < 10)
+  {
+    strTimeDigit += "0";
+  }
+  strTimeDigit += thisMonthInt;
+
+  // Add date
+  if (thisD < 10)
+  {
+    strTimeDigit += "0";
+  }
+  strTimeDigit += thisD;
+
+  // Add hour
+  if (thisH < 10)
+  {
+    strTimeDigit += "0";
+  }
+  strTimeDigit += thisH;
+
+  // Add minute
+  if (thisM < 10)
+  {
+    strTimeDigit += "0";
+  }
+  strTimeDigit += thisM;
+
+  // Add second
+  //  if (thisS < 10)
+  //  {
+  //    strTimeDigit += "0";
+  //  }
+  //  strTimeDigit += thisS;
+
+
+  return strTimeDigit;
+
+}
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+String get_strFeedFnUUMMDDHH( int fMth, int fD, int fH)
+{
+
+  String strTheName = "";
+
+  strFeedMonth = "";
+  strFeedD = "";
+  strFeedH = "";
+  strFilename = "";
+
+
+  if (fMth < 10)
+  {
+    strFeedMonth += "0";
+  }
+  strFeedMonth += String(fMth);
+
+
+
+  if (fD < 10)
+  {
+    strFeedD += "0";
+  }
+  strFeedD += String(fD);
+
+
+
+
+  if (fH < 10)
+  {
+    strFeedH += "0";
+  }
+  strFeedH += String(fH);
+
+
+  strTheName = strUnitId + strFeedMonth + strFeedD + strFeedH + ".TXT";
+
+  delay(100);
+
+  return strTheName;
+}
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+
+
+
