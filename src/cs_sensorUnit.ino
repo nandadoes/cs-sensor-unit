@@ -42,7 +42,7 @@
  * Example sketches of required I2C, SPI, 3G and SD components. 
  * 
  * 
- *  Last modified: 2016-08-24  
+ *  Last modified: 2016-08-25  
  *  By: Nanda Khaorapapong
  *  Contact: nandadoes@gmail.com  
  *   
