@@ -51,7 +51,7 @@ The work is still under development. Though it is fully functional, several elem
 * Connected Seeds project is sponsored by EPSRC and developed at Queen Mary University of London. 
 * Special thanks go to: 
     + Research team i.e. [Dr Nick Bryan-Kinns (PI)](http://www.eecs.qmul.ac.uk/~nickbk/), [Dr Hamed Haddadi (Co-I)](http://www.eecs.qmul.ac.uk/~hamed/) and [Dr Sara Heitlinger (Researcher Col)](http://saraheitlinger.net/)
-    + All seeds guardians i.e. Lutfun and Richard at Spitalfields City Farm, Lisa at Wilton Estate, Halema and Anwara at Selby Estate, Zimbabwean association and Nat at Cordwainer Garden
+    + All seeds guardians i.e. Lutfun and Richard at Spitalfields City Farm, Lisa at Wilton Estate, Halema and Anwara at Selby Estate, Zimbabwean association and Nat at Cordwainern Garden
     + QMUL Electronics Lab
     + Production team Ireti, Meng, Matt and Yulia
     + Flim maker Donna
