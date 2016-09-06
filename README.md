@@ -45,10 +45,10 @@ See [component list](https://github.com/nandadoes/cs-sensor-unit/wiki/Component-
 
 
 ### Contributing: 
-The work is still under development. Though it is fully functional, several elements regarding both hardware and software can be improved. I willbe very grateful if some parts or the entire system can be beneficial to your research or practice or play, and/or if you like to help improve. If so, please feedback using a [contributing template](https://github.com/nandakrpp/connectedseeds/edit/nandakrpp-cs-contributing-1/contributing.md?pr=/nandakrpp/connectedseeds/pull/2) or drop me a line at nandadoes@gmail.com
+The work is still under development. Though it is fully functional, several elements regarding both hardware and software can be improved. I will be very grateful if some parts or the entire system can be beneficial to your research or practice or play, and/or if you like to help improve. If so, please feedback using a [contributing template](https://github.com/nandakrpp/connectedseeds/edit/nandakrpp-cs-contributing-1/contributing.md?pr=/nandakrpp/connectedseeds/pull/2) or drop me a line at nandadoes@gmail.com
 
 ### Credits:
-* Connected Seeds project is sponsored by EPSRC and developed at   Queen Mary University of London. 
+* Connected Seeds project is sponsored by EPSRC and developed at Queen Mary University of London. 
 * Special thanks go to: 
     + Research team i.e. [Dr Nick Bryan-Kinns (PI)](http://www.eecs.qmul.ac.uk/~nickbk/), [Dr Hamed Haddadi (Co-I)](http://www.eecs.qmul.ac.uk/~hamed/) and [Dr Sara Heitlinger (Researcher Col)](http://saraheitlinger.net/)
     + All seeds guardians i.e. Lutfun and Richard at Spitalfields City Farm, Lisa at Wilton Estate, Halema and Anwara at Selby Estate, Zimbabwean association and Nat at Cordwainer Garden
