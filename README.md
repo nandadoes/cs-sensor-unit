@@ -32,7 +32,7 @@ See [component list](https://github.com/nandadoes/cs-sensor-unit/wiki/Component-
   7. Switch on the circuit
   8. Place all of the components in the enclosure and install it half way into the soil. Make sure the upper SHT10 sensor is exposed to air.   
     <br/>
-    _A fully assembled CS sensor unit with two ST10 sensors on the side:_    
+    _A fully assembled CS sensor unit with two STH10 sensors on the side:_    
 
     <br/>
     <img src="http://nandadoes.com/download_seeds/docu_media/sensor_unit_dried_cut.jpg" width="350">
