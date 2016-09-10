@@ -1,3 +1,5 @@
+Note: all datasets are updated weekly on Friday morning and can be downloaded as a compressed folder: [datasets.zip](https://github.com/nandadoes/cs-sensor-unit/raw/master/data/datasets.zip)
+
 
 #File description 
 
