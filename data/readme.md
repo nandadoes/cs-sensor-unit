@@ -11,7 +11,7 @@ Notes:
 ### Filename  
 Format: UUMMDDHH   
 Example:
-_01070614.TXT_ is logged from sensor unit 01 on July 6th at 14:00 from sensor unit 01
+_01070614.TXT_ is logged from sensor unit 01 on July 6th at 14:00 
 
 
 
