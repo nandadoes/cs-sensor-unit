@@ -28,6 +28,6 @@ see [TXT to JSON format conversion: how to](https://github.com/nandadoes/cs-sens
 
 ### Notes:    
 
-1. Next update for both json and txt ([datasets.zip](https://github.com/nandadoes/cs-sensor-unit/raw/master/data/datasets.zip)) formats will be notified here. 
+1. Next update for both json and txt ([datasets.zip](https://github.com/nandadoes/cs-sensor-unit/raw/master/data/datasets.zip)) formats will be annouced here. 
 2. Daily updates on Thingspeak [channels](https://github.com/nandadoes/cs-sensor-unit/wiki/Thingspeak-pages) are not fully pushed through due to 3G network connectivity issue
 3. Awaiting content for seeds09.json
