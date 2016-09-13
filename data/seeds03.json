@@ -1,0 +1,8712 @@
+[
+  {
+    "id": 32016070618,
+    "light": 11004,
+    "airTemp": 26.55,
+    "airHum": 34.86,
+    "soilTemp": 25.91,
+    "soilHum": 37.15,
+    "airPress": 1019.48,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016070619,
+    "light": 1634,
+    "airTemp": 31.67,
+    "airHum": 31.2,
+    "soilTemp": 25.29,
+    "soilHum": 35.23,
+    "airPress": 1019.34,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016070620,
+    "light": 229,
+    "airTemp": 31.67,
+    "airHum": 31.41,
+    "soilTemp": 24.77,
+    "soilHum": 36.48,
+    "airPress": 1019.9,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016070621,
+    "light": 39,
+    "airTemp": 26.55,
+    "airHum": 33.58,
+    "soilTemp": 24.13,
+    "soilHum": 39.36,
+    "airPress": 1019.65,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016070622,
+    "light": 4,
+    "airTemp": 25.91,
+    "airHum": 35.21,
+    "soilTemp": 25.91,
+    "soilHum": 41.51,
+    "airPress": 1019.93,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016070623,
+    "light": 0,
+    "airTemp": 26.55,
+    "airHum": 37.96,
+    "soilTemp": 23.87,
+    "soilHum": 51.42,
+    "airPress": 1019.97,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016070700,
+    "light": 0,
+    "airTemp": 26.41,
+    "airHum": 38.63,
+    "soilTemp": 23.41,
+    "soilHum": 51.36,
+    "airPress": 1019.87,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070701,
+    "light": 8368,
+    "airTemp": 24.17,
+    "airHum": 39.09,
+    "soilTemp": 23.49,
+    "soilHum": 51.37,
+    "airPress": 1019.34,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070702,
+    "light": 8543,
+    "airTemp": 26.55,
+    "airHum": 39.92,
+    "soilTemp": 22.99,
+    "soilHum": 51.31,
+    "airPress": 1019.33,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070703,
+    "light": 8194,
+    "airTemp": 26.55,
+    "airHum": 37.72,
+    "soilTemp": 23.67,
+    "soilHum": 51.39,
+    "airPress": 1018.58,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070704,
+    "light": 8276,
+    "airTemp": 26.25,
+    "airHum": 38.48,
+    "soilTemp": 23.67,
+    "soilHum": 51.39,
+    "airPress": 1018.79,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016070705,
+    "light": 8293,
+    "airTemp": 26.23,
+    "airHum": 37.18,
+    "soilTemp": 23.67,
+    "soilHum": 51.4,
+    "airPress": 1018.58,
+    "remainV": 5
+  },
+  {
+    "id": 32016070706,
+    "light": 8489,
+    "airTemp": 25.91,
+    "airHum": 35.04,
+    "soilTemp": 22.41,
+    "soilHum": 51.23,
+    "airPress": 1018.95,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016070707,
+    "light": 8644,
+    "airTemp": 26.55,
+    "airHum": 41.02,
+    "soilTemp": 23.67,
+    "soilHum": 40.93,
+    "airPress": 1018.93,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016070708,
+    "light": 9356,
+    "airTemp": 26.55,
+    "airHum": 42.35,
+    "soilTemp": 23.35,
+    "soilHum": 41.97,
+    "airPress": 1019.02,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016070709,
+    "light": 9770,
+    "airTemp": 26.47,
+    "airHum": 38.78,
+    "soilTemp": 23.35,
+    "soilHum": 37.92,
+    "airPress": 1018.76,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070710,
+    "light": 9965,
+    "airTemp": 26.55,
+    "airHum": 39.63,
+    "soilTemp": 23.83,
+    "soilHum": 38.65,
+    "airPress": 1018.46,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070711,
+    "light": 10605,
+    "airTemp": 26.55,
+    "airHum": 36.92,
+    "soilTemp": 24.47,
+    "soilHum": 35.84,
+    "airPress": 1018.13,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070712,
+    "light": 10940,
+    "airTemp": 26.55,
+    "airHum": 37.97,
+    "soilTemp": 25.15,
+    "soilHum": 37.83,
+    "airPress": 1017.73,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070713,
+    "light": 12033,
+    "airTemp": 26.55,
+    "airHum": 43.32,
+    "soilTemp": 25.93,
+    "soilHum": 43.25,
+    "airPress": 1017.21,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070714,
+    "light": 15082,
+    "airTemp": 31.67,
+    "airHum": 40.55,
+    "soilTemp": 24.73,
+    "soilHum": 40.21,
+    "airPress": 1016.85,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070715,
+    "light": 15831,
+    "airTemp": 31.67,
+    "airHum": 39.66,
+    "soilTemp": 25.91,
+    "soilHum": 40,
+    "airPress": 1016.49,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070716,
+    "light": 17359,
+    "airTemp": 31.67,
+    "airHum": 37.22,
+    "soilTemp": 31.67,
+    "soilHum": 36.8,
+    "airPress": 1016,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070717,
+    "light": 3605,
+    "airTemp": 25.91,
+    "airHum": 37.9,
+    "soilTemp": 25.37,
+    "soilHum": 40.62,
+    "airPress": 1015.75,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016070718,
+    "light": 1893,
+    "airTemp": 31.67,
+    "airHum": 38.48,
+    "soilTemp": 24.23,
+    "soilHum": 51.71,
+    "airPress": 1015.5,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016070719,
+    "light": 544,
+    "airTemp": 26.55,
+    "airHum": 42.28,
+    "soilTemp": 26.07,
+    "soilHum": 51.71,
+    "airPress": 1015.49,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016070720,
+    "light": 520,
+    "airTemp": 25.23,
+    "airHum": 51.61,
+    "soilTemp": 26.07,
+    "soilHum": 51.71,
+    "airPress": 1015.03,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016070721,
+    "light": 83,
+    "airTemp": 24.49,
+    "airHum": 51.51,
+    "soilTemp": 26.07,
+    "soilHum": 59.72,
+    "airPress": 1015.24,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016070722,
+    "light": 36,
+    "airTemp": 26.05,
+    "airHum": 51.73,
+    "soilTemp": 23.67,
+    "soilHum": 59.4,
+    "airPress": 1015.35,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016070723,
+    "light": 1045,
+    "airTemp": 26.55,
+    "airHum": 51.62,
+    "soilTemp": 23.67,
+    "soilHum": 59.4,
+    "airPress": 1015.48,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016070800,
+    "light": 46,
+    "airTemp": 26.55,
+    "airHum": 51.51,
+    "soilTemp": 23.99,
+    "soilHum": 59.4,
+    "airPress": 1014.99,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016070801,
+    "light": 23,
+    "airTemp": 23.87,
+    "airHum": 59.39,
+    "soilTemp": 23.99,
+    "soilHum": 59.4,
+    "airPress": 1014.64,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016070802,
+    "light": 46,
+    "airTemp": 23.99,
+    "airHum": 59.35,
+    "soilTemp": 23.67,
+    "soilHum": 59.4,
+    "airPress": 1014.12,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016070803,
+    "light": 38,
+    "airTemp": 23.99,
+    "airHum": 59.16,
+    "soilTemp": 23.67,
+    "soilHum": 59.35,
+    "airPress": 1013.83,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016070804,
+    "light": 46,
+    "airTemp": 21.91,
+    "airHum": 59.08,
+    "soilTemp": 21.43,
+    "soilHum": 59.01,
+    "airPress": 1013.06,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016070805,
+    "light": 53,
+    "airTemp": 23.99,
+    "airHum": 59.39,
+    "soilTemp": 21.43,
+    "soilHum": 59.49,
+    "airPress": 1012.53,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016070806,
+    "light": 171,
+    "airTemp": 23.99,
+    "airHum": 59.24,
+    "soilTemp": 21.43,
+    "soilHum": 65.74,
+    "airPress": 1012.31,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016070807,
+    "light": 288,
+    "airTemp": 21.69,
+    "airHum": 59.05,
+    "soilTemp": 21.43,
+    "soilHum": 62.88,
+    "airPress": 1012.62,
+    "remainV": 5.05
+  },
+  {
+    "id": 32016070808,
+    "light": 776,
+    "airTemp": 23.99,
+    "airHum": 59.08,
+    "soilTemp": 21.49,
+    "soilHum": 64.72,
+    "airPress": 1012.52,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016070809,
+    "light": 1805,
+    "airTemp": 22.41,
+    "airHum": 59.17,
+    "soilTemp": 22.21,
+    "soilHum": 62.48,
+    "airPress": 1012.78,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016070810,
+    "light": 4607,
+    "airTemp": 21.99,
+    "airHum": 60.29,
+    "soilTemp": 23.99,
+    "soilHum": 67,
+    "airPress": 1012.92,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016070811,
+    "light": 2803,
+    "airTemp": 23.99,
+    "airHum": 59.22,
+    "soilTemp": 23.67,
+    "soilHum": 61.26,
+    "airPress": 1013.12,
+    "remainV": 5.05
+  },
+  {
+    "id": 32016070812,
+    "light": 6124,
+    "airTemp": 23.99,
+    "airHum": 59.36,
+    "soilTemp": 23.67,
+    "soilHum": 61.16,
+    "airPress": 1013.16,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016070813,
+    "light": 10617,
+    "airTemp": 25.29,
+    "airHum": 59.6,
+    "soilTemp": 22.45,
+    "soilHum": 59.16,
+    "airPress": 1013.16,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016070814,
+    "light": 11038,
+    "airTemp": 26.55,
+    "airHum": 51.77,
+    "soilTemp": 23.67,
+    "soilHum": 59.35,
+    "airPress": 1013.21,
+    "remainV": 5.05
+  },
+  {
+    "id": 32016070815,
+    "light": 6899,
+    "airTemp": 26.55,
+    "airHum": 51.6,
+    "soilTemp": 24.71,
+    "soilHum": 51.53,
+    "airPress": 1013.45,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016070816,
+    "light": 7411,
+    "airTemp": 26.55,
+    "airHum": 51.57,
+    "soilTemp": 24.95,
+    "soilHum": 51.56,
+    "airPress": 1013.75,
+    "remainV": 5.05
+  },
+  {
+    "id": 32016070817,
+    "light": 8265,
+    "airTemp": 23.83,
+    "airHum": 51.41,
+    "soilTemp": 24.17,
+    "soilHum": 51.47,
+    "airPress": 1014.13,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016070818,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 39.52,
+    "soilTemp": 24.73,
+    "soilHum": 51.54,
+    "airPress": 1014.65,
+    "remainV": 5.05
+  },
+  {
+    "id": 32016070819,
+    "light": 5257,
+    "airTemp": 31.67,
+    "airHum": 38.48,
+    "soilTemp": 25.21,
+    "soilHum": 51.6,
+    "airPress": 1015.31,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016070820,
+    "light": 1122,
+    "airTemp": 31.67,
+    "airHum": 42.06,
+    "soilTemp": 26.51,
+    "soilHum": 51.77,
+    "airPress": 1015.62,
+    "remainV": 5.05
+  },
+  {
+    "id": 32016070821,
+    "light": 221,
+    "airTemp": 26.55,
+    "airHum": 51.62,
+    "soilTemp": 25.03,
+    "soilHum": 51.58,
+    "airPress": 1016.31,
+    "remainV": 5.05
+  },
+  {
+    "id": 32016070822,
+    "light": 4,
+    "airTemp": 26.55,
+    "airHum": 51.5,
+    "soilTemp": 24.17,
+    "soilHum": 51.47,
+    "airPress": 1016.81,
+    "remainV": 5.05
+  },
+  {
+    "id": 32016070823,
+    "light": 12,
+    "airTemp": 26.55,
+    "airHum": 51.69,
+    "soilTemp": 23.35,
+    "soilHum": 51.35,
+    "airPress": 1017.05,
+    "remainV": 5.05
+  },
+  {
+    "id": 32016070900,
+    "light": 26,
+    "airTemp": 26.55,
+    "airHum": 51.6,
+    "soilTemp": 22.71,
+    "soilHum": 51.27,
+    "airPress": 1017.62,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070901,
+    "light": 33,
+    "airTemp": 24.99,
+    "airHum": 51.57,
+    "soilTemp": 22.39,
+    "soilHum": 51.23,
+    "airPress": 1017.95,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070902,
+    "light": 3,
+    "airTemp": 26.55,
+    "airHum": 51.53,
+    "soilTemp": 22.15,
+    "soilHum": 51.2,
+    "airPress": 1017.88,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070903,
+    "light": 23,
+    "airTemp": 26.55,
+    "airHum": 51.56,
+    "soilTemp": 22.23,
+    "soilHum": 51.22,
+    "airPress": 1017.41,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070904,
+    "light": 16,
+    "airTemp": 26.55,
+    "airHum": 51.52,
+    "soilTemp": 22.03,
+    "soilHum": 51.18,
+    "airPress": 1017.1,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070905,
+    "light": 73,
+    "airTemp": 26.55,
+    "airHum": 51.5,
+    "soilTemp": 21.93,
+    "soilHum": 51.17,
+    "airPress": 1017.06,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070906,
+    "light": 517,
+    "airTemp": 26.55,
+    "airHum": 51.5,
+    "soilTemp": 21.91,
+    "soilHum": 51.16,
+    "airPress": 1016.8,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070907,
+    "light": 2149,
+    "airTemp": 26.55,
+    "airHum": 51.51,
+    "soilTemp": 21.99,
+    "soilHum": 59.1,
+    "airPress": 1016.62,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070908,
+    "light": 1889,
+    "airTemp": 25.11,
+    "airHum": 51.58,
+    "soilTemp": 22.47,
+    "soilHum": 59.18,
+    "airPress": 1016.59,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070909,
+    "light": 3989,
+    "airTemp": 25.45,
+    "airHum": 51.63,
+    "soilTemp": 22.77,
+    "soilHum": 59.22,
+    "airPress": 1016.33,
+    "remainV": 5
+  },
+  {
+    "id": 32016070910,
+    "light": 3566,
+    "airTemp": 26.01,
+    "airHum": 51.71,
+    "soilTemp": 23.35,
+    "soilHum": 59.3,
+    "airPress": 1016.21,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070911,
+    "light": 3459,
+    "airTemp": 26.53,
+    "airHum": 51.78,
+    "soilTemp": 23.83,
+    "soilHum": 59.37,
+    "airPress": 1015.57,
+    "remainV": 5
+  },
+  {
+    "id": 32016070912,
+    "light": 7416,
+    "airTemp": 26.55,
+    "airHum": 51.59,
+    "soilTemp": 24.75,
+    "soilHum": 59.52,
+    "airPress": 1015.4,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070913,
+    "light": 3653,
+    "airTemp": 26.01,
+    "airHum": 51.71,
+    "soilTemp": 25.91,
+    "soilHum": 59.69,
+    "airPress": 1015.19,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016070914,
+    "light": 7139,
+    "airTemp": 26.27,
+    "airHum": 51.75,
+    "soilTemp": 26.23,
+    "soilHum": 59.74,
+    "airPress": 1014.99,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070915,
+    "light": 8319,
+    "airTemp": 26.55,
+    "airHum": 52.46,
+    "soilTemp": 26.43,
+    "soilHum": 59.78,
+    "airPress": 1014.96,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070916,
+    "light": 7918,
+    "airTemp": 31.67,
+    "airHum": 52.46,
+    "soilTemp": 24.65,
+    "soilHum": 51.53,
+    "airPress": 1014.58,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070917,
+    "light": 3826,
+    "airTemp": 31.67,
+    "airHum": 52.46,
+    "soilTemp": 24.11,
+    "soilHum": 51.46,
+    "airPress": 1013.57,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070918,
+    "light": 3561,
+    "airTemp": 26.55,
+    "airHum": 51.77,
+    "soilTemp": 26.39,
+    "soilHum": 59.77,
+    "airPress": 1013.63,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070919,
+    "light": 1546,
+    "airTemp": 25.97,
+    "airHum": 51.71,
+    "soilTemp": 25.91,
+    "soilHum": 59.69,
+    "airPress": 1013.1,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070920,
+    "light": 638,
+    "airTemp": 26.55,
+    "airHum": 51.64,
+    "soilTemp": 25.39,
+    "soilHum": 59.62,
+    "airPress": 1012.49,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070921,
+    "light": 414,
+    "airTemp": 26.55,
+    "airHum": 51.56,
+    "soilTemp": 25.11,
+    "soilHum": 59.57,
+    "airPress": 1012.31,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070922,
+    "light": 38,
+    "airTemp": 24.23,
+    "airHum": 59.44,
+    "soilTemp": 24.35,
+    "soilHum": 59.46,
+    "airPress": 1012.18,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016070923,
+    "light": 3,
+    "airTemp": 26.55,
+    "airHum": 59.74,
+    "soilTemp": 23.83,
+    "soilHum": 59.38,
+    "airPress": 1012.11,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071000,
+    "light": 18,
+    "airTemp": 26.55,
+    "airHum": 51.64,
+    "soilTemp": 23.35,
+    "soilHum": 59.3,
+    "airPress": 1011.8,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071001,
+    "light": 1,
+    "airTemp": 26.55,
+    "airHum": 59.55,
+    "soilTemp": 22.47,
+    "soilHum": 59.18,
+    "airPress": 1011,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071002,
+    "light": 3,
+    "airTemp": 26.55,
+    "airHum": 59.52,
+    "soilTemp": 22.15,
+    "soilHum": 59.13,
+    "airPress": 1010.1,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071003,
+    "light": 34,
+    "airTemp": 26.55,
+    "airHum": 59.47,
+    "soilTemp": 21.91,
+    "soilHum": 59.09,
+    "airPress": 1009.45,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071004,
+    "light": 28,
+    "airTemp": 24.47,
+    "airHum": 59.47,
+    "soilTemp": 21.91,
+    "soilHum": 59.08,
+    "airPress": 1008.74,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071005,
+    "light": 66,
+    "airTemp": 24.25,
+    "airHum": 59.45,
+    "soilTemp": 21.75,
+    "soilHum": 61.94,
+    "airPress": 1008.01,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071006,
+    "light": 462,
+    "airTemp": 26.55,
+    "airHum": 59.45,
+    "soilTemp": 21.71,
+    "soilHum": 61.93,
+    "airPress": 1008.01,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071007,
+    "light": 1063,
+    "airTemp": 26.55,
+    "airHum": 59.48,
+    "soilTemp": 21.91,
+    "soilHum": 62.84,
+    "airPress": 1007.85,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071008,
+    "light": 1597,
+    "airTemp": 26.55,
+    "airHum": 59.47,
+    "soilTemp": 21.99,
+    "soilHum": 65.07,
+    "airPress": 1007.62,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071009,
+    "light": 1929,
+    "airTemp": 26.55,
+    "airHum": 59.5,
+    "soilTemp": 22.11,
+    "soilHum": 64.82,
+    "airPress": 1007.5,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071010,
+    "light": 1728,
+    "airTemp": 24.95,
+    "airHum": 59.55,
+    "soilTemp": 22.19,
+    "soilHum": 59.54,
+    "airPress": 1007.31,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071011,
+    "light": 2428,
+    "airTemp": 26.55,
+    "airHum": 59.57,
+    "soilTemp": 22.21,
+    "soilHum": 62.01,
+    "airPress": 1006.76,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071012,
+    "light": 2782,
+    "airTemp": 26.55,
+    "airHum": 59.6,
+    "soilTemp": 22.55,
+    "soilHum": 62.18,
+    "airPress": 1006.5,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071013,
+    "light": 2640,
+    "airTemp": 26.55,
+    "airHum": 59.63,
+    "soilTemp": 22.75,
+    "soilHum": 60.66,
+    "airPress": 1006.21,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071014,
+    "light": 4416,
+    "airTemp": 26.55,
+    "airHum": 59.74,
+    "soilTemp": 23.35,
+    "soilHum": 65.03,
+    "airPress": 1006.03,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071015,
+    "light": 28514,
+    "airTemp": 26.55,
+    "airHum": 51.53,
+    "soilTemp": 24.47,
+    "soilHum": 60.58,
+    "airPress": 1005.53,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071016,
+    "light": 25278,
+    "airTemp": 31.67,
+    "airHum": 43.7,
+    "soilTemp": 25.41,
+    "soilHum": 51.63,
+    "airPress": 1005.22,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071017,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 42.88,
+    "soilTemp": 31.67,
+    "soilHum": 52.46,
+    "airPress": 1004.8,
+    "remainV": 5.05
+  },
+  {
+    "id": 32016071018,
+    "light": 31786,
+    "airTemp": 31.67,
+    "airHum": 42.88,
+    "soilTemp": 31.67,
+    "soilHum": 43.99,
+    "airPress": 1004.85,
+    "remainV": 5.05
+  },
+  {
+    "id": 32016071019,
+    "light": 5190,
+    "airTemp": 31.67,
+    "airHum": 43.43,
+    "soilTemp": 31.67,
+    "soilHum": 44.01,
+    "airPress": 1004.69,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071020,
+    "light": 1910,
+    "airTemp": 31.67,
+    "airHum": 41.79,
+    "soilTemp": 24.99,
+    "soilHum": 51.57,
+    "airPress": 1004.83,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071021,
+    "light": 354,
+    "airTemp": 25.11,
+    "airHum": 51.6,
+    "soilTemp": 25.35,
+    "soilHum": 51.62,
+    "airPress": 1004.71,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071022,
+    "light": 36,
+    "airTemp": 26.55,
+    "airHum": 51.75,
+    "soilTemp": 23.91,
+    "soilHum": 51.43,
+    "airPress": 1004.94,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071023,
+    "light": 1,
+    "airTemp": 26.55,
+    "airHum": 51.58,
+    "soilTemp": 22.71,
+    "soilHum": 59.21,
+    "airPress": 1005.03,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071100,
+    "light": 1,
+    "airTemp": 26.55,
+    "airHum": 51.48,
+    "soilTemp": 21.99,
+    "soilHum": 59.1,
+    "airPress": 1004.99,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071101,
+    "light": 8,
+    "airTemp": 23.99,
+    "airHum": 51.41,
+    "soilTemp": 23.69,
+    "soilHum": 59.36,
+    "airPress": 1004.76,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071102,
+    "light": 1,
+    "airTemp": 23.73,
+    "airHum": 51.41,
+    "soilTemp": 23.67,
+    "soilHum": 59.35,
+    "airPress": 1004.35,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071103,
+    "light": 4,
+    "airTemp": 23.99,
+    "airHum": 51.39,
+    "soilTemp": 23.43,
+    "soilHum": 59.32,
+    "airPress": 1004.03,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071104,
+    "light": 60,
+    "airTemp": 23.99,
+    "airHum": 51.35,
+    "soilTemp": 23.35,
+    "soilHum": 59.3,
+    "airPress": 1003.72,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071105,
+    "light": 85,
+    "airTemp": 23.99,
+    "airHum": 59.25,
+    "soilTemp": 23.35,
+    "soilHum": 59.3,
+    "airPress": 1003.58,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071106,
+    "light": 557,
+    "airTemp": 22.95,
+    "airHum": 59.24,
+    "soilTemp": 22.95,
+    "soilHum": 59.25,
+    "airPress": 1003.48,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071107,
+    "light": 1735,
+    "airTemp": 23.35,
+    "airHum": 51.35,
+    "soilTemp": 23.35,
+    "soilHum": 59.3,
+    "airPress": 1003.84,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071108,
+    "light": 2702,
+    "airTemp": 23.99,
+    "airHum": 51.35,
+    "soilTemp": 23.35,
+    "soilHum": 59.3,
+    "airPress": 1004.14,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071109,
+    "light": 2994,
+    "airTemp": 23.91,
+    "airHum": 51.43,
+    "soilTemp": 23.71,
+    "soilHum": 59.36,
+    "airPress": 1004.57,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071110,
+    "light": 2467,
+    "airTemp": 26.55,
+    "airHum": 51.49,
+    "soilTemp": 21.67,
+    "soilHum": 59.05,
+    "airPress": 1004.9,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071111,
+    "light": 6233,
+    "airTemp": 24.69,
+    "airHum": 51.53,
+    "soilTemp": 22.11,
+    "soilHum": 59.12,
+    "airPress": 1005.4,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071112,
+    "light": 6317,
+    "airTemp": 22.39,
+    "airHum": 59.18,
+    "soilTemp": 22.39,
+    "soilHum": 59.15,
+    "airPress": 1005.7,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071113,
+    "light": 7266,
+    "airTemp": 26.55,
+    "airHum": 51.48,
+    "soilTemp": 23.99,
+    "soilHum": 60.58,
+    "airPress": 1005.65,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071114,
+    "light": 10727,
+    "airTemp": 26.55,
+    "airHum": 51.57,
+    "soilTemp": 24.77,
+    "soilHum": 59.55,
+    "airPress": 1005.92,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071115,
+    "light": 4260,
+    "airTemp": 26.55,
+    "airHum": 51.7,
+    "soilTemp": 25.59,
+    "soilHum": 59.69,
+    "airPress": 1006.3,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071116,
+    "light": 18011,
+    "airTemp": 26.55,
+    "airHum": 59.55,
+    "soilTemp": 24.69,
+    "soilHum": 59.52,
+    "airPress": 1006.57,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071117,
+    "light": 2881,
+    "airTemp": 26.55,
+    "airHum": 59.55,
+    "soilTemp": 24.65,
+    "soilHum": 59.51,
+    "airPress": 1006.76,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071211,
+    "light": 1931,
+    "airTemp": 23.99,
+    "airHum": 51.36,
+    "soilTemp": 23.99,
+    "soilHum": 51.44,
+    "airPress": 1009.22,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016071214,
+    "light": 3177,
+    "airTemp": 23.99,
+    "airHum": 59.1,
+    "soilTemp": 22.39,
+    "soilHum": 59.15,
+    "airPress": 1009.55,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071412,
+    "light": 1732,
+    "airTemp": 26.51,
+    "airHum": 51.78,
+    "soilTemp": 26.47,
+    "soilHum": 51.45,
+    "airPress": 1022.13,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071413,
+    "light": 2,
+    "airTemp": 24.61,
+    "airHum": 41.03,
+    "soilTemp": 24.29,
+    "soilHum": 51.48,
+    "airPress": 1022.28,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071414,
+    "light": 9047,
+    "airTemp": 25.01,
+    "airHum": 32.27,
+    "soilTemp": 24.17,
+    "soilHum": 40.98,
+    "airPress": 1023.5,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071415,
+    "light": 15301,
+    "airTemp": 26.55,
+    "airHum": 35.7,
+    "soilTemp": 22.47,
+    "soilHum": 35.23,
+    "airPress": 1023.45,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071416,
+    "light": 254,
+    "airTemp": 26.55,
+    "airHum": 32.35,
+    "soilTemp": 24.15,
+    "soilHum": 40.99,
+    "airPress": 1023.69,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071417,
+    "light": 65535,
+    "airTemp": 25.45,
+    "airHum": 61.75,
+    "soilTemp": 24.71,
+    "soilHum": 97.08,
+    "airPress": 1023.25,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071418,
+    "light": 65535,
+    "airTemp": 23.99,
+    "airHum": 65.12,
+    "soilTemp": 23.73,
+    "soilHum": 94.92,
+    "airPress": 1023.22,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071419,
+    "light": 65535,
+    "airTemp": 26.23,
+    "airHum": 66.58,
+    "soilTemp": 24.73,
+    "soilHum": 96.47,
+    "airPress": 1023.44,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071420,
+    "light": 39085,
+    "airTemp": 23.67,
+    "airHum": 73.39,
+    "soilTemp": 24.25,
+    "soilHum": 96.16,
+    "airPress": 1023.49,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071421,
+    "light": 9480,
+    "airTemp": 21.43,
+    "airHum": 70.35,
+    "soilTemp": 21.73,
+    "soilHum": 98.27,
+    "airPress": 1023.77,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071422,
+    "light": 23,
+    "airTemp": 21.43,
+    "airHum": 75.03,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1024.35,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071423,
+    "light": 12,
+    "airTemp": 21.43,
+    "airHum": 76.32,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1024.53,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071500,
+    "light": 12,
+    "airTemp": 21.43,
+    "airHum": 93.06,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1024.64,
+    "remainV": 5
+  },
+  {
+    "id": 32016071501,
+    "light": 12,
+    "airTemp": 21.43,
+    "airHum": 93.06,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1024.74,
+    "remainV": 5
+  },
+  {
+    "id": 32016071502,
+    "light": 12,
+    "airTemp": 21.43,
+    "airHum": 93.06,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1024.6,
+    "remainV": 5
+  },
+  {
+    "id": 32016071503,
+    "light": 12,
+    "airTemp": 21.43,
+    "airHum": 93.06,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1024.66,
+    "remainV": 5
+  },
+  {
+    "id": 32016071504,
+    "light": 16,
+    "airTemp": 21.43,
+    "airHum": 93.06,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1024.74,
+    "remainV": 5
+  },
+  {
+    "id": 32016071505,
+    "light": 4074,
+    "airTemp": 21.43,
+    "airHum": 93.06,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1024.6,
+    "remainV": 5
+  },
+  {
+    "id": 32016071506,
+    "light": 37983,
+    "airTemp": 21.43,
+    "airHum": 93.06,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1024.82,
+    "remainV": 5
+  },
+  {
+    "id": 32016071507,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 75.3,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1024.85,
+    "remainV": 5
+  },
+  {
+    "id": 32016071508,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 71.97,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1025.17,
+    "remainV": 5
+  },
+  {
+    "id": 32016071509,
+    "light": 65535,
+    "airTemp": 23.99,
+    "airHum": 74.05,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1025.07,
+    "remainV": 4.94
+  },
+  {
+    "id": 32016071510,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 52.46,
+    "soilTemp": 23.93,
+    "soilHum": 96.35,
+    "airPress": 1024.87,
+    "remainV": 4.95
+  },
+  {
+    "id": 32016071511,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 40.48,
+    "soilTemp": 24.13,
+    "soilHum": 97.42,
+    "airPress": 1025.02,
+    "remainV": 4.95
+  },
+  {
+    "id": 32016071512,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 52.46,
+    "soilTemp": 24.49,
+    "soilHum": 97.94,
+    "airPress": 1024.91,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016071513,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 52.46,
+    "soilTemp": 26.23,
+    "soilHum": 97.33,
+    "airPress": 1024.97,
+    "remainV": 4.94
+  },
+  {
+    "id": 32016071514,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 52.46,
+    "soilTemp": 26.51,
+    "soilHum": 98.03,
+    "airPress": 1024.74,
+    "remainV": 5
+  },
+  {
+    "id": 32016071515,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 42.88,
+    "soilTemp": 31.67,
+    "soilHum": 97.94,
+    "airPress": 1024.81,
+    "remainV": 5
+  },
+  {
+    "id": 32016071516,
+    "light": 65535,
+    "airTemp": 25.51,
+    "airHum": 59.64,
+    "soilTemp": 26.47,
+    "soilHum": 98.74,
+    "airPress": 1024.45,
+    "remainV": 5
+  },
+  {
+    "id": 32016071517,
+    "light": 65535,
+    "airTemp": 23.99,
+    "airHum": 63.81,
+    "soilTemp": 23.67,
+    "soilHum": 99.03,
+    "airPress": 1024.37,
+    "remainV": 4.94
+  },
+  {
+    "id": 32016071518,
+    "light": 65535,
+    "airTemp": 23.99,
+    "airHum": 63.85,
+    "soilTemp": 23.67,
+    "soilHum": 104.78,
+    "airPress": 1024.31,
+    "remainV": 4.96
+  },
+  {
+    "id": 32016071519,
+    "light": 65535,
+    "airTemp": 22.39,
+    "airHum": 70.33,
+    "soilTemp": 22.05,
+    "soilHum": 104.31,
+    "airPress": 1023.84,
+    "remainV": 4.96
+  },
+  {
+    "id": 32016071520,
+    "light": 60901,
+    "airTemp": 22.65,
+    "airHum": 73.1,
+    "soilTemp": 21.91,
+    "soilHum": 104.25,
+    "airPress": 1023.44,
+    "remainV": 4.97
+  },
+  {
+    "id": 32016071521,
+    "light": 24532,
+    "airTemp": 23.99,
+    "airHum": 70.06,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1023.57,
+    "remainV": 4.94
+  },
+  {
+    "id": 32016071522,
+    "light": 26,
+    "airTemp": 21.43,
+    "airHum": 78.87,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1023.76,
+    "remainV": 4.97
+  },
+  {
+    "id": 32016071523,
+    "light": 17,
+    "airTemp": 21.43,
+    "airHum": 79.71,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1023.71,
+    "remainV": 4.96
+  },
+  {
+    "id": 32016071600,
+    "light": 18,
+    "airTemp": 21.43,
+    "airHum": 75.25,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1023.71,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071601,
+    "light": 14,
+    "airTemp": 21.43,
+    "airHum": 76.86,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1023.65,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071602,
+    "light": 17,
+    "airTemp": 21.43,
+    "airHum": 75.73,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1023.74,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071603,
+    "light": 14,
+    "airTemp": 21.43,
+    "airHum": 76.75,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1023.36,
+    "remainV": 4.94
+  },
+  {
+    "id": 32016071604,
+    "light": 13,
+    "airTemp": 21.43,
+    "airHum": 78.87,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1023.15,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071605,
+    "light": 3527,
+    "airTemp": 21.43,
+    "airHum": 93.06,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1023.32,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071606,
+    "light": 29828,
+    "airTemp": 21.43,
+    "airHum": 80.43,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1023.4,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071607,
+    "light": 35689,
+    "airTemp": 21.43,
+    "airHum": 93.06,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1023.72,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071608,
+    "light": 65535,
+    "airTemp": 23.99,
+    "airHum": 74.63,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1023.89,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071609,
+    "light": 65535,
+    "airTemp": 23.99,
+    "airHum": 70.64,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1024.32,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071610,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 64.38,
+    "soilTemp": 22.91,
+    "soilHum": 99.83,
+    "airPress": 1024.03,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071611,
+    "light": 65535,
+    "airTemp": 36.79,
+    "airHum": 53.14,
+    "soilTemp": 31.67,
+    "soilHum": 98.33,
+    "airPress": 1023.61,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071612,
+    "light": 65535,
+    "airTemp": 36.79,
+    "airHum": 53.14,
+    "soilTemp": 31.67,
+    "soilHum": 103.77,
+    "airPress": 1023.42,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071613,
+    "light": 65535,
+    "airTemp": 39.35,
+    "airHum": 39.24,
+    "soilTemp": 31.91,
+    "soilHum": 98.37,
+    "airPress": 1023.21,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071614,
+    "light": 65535,
+    "airTemp": 39.35,
+    "airHum": 42.61,
+    "soilTemp": 32.39,
+    "soilHum": 98.48,
+    "airPress": 1022.9,
+    "remainV": 4.94
+  },
+  {
+    "id": 32016071615,
+    "light": 65535,
+    "airTemp": 44.47,
+    "airHum": 31.32,
+    "soilTemp": 36.79,
+    "soilHum": 97.56,
+    "airPress": 1022.49,
+    "remainV": 4.97
+  },
+  {
+    "id": 32016071616,
+    "light": 65535,
+    "airTemp": 36.79,
+    "airHum": 44.34,
+    "soilTemp": 33.59,
+    "soilHum": 100.67,
+    "airPress": 1022.21,
+    "remainV": 4.95
+  },
+  {
+    "id": 32016071617,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 52.46,
+    "soilTemp": 31.67,
+    "soilHum": 96.81,
+    "airPress": 1021.97,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071618,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 60.58,
+    "soilTemp": 31.67,
+    "soilHum": 100.73,
+    "airPress": 1021.67,
+    "remainV": 4.95
+  },
+  {
+    "id": 32016071619,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 60.58,
+    "soilTemp": 31.67,
+    "soilHum": 101.35,
+    "airPress": 1021.79,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071620,
+    "light": 63895,
+    "airTemp": 31.67,
+    "airHum": 62.3,
+    "soilTemp": 31.67,
+    "soilHum": 101.53,
+    "airPress": 1021.73,
+    "remainV": 4.96
+  },
+  {
+    "id": 32016071621,
+    "light": 6810,
+    "airTemp": 25.91,
+    "airHum": 63.07,
+    "soilTemp": 25.91,
+    "soilHum": 100.92,
+    "airPress": 1021.77,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071622,
+    "light": 20,
+    "airTemp": 25.23,
+    "airHum": 73.7,
+    "soilTemp": 25.91,
+    "soilHum": 105.44,
+    "airPress": 1021.98,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071623,
+    "light": 12,
+    "airTemp": 23.99,
+    "airHum": 69.75,
+    "soilTemp": 23.73,
+    "soilHum": 104.79,
+    "airPress": 1022.09,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071700,
+    "light": 13,
+    "airTemp": 21.91,
+    "airHum": 73.05,
+    "soilTemp": 22.39,
+    "soilHum": 104.39,
+    "airPress": 1021.9,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071701,
+    "light": 13,
+    "airTemp": 23.99,
+    "airHum": 77.67,
+    "soilTemp": 23.69,
+    "soilHum": 104.79,
+    "airPress": 1021.83,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071702,
+    "light": 13,
+    "airTemp": 23.99,
+    "airHum": 79.34,
+    "soilTemp": 23.03,
+    "soilHum": 104.58,
+    "airPress": 1021.91,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071703,
+    "light": 17,
+    "airTemp": 23.99,
+    "airHum": 78.36,
+    "soilTemp": 22.41,
+    "soilHum": 104.4,
+    "airPress": 1021.65,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016071704,
+    "light": 18,
+    "airTemp": 23.99,
+    "airHum": 75.41,
+    "soilTemp": 21.95,
+    "soilHum": 104.28,
+    "airPress": 1021.49,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071705,
+    "light": 1994,
+    "airTemp": 23.99,
+    "airHum": 74.63,
+    "soilTemp": 21.69,
+    "soilHum": 104.2,
+    "airPress": 1021.36,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071706,
+    "light": 23291,
+    "airTemp": 23.99,
+    "airHum": 76.11,
+    "soilTemp": 21.55,
+    "soilHum": 104.16,
+    "airPress": 1021.21,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071707,
+    "light": 65535,
+    "airTemp": 23.99,
+    "airHum": 75.15,
+    "soilTemp": 22.17,
+    "soilHum": 104.34,
+    "airPress": 1021.49,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071708,
+    "light": 65535,
+    "airTemp": 25.19,
+    "airHum": 74.22,
+    "soilTemp": 23.83,
+    "soilHum": 104.82,
+    "airPress": 1021.65,
+    "remainV": 4.96
+  },
+  {
+    "id": 32016071709,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 68.33,
+    "soilTemp": 25.19,
+    "soilHum": 105.2,
+    "airPress": 1021.34,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071710,
+    "light": 65535,
+    "airTemp": 34.23,
+    "airHum": 52.79,
+    "soilTemp": 31.67,
+    "soilHum": 98.96,
+    "airPress": 1021.28,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071711,
+    "light": 65535,
+    "airTemp": 36.79,
+    "airHum": 53.14,
+    "soilTemp": 31.67,
+    "soilHum": 97.56,
+    "airPress": 1021.12,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071712,
+    "light": 65535,
+    "airTemp": 34.23,
+    "airHum": 52.58,
+    "soilTemp": 31.67,
+    "soilHum": 97.47,
+    "airPress": 1020.89,
+    "remainV": 4.96
+  },
+  {
+    "id": 32016071713,
+    "light": 65535,
+    "airTemp": 34.23,
+    "airHum": 52.51,
+    "soilTemp": 31.67,
+    "soilHum": 101.02,
+    "airPress": 1020.74,
+    "remainV": 4.95
+  },
+  {
+    "id": 32016071714,
+    "light": 65535,
+    "airTemp": 32.63,
+    "airHum": 52.58,
+    "soilTemp": 31.67,
+    "soilHum": 100.63,
+    "airPress": 1020.64,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071715,
+    "light": 65535,
+    "airTemp": 34.23,
+    "airHum": 43.56,
+    "soilTemp": 31.67,
+    "soilHum": 104.05,
+    "airPress": 1020.25,
+    "remainV": 4.96
+  },
+  {
+    "id": 32016071716,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 68.8,
+    "soilTemp": 31.67,
+    "soilHum": 100.63,
+    "airPress": 1019.55,
+    "remainV": 4.96
+  },
+  {
+    "id": 32016071717,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 73.96,
+    "soilTemp": 31.67,
+    "soilHum": 101.53,
+    "airPress": 1019.41,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071718,
+    "light": 65535,
+    "airTemp": 26.39,
+    "airHum": 76.89,
+    "soilTemp": 31.67,
+    "soilHum": 107.14,
+    "airPress": 1019.25,
+    "remainV": 4.97
+  },
+  {
+    "id": 32016071719,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 63.04,
+    "soilTemp": 31.67,
+    "soilHum": 101.53,
+    "airPress": 1019.2,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071720,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 61.32,
+    "soilTemp": 31.67,
+    "soilHum": 101.53,
+    "airPress": 1019.42,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071721,
+    "light": 7630,
+    "airTemp": 26.55,
+    "airHum": 72.85,
+    "soilTemp": 24.77,
+    "soilHum": 107.14,
+    "airPress": 1019.8,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071722,
+    "light": 22,
+    "airTemp": 26.55,
+    "airHum": 73.97,
+    "soilTemp": 24.65,
+    "soilHum": 105.07,
+    "airPress": 1020.24,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071723,
+    "light": 14,
+    "airTemp": 23.99,
+    "airHum": 77.96,
+    "soilTemp": 22.91,
+    "soilHum": 104.56,
+    "airPress": 1020.52,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016071800,
+    "light": 11,
+    "airTemp": 23.99,
+    "airHum": 75.07,
+    "soilTemp": 23.67,
+    "soilHum": 104.78,
+    "airPress": 1020.68,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071801,
+    "light": 11,
+    "airTemp": 22.15,
+    "airHum": 80.38,
+    "soilTemp": 21.77,
+    "soilHum": 104.25,
+    "airPress": 1020.66,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071802,
+    "light": 12,
+    "airTemp": 21.43,
+    "airHum": 93.06,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1020.62,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071803,
+    "light": 12,
+    "airTemp": 21.43,
+    "airHum": 93.06,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1020.47,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071804,
+    "light": 14,
+    "airTemp": 21.43,
+    "airHum": 93.06,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1020.26,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071805,
+    "light": 3457,
+    "airTemp": 21.43,
+    "airHum": 93.06,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1020.22,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071806,
+    "light": 28173,
+    "airTemp": 21.43,
+    "airHum": 93.06,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1020.57,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071807,
+    "light": 39603,
+    "airTemp": 21.43,
+    "airHum": 93.06,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1020.74,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071808,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 93.06,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1020.77,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071809,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 69.98,
+    "soilTemp": 22.63,
+    "soilHum": 105.63,
+    "airPress": 1020.85,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071810,
+    "light": 65535,
+    "airTemp": 34.23,
+    "airHum": 60.79,
+    "soilTemp": 31.67,
+    "soilHum": 100.15,
+    "airPress": 1020.85,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071811,
+    "light": 65535,
+    "airTemp": 39.35,
+    "airHum": 40.86,
+    "soilTemp": 31.67,
+    "soilHum": 103.11,
+    "airPress": 1020.97,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071812,
+    "light": 65535,
+    "airTemp": 36.79,
+    "airHum": 53.14,
+    "soilTemp": 31.67,
+    "soilHum": 103.21,
+    "airPress": 1020.87,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071813,
+    "light": 65535,
+    "airTemp": 41.91,
+    "airHum": 41.69,
+    "soilTemp": 32.99,
+    "soilHum": 96.02,
+    "airPress": 1020.56,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071814,
+    "light": 65535,
+    "airTemp": 49.59,
+    "airHum": 27.17,
+    "soilTemp": 39.35,
+    "soilHum": 97.64,
+    "airPress": 1020.33,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071815,
+    "light": 65535,
+    "airTemp": 49.59,
+    "airHum": 28.47,
+    "soilTemp": 39.35,
+    "soilHum": 97.64,
+    "airPress": 1019.72,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071816,
+    "light": 65535,
+    "airTemp": 39.35,
+    "airHum": 43.72,
+    "soilTemp": 36.79,
+    "soilHum": 96.98,
+    "airPress": 1019.31,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071817,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 60.58,
+    "soilTemp": 31.67,
+    "soilHum": 101.55,
+    "airPress": 1018.9,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071818,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 60.58,
+    "soilTemp": 31.67,
+    "soilHum": 101.31,
+    "airPress": 1018.39,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071819,
+    "light": 65535,
+    "airTemp": 32.79,
+    "airHum": 60.75,
+    "soilTemp": 31.67,
+    "soilHum": 100.63,
+    "airPress": 1018.32,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071820,
+    "light": 65535,
+    "airTemp": 32.63,
+    "airHum": 60.72,
+    "soilTemp": 31.67,
+    "soilHum": 101.59,
+    "airPress": 1018.35,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071821,
+    "light": 7420,
+    "airTemp": 31.67,
+    "airHum": 67.86,
+    "soilTemp": 31.67,
+    "soilHum": 100.15,
+    "airPress": 1018.73,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071822,
+    "light": 21,
+    "airTemp": 26.55,
+    "airHum": 69.24,
+    "soilTemp": 25.55,
+    "soilHum": 99.76,
+    "airPress": 1019.17,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071823,
+    "light": 12,
+    "airTemp": 25.91,
+    "airHum": 74.49,
+    "soilTemp": 25.91,
+    "soilHum": 105.44,
+    "airPress": 1019.33,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071900,
+    "light": 11,
+    "airTemp": 23.99,
+    "airHum": 70.21,
+    "soilTemp": 23.83,
+    "soilHum": 104.82,
+    "airPress": 1019.53,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071901,
+    "light": 11,
+    "airTemp": 23.99,
+    "airHum": 75.03,
+    "soilTemp": 21.67,
+    "soilHum": 104.77,
+    "airPress": 1019.15,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071902,
+    "light": 12,
+    "airTemp": 22.39,
+    "airHum": 80.69,
+    "soilTemp": 22.55,
+    "soilHum": 104.44,
+    "airPress": 1018.71,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071903,
+    "light": 12,
+    "airTemp": 21.43,
+    "airHum": 74.54,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1018.59,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071904,
+    "light": 13,
+    "airTemp": 21.43,
+    "airHum": 77.12,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1018.14,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071905,
+    "light": 3388,
+    "airTemp": 21.43,
+    "airHum": 78.87,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1017.88,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071906,
+    "light": 28680,
+    "airTemp": 21.43,
+    "airHum": 93.06,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1017.87,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071907,
+    "light": 51102,
+    "airTemp": 21.43,
+    "airHum": 76.38,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1017.91,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071908,
+    "light": 65535,
+    "airTemp": 23.99,
+    "airHum": 79.56,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1017.6,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071909,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 62.3,
+    "soilTemp": 24.55,
+    "soilHum": 107.14,
+    "airPress": 1017.36,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071910,
+    "light": 65535,
+    "airTemp": 39.35,
+    "airHum": 53.48,
+    "soilTemp": 31.67,
+    "soilHum": 100.87,
+    "airPress": 1017.07,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071911,
+    "light": 65535,
+    "airTemp": 43.03,
+    "airHum": 43.01,
+    "soilTemp": 32.93,
+    "soilHum": 96.01,
+    "airPress": 1016.74,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071912,
+    "light": 65535,
+    "airTemp": 41.91,
+    "airHum": 38.36,
+    "soilTemp": 36.79,
+    "soilHum": 96.98,
+    "airPress": 1016.42,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071913,
+    "light": 65535,
+    "airTemp": 44.47,
+    "airHum": 43.13,
+    "soilTemp": 39.35,
+    "soilHum": 97.64,
+    "airPress": 1015.93,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071914,
+    "light": 65535,
+    "airTemp": 52.15,
+    "airHum": 27.32,
+    "soilTemp": 42.87,
+    "soilHum": 99.6,
+    "airPress": 1015.3,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071915,
+    "light": 65535,
+    "airTemp": 52.15,
+    "airHum": 27.31,
+    "soilTemp": 42.39,
+    "soilHum": 98.41,
+    "airPress": 1015.05,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016071916,
+    "light": 65535,
+    "airTemp": 41.91,
+    "airHum": 42.69,
+    "soilTemp": 39.41,
+    "soilHum": 97.66,
+    "airPress": 1014.48,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071917,
+    "light": 65535,
+    "airTemp": 36.79,
+    "airHum": 61.36,
+    "soilTemp": 36.79,
+    "soilHum": 99.28,
+    "airPress": 1013.95,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071918,
+    "light": 65535,
+    "airTemp": 33.91,
+    "airHum": 60.92,
+    "soilTemp": 33.03,
+    "soilHum": 100.89,
+    "airPress": 1013.49,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071919,
+    "light": 65535,
+    "airTemp": 36.79,
+    "airHum": 61.36,
+    "soilTemp": 33.07,
+    "soilHum": 100.88,
+    "airPress": 1013.34,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071920,
+    "light": 65535,
+    "airTemp": 32.23,
+    "airHum": 60.67,
+    "soilTemp": 33.59,
+    "soilHum": 99.84,
+    "airPress": 1013.05,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071921,
+    "light": 5379,
+    "airTemp": 31.67,
+    "airHum": 60.58,
+    "soilTemp": 31.67,
+    "soilHum": 98.03,
+    "airPress": 1012.62,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071922,
+    "light": 19,
+    "airTemp": 31.67,
+    "airHum": 66.43,
+    "soilTemp": 31.67,
+    "soilHum": 100.15,
+    "airPress": 1012.35,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016071923,
+    "light": 14,
+    "airTemp": 26.55,
+    "airHum": 62.39,
+    "soilTemp": 26.07,
+    "soilHum": 98.63,
+    "airPress": 1011.72,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016072000,
+    "light": 12,
+    "airTemp": 26.55,
+    "airHum": 68.78,
+    "soilTemp": 26.51,
+    "soilHum": 105.61,
+    "airPress": 1011.26,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016072001,
+    "light": 13,
+    "airTemp": 25.11,
+    "airHum": 70.73,
+    "soilTemp": 25.27,
+    "soilHum": 105.26,
+    "airPress": 1010.48,
+    "remainV": 5
+  },
+  {
+    "id": 32016072002,
+    "light": 15,
+    "airTemp": 25.37,
+    "airHum": 74.39,
+    "soilTemp": 24.65,
+    "soilHum": 105.07,
+    "airPress": 1009.84,
+    "remainV": 5
+  },
+  {
+    "id": 32016072003,
+    "light": 12,
+    "airTemp": 26.55,
+    "airHum": 70.09,
+    "soilTemp": 23.99,
+    "soilHum": 104.88,
+    "airPress": 1008.89,
+    "remainV": 5
+  },
+  {
+    "id": 32016072004,
+    "light": 14,
+    "airTemp": 23.99,
+    "airHum": 73.28,
+    "soilTemp": 23.01,
+    "soilHum": 104.68,
+    "airPress": 1007.71,
+    "remainV": 5
+  },
+  {
+    "id": 32016072005,
+    "light": 5751,
+    "airTemp": 23.99,
+    "airHum": 73.77,
+    "soilTemp": 22.41,
+    "soilHum": 104.41,
+    "airPress": 1006.86,
+    "remainV": 5
+  },
+  {
+    "id": 32016072006,
+    "light": 49594,
+    "airTemp": 26.55,
+    "airHum": 75.01,
+    "soilTemp": 22.85,
+    "soilHum": 104.54,
+    "airPress": 1006.52,
+    "remainV": 5
+  },
+  {
+    "id": 32016072007,
+    "light": 65535,
+    "airTemp": 26.55,
+    "airHum": 73.57,
+    "soilTemp": 24.61,
+    "soilHum": 105.06,
+    "airPress": 1006.06,
+    "remainV": 5
+  },
+  {
+    "id": 32016072008,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 73.9,
+    "soilTemp": 26.23,
+    "soilHum": 100.87,
+    "airPress": 1005.53,
+    "remainV": 5
+  },
+  {
+    "id": 32016072009,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 60.58,
+    "soilTemp": 31.67,
+    "soilHum": 98.49,
+    "airPress": 1006.02,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016072010,
+    "light": 65535,
+    "airTemp": 36.79,
+    "airHum": 37.65,
+    "soilTemp": 31.67,
+    "soilHum": 97.28,
+    "airPress": 1006.49,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016072011,
+    "light": 65535,
+    "airTemp": 36.79,
+    "airHum": 37.29,
+    "soilTemp": 31.67,
+    "soilHum": 95.67,
+    "airPress": 1006.67,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016072012,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 60.58,
+    "soilTemp": 31.67,
+    "soilHum": 102.69,
+    "airPress": 1007.47,
+    "remainV": 4.97
+  },
+  {
+    "id": 32016072013,
+    "light": 65535,
+    "airTemp": 36.79,
+    "airHum": 42.34,
+    "soilTemp": 33.59,
+    "soilHum": 96.16,
+    "airPress": 1007.35,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016072014,
+    "light": 65535,
+    "airTemp": 44.47,
+    "airHum": 43.13,
+    "soilTemp": 36.79,
+    "soilHum": 96.98,
+    "airPress": 1007.5,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016072015,
+    "light": 65535,
+    "airTemp": 47.03,
+    "airHum": 31.69,
+    "soilTemp": 36.79,
+    "soilHum": 96.98,
+    "airPress": 1007.75,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016072016,
+    "light": 65535,
+    "airTemp": 36.79,
+    "airHum": 43.99,
+    "soilTemp": 34.07,
+    "soilHum": 99.27,
+    "airPress": 1007.86,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016072017,
+    "light": 65535,
+    "airTemp": 32.33,
+    "airHum": 60.68,
+    "soilTemp": 32.23,
+    "soilHum": 96.39,
+    "airPress": 1007.99,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016072018,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 60.58,
+    "soilTemp": 31.67,
+    "soilHum": 101.4,
+    "airPress": 1008.34,
+    "remainV": 4.95
+  },
+  {
+    "id": 32016072019,
+    "light": 65535,
+    "airTemp": 34.23,
+    "airHum": 35.39,
+    "soilTemp": 31.67,
+    "soilHum": 100.63,
+    "airPress": 1008.55,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016072020,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 60.58,
+    "soilTemp": 31.67,
+    "soilHum": 98.49,
+    "airPress": 1009.25,
+    "remainV": 5
+  },
+  {
+    "id": 32016072021,
+    "light": 6609,
+    "airTemp": 31.67,
+    "airHum": 60.58,
+    "soilTemp": 31.67,
+    "soilHum": 101.46,
+    "airPress": 1010.51,
+    "remainV": 4.96
+  },
+  {
+    "id": 32016072022,
+    "light": 19,
+    "airTemp": 26.55,
+    "airHum": 59.42,
+    "soilTemp": 25.37,
+    "soilHum": 105.29,
+    "airPress": 1011.54,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016072023,
+    "light": 14,
+    "airTemp": 26.55,
+    "airHum": 62.31,
+    "soilTemp": 25.41,
+    "soilHum": 105.29,
+    "airPress": 1011.91,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016072100,
+    "light": 12,
+    "airTemp": 23.99,
+    "airHum": 66.45,
+    "soilTemp": 22.95,
+    "soilHum": 104.56,
+    "airPress": 1012.43,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016072101,
+    "light": 11,
+    "airTemp": 21.43,
+    "airHum": 67.47,
+    "soilTemp": 22.97,
+    "soilHum": 104.68,
+    "airPress": 1012.4,
+    "remainV": 5
+  },
+  {
+    "id": 32016072102,
+    "light": 11,
+    "airTemp": 21.43,
+    "airHum": 70.24,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1012.63,
+    "remainV": 5
+  },
+  {
+    "id": 32016072103,
+    "light": 11,
+    "airTemp": 21.43,
+    "airHum": 72.3,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1012.48,
+    "remainV": 5
+  },
+  {
+    "id": 32016072104,
+    "light": 12,
+    "airTemp": 21.43,
+    "airHum": 93.06,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1012.73,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016072105,
+    "light": 7556,
+    "airTemp": 21.43,
+    "airHum": 75.79,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1013.13,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016072106,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 77.12,
+    "soilTemp": 21.43,
+    "soilHum": 104.11,
+    "airPress": 1013.58,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016072812,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.91,
+    "soilTemp": 31.67,
+    "soilHum": 40.42,
+    "airPress": 1014.46,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016072813,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 103.35,
+    "soilHum": 52.46,
+    "airPress": 1014.11,
+    "remainV": 5.05
+  },
+  {
+    "id": 32016072814,
+    "light": 65535,
+    "airTemp": 25.91,
+    "airHum": 94.21,
+    "soilTemp": 26.55,
+    "soilHum": 60.58,
+    "airPress": 1013.81,
+    "remainV": 5.05
+  },
+  {
+    "id": 32016072815,
+    "light": 65535,
+    "airTemp": 26.41,
+    "airHum": 94.35,
+    "soilTemp": 26.55,
+    "soilHum": 67.44,
+    "airPress": 1013.75,
+    "remainV": 5.05
+  },
+  {
+    "id": 32016072816,
+    "light": 65535,
+    "airTemp": 25.41,
+    "airHum": 94.08,
+    "soilTemp": 26.55,
+    "soilHum": 67.44,
+    "airPress": 1013.44,
+    "remainV": 5.05
+  },
+  {
+    "id": 32016072817,
+    "light": 65535,
+    "airTemp": 22.81,
+    "airHum": 93.42,
+    "soilTemp": 23.99,
+    "soilHum": 74.22,
+    "airPress": 1012.96,
+    "remainV": 5.05
+  },
+  {
+    "id": 32016072818,
+    "light": 65535,
+    "airTemp": 23.01,
+    "airHum": 93.77,
+    "soilTemp": 23.99,
+    "soilHum": 74.22,
+    "airPress": 1012.48,
+    "remainV": 5.05
+  },
+  {
+    "id": 32016072819,
+    "light": 65535,
+    "airTemp": 22.63,
+    "airHum": 93.73,
+    "soilTemp": 23.99,
+    "soilHum": 81.09,
+    "airPress": 1012.06,
+    "remainV": 5.05
+  },
+  {
+    "id": 32016072820,
+    "light": 30340,
+    "airTemp": 22.39,
+    "airHum": 93.49,
+    "soilTemp": 23.99,
+    "soilHum": 74.22,
+    "airPress": 1011.87,
+    "remainV": 5.05
+  },
+  {
+    "id": 32016072821,
+    "light": 2143,
+    "airTemp": 23.83,
+    "airHum": 95.01,
+    "soilTemp": 23.99,
+    "soilHum": 81.09,
+    "airPress": 1011.93,
+    "remainV": 5.05
+  },
+  {
+    "id": 32016072822,
+    "light": 17,
+    "airTemp": 22.41,
+    "airHum": 94.9,
+    "soilTemp": 21.43,
+    "soilHum": 80.54,
+    "airPress": 1011.55,
+    "remainV": 5.05
+  },
+  {
+    "id": 32016072823,
+    "light": 16,
+    "airTemp": 21.43,
+    "airHum": 112.99,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1011.65,
+    "remainV": 5.05
+  },
+  {
+    "id": 32016072900,
+    "light": 19,
+    "airTemp": 21.51,
+    "airHum": 95.78,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1011.6,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016072901,
+    "light": 19,
+    "airTemp": 21.43,
+    "airHum": 95.6,
+    "soilTemp": 21.43,
+    "soilHum": 80.54,
+    "airPress": 1011.34,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016072902,
+    "light": 20,
+    "airTemp": 21.43,
+    "airHum": 95.6,
+    "soilTemp": 21.43,
+    "soilHum": 80.54,
+    "airPress": 1011.03,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016072903,
+    "light": 15,
+    "airTemp": 21.43,
+    "airHum": 95.91,
+    "soilTemp": 21.43,
+    "soilHum": 80.54,
+    "airPress": 1010.89,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016072904,
+    "light": 17,
+    "airTemp": 21.43,
+    "airHum": 96.49,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1010.62,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016072905,
+    "light": 433,
+    "airTemp": 21.43,
+    "airHum": 96.49,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1010.42,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016072906,
+    "light": 34861,
+    "airTemp": 21.43,
+    "airHum": 96.49,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1010.49,
+    "remainV": 5
+  },
+  {
+    "id": 32016072907,
+    "light": 38172,
+    "airTemp": 21.43,
+    "airHum": 96.53,
+    "soilTemp": 21.43,
+    "soilHum": 75.89,
+    "airPress": 1010.67,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016072908,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 96.36,
+    "soilTemp": 21.91,
+    "soilHum": 75.13,
+    "airPress": 1010.84,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016072909,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 95.96,
+    "soilTemp": 21.43,
+    "soilHum": 76.32,
+    "airPress": 1010.81,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016072910,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 95.87,
+    "soilTemp": 22.63,
+    "soilHum": 76.77,
+    "airPress": 1010.85,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016072911,
+    "light": 65535,
+    "airTemp": 22.55,
+    "airHum": 95.15,
+    "soilTemp": 22.71,
+    "soilHum": 70.69,
+    "airPress": 1011.1,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016072912,
+    "light": 65535,
+    "airTemp": 23.93,
+    "airHum": 95.33,
+    "soilTemp": 24.97,
+    "soilHum": 73.54,
+    "airPress": 1010.85,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016072913,
+    "light": 65535,
+    "airTemp": 25.91,
+    "airHum": 94.2,
+    "soilTemp": 103.35,
+    "soilHum": 73.9,
+    "airPress": 1010.76,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016072914,
+    "light": 65535,
+    "airTemp": 26.39,
+    "airHum": 94.32,
+    "soilTemp": 31.67,
+    "soilHum": 52.46,
+    "airPress": 1010.61,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016072915,
+    "light": 65535,
+    "airTemp": 26.55,
+    "airHum": 94.36,
+    "soilTemp": 31.67,
+    "soilHum": 63.53,
+    "airPress": 1010.82,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016072916,
+    "light": 35472,
+    "airTemp": 26.51,
+    "airHum": 93.77,
+    "soilTemp": 25.59,
+    "soilHum": 59.69,
+    "airPress": 1010.72,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016072917,
+    "light": 65535,
+    "airTemp": 25.11,
+    "airHum": 94,
+    "soilTemp": 25.91,
+    "soilHum": 73.04,
+    "airPress": 1010.54,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016072918,
+    "light": 65535,
+    "airTemp": 26.39,
+    "airHum": 94.33,
+    "soilTemp": 31.67,
+    "soilHum": 60.58,
+    "airPress": 1010.43,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016072919,
+    "light": 48425,
+    "airTemp": 25.53,
+    "airHum": 94.12,
+    "soilTemp": 26.03,
+    "soilHum": 59.74,
+    "airPress": 1010.59,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016072920,
+    "light": 20896,
+    "airTemp": 23.35,
+    "airHum": 94.47,
+    "soilTemp": 23.99,
+    "soilHum": 74.22,
+    "airPress": 1010.63,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016072921,
+    "light": 264,
+    "airTemp": 22.17,
+    "airHum": 95.43,
+    "soilTemp": 23.99,
+    "soilHum": 74.22,
+    "airPress": 1011.16,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016072922,
+    "light": 19,
+    "airTemp": 23.67,
+    "airHum": 96.51,
+    "soilTemp": 23.99,
+    "soilHum": 81.09,
+    "airPress": 1011.69,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016072923,
+    "light": 15,
+    "airTemp": 22.45,
+    "airHum": 96.48,
+    "soilTemp": 23.99,
+    "soilHum": 81.09,
+    "airPress": 1012.02,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016073000,
+    "light": 17,
+    "airTemp": 21.67,
+    "airHum": 97.41,
+    "soilTemp": 21.43,
+    "soilHum": 80.54,
+    "airPress": 1012.2,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073001,
+    "light": 16,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 80.54,
+    "airPress": 1012.13,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073002,
+    "light": 18,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 80.54,
+    "airPress": 1012.16,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073003,
+    "light": 16,
+    "airTemp": 21.43,
+    "airHum": 97.63,
+    "soilTemp": 21.43,
+    "soilHum": 74.82,
+    "airPress": 1012.3,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073004,
+    "light": 15,
+    "airTemp": 21.43,
+    "airHum": 98.07,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1012.18,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073005,
+    "light": 475,
+    "airTemp": 21.43,
+    "airHum": 98.07,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1012.44,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073006,
+    "light": 30942,
+    "airTemp": 21.43,
+    "airHum": 98.42,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1012.45,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073007,
+    "light": 25086,
+    "airTemp": 21.43,
+    "airHum": 98.46,
+    "soilTemp": 21.43,
+    "soilHum": 76.32,
+    "airPress": 1012.85,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073008,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 98.42,
+    "soilTemp": 21.43,
+    "soilHum": 74.65,
+    "airPress": 1012.94,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073009,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 98.07,
+    "soilTemp": 21.49,
+    "soilHum": 72.41,
+    "airPress": 1013.24,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073010,
+    "light": 65535,
+    "airTemp": 22.39,
+    "airHum": 97.63,
+    "soilTemp": 22.55,
+    "soilHum": 73.07,
+    "airPress": 1013.44,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073011,
+    "light": 65535,
+    "airTemp": 23.67,
+    "airHum": 97.94,
+    "soilTemp": 23.83,
+    "soilHum": 65.12,
+    "airPress": 1013.72,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073012,
+    "light": 65535,
+    "airTemp": 25.59,
+    "airHum": 94.71,
+    "soilTemp": 31.67,
+    "soilHum": 60.58,
+    "airPress": 1013.78,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073013,
+    "light": 65535,
+    "airTemp": 25.93,
+    "airHum": 94.23,
+    "soilTemp": 31.67,
+    "soilHum": 60.58,
+    "airPress": 1013.62,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073014,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 103.35,
+    "soilHum": 43.43,
+    "airPress": 1013.59,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073015,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 31.67,
+    "soilHum": 60.58,
+    "airPress": 1013.41,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073016,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 31.67,
+    "soilHum": 60.89,
+    "airPress": 1013.4,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073017,
+    "light": 65535,
+    "airTemp": 26.03,
+    "airHum": 95.43,
+    "soilTemp": 26.07,
+    "soilHum": 60.21,
+    "airPress": 1013.62,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073018,
+    "light": 65535,
+    "airTemp": 25.15,
+    "airHum": 96.54,
+    "soilTemp": 25.37,
+    "soilHum": 65.36,
+    "airPress": 1013.57,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073019,
+    "light": 65535,
+    "airTemp": 24.95,
+    "airHum": 96.53,
+    "soilTemp": 26.03,
+    "soilHum": 60.87,
+    "airPress": 1013.45,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073020,
+    "light": 33052,
+    "airTemp": 23.35,
+    "airHum": 96.47,
+    "soilTemp": 23.67,
+    "soilHum": 59.84,
+    "airPress": 1013.69,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073021,
+    "light": 1454,
+    "airTemp": 23.67,
+    "airHum": 97.98,
+    "soilTemp": 23.99,
+    "soilHum": 74.22,
+    "airPress": 1014.25,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073022,
+    "light": 14,
+    "airTemp": 21.67,
+    "airHum": 98.11,
+    "soilTemp": 21.43,
+    "soilHum": 73.07,
+    "airPress": 1014.53,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073023,
+    "light": 13,
+    "airTemp": 21.43,
+    "airHum": 98.24,
+    "soilTemp": 21.43,
+    "soilHum": 76.86,
+    "airPress": 1014.61,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073100,
+    "light": 14,
+    "airTemp": 21.43,
+    "airHum": 98.68,
+    "soilTemp": 21.43,
+    "soilHum": 72.96,
+    "airPress": 1014.8,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073101,
+    "light": 15,
+    "airTemp": 21.43,
+    "airHum": 98.76,
+    "soilTemp": 21.43,
+    "soilHum": 75.09,
+    "airPress": 1015.19,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073102,
+    "light": 15,
+    "airTemp": 21.43,
+    "airHum": 93.61,
+    "soilTemp": 21.43,
+    "soilHum": 79.71,
+    "airPress": 1015.07,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073103,
+    "light": 13,
+    "airTemp": 21.43,
+    "airHum": 93.88,
+    "soilTemp": 21.43,
+    "soilHum": 77.44,
+    "airPress": 1015.03,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073104,
+    "light": 15,
+    "airTemp": 21.43,
+    "airHum": 94.25,
+    "soilTemp": 21.43,
+    "soilHum": 80.12,
+    "airPress": 1015.32,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073105,
+    "light": 282,
+    "airTemp": 21.43,
+    "airHum": 94.43,
+    "soilTemp": 21.43,
+    "soilHum": 74.11,
+    "airPress": 1015.53,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073106,
+    "light": 9284,
+    "airTemp": 21.43,
+    "airHum": 94.7,
+    "soilTemp": 21.43,
+    "soilHum": 75.79,
+    "airPress": 1015.57,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073107,
+    "light": 45815,
+    "airTemp": 21.43,
+    "airHum": 94.65,
+    "soilTemp": 21.43,
+    "soilHum": 73.73,
+    "airPress": 1016.24,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073108,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 94.47,
+    "soilTemp": 21.43,
+    "soilHum": 73.73,
+    "airPress": 1016.57,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073109,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 98.76,
+    "soilTemp": 23.67,
+    "soilHum": 15.9,
+    "airPress": 1016.8,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073110,
+    "light": 65535,
+    "airTemp": 25.91,
+    "airHum": 97.69,
+    "soilTemp": 31.67,
+    "soilHum": 61.36,
+    "airPress": 1016.8,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073111,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 103.35,
+    "soilHum": 60.58,
+    "airPress": 1016.9,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073112,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 31.67,
+    "soilHum": 52.46,
+    "airPress": 1016.95,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073113,
+    "light": 65535,
+    "airTemp": 26.49,
+    "airHum": 94.52,
+    "soilTemp": 31.67,
+    "soilHum": 53.82,
+    "airPress": 1017.08,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073114,
+    "light": 65535,
+    "airTemp": 25.91,
+    "airHum": 95.32,
+    "soilTemp": 31.67,
+    "soilHum": 52.46,
+    "airPress": 1017.24,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073115,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 31.67,
+    "soilHum": 42.06,
+    "airPress": 1017.36,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073116,
+    "light": 65535,
+    "airTemp": 26.23,
+    "airHum": 94.66,
+    "soilTemp": 31.67,
+    "soilHum": 60.58,
+    "airPress": 1017.43,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073117,
+    "light": 65535,
+    "airTemp": 24.97,
+    "airHum": 95.25,
+    "soilTemp": 26.01,
+    "soilHum": 59.72,
+    "airPress": 1017.29,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073118,
+    "light": 65535,
+    "airTemp": 25.37,
+    "airHum": 96.79,
+    "soilTemp": 25.91,
+    "soilHum": 59.69,
+    "airPress": 1017.39,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073119,
+    "light": 65535,
+    "airTemp": 25.29,
+    "airHum": 97.15,
+    "soilTemp": 26.53,
+    "soilHum": 63.73,
+    "airPress": 1017.31,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073120,
+    "light": 26538,
+    "airTemp": 23.41,
+    "airHum": 97.18,
+    "soilTemp": 22.21,
+    "soilHum": 63.65,
+    "airPress": 1017.47,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073121,
+    "light": 1145,
+    "airTemp": 23.97,
+    "airHum": 115.58,
+    "soilTemp": 22.19,
+    "soilHum": 69.91,
+    "airPress": 1017.66,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073122,
+    "light": 14,
+    "airTemp": 22.55,
+    "airHum": 98.4,
+    "soilTemp": 21.43,
+    "soilHum": 63,
+    "airPress": 1018.02,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016073123,
+    "light": 13,
+    "airTemp": 21.43,
+    "airHum": 98.42,
+    "soilTemp": 21.43,
+    "soilHum": 70.07,
+    "airPress": 1018.21,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080100,
+    "light": 14,
+    "airTemp": 21.43,
+    "airHum": 98.68,
+    "soilTemp": 21.43,
+    "soilHum": 69.28,
+    "airPress": 1018.49,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080101,
+    "light": 13,
+    "airTemp": 21.43,
+    "airHum": 93.33,
+    "soilTemp": 21.43,
+    "soilHum": 73.73,
+    "airPress": 1018.76,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080102,
+    "light": 13,
+    "airTemp": 21.43,
+    "airHum": 93.79,
+    "soilTemp": 21.43,
+    "soilHum": 70.74,
+    "airPress": 1018.88,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080103,
+    "light": 13,
+    "airTemp": 21.43,
+    "airHum": 94.15,
+    "soilTemp": 21.43,
+    "soilHum": 71.02,
+    "airPress": 1019.03,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080104,
+    "light": 12,
+    "airTemp": 21.43,
+    "airHum": 94.38,
+    "soilTemp": 21.43,
+    "soilHum": 73.51,
+    "airPress": 1018.97,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080105,
+    "light": 261,
+    "airTemp": 21.43,
+    "airHum": 94.79,
+    "soilTemp": 21.43,
+    "soilHum": 76.54,
+    "airPress": 1018.91,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080106,
+    "light": 32835,
+    "airTemp": 21.43,
+    "airHum": 95.24,
+    "soilTemp": 21.43,
+    "soilHum": 72.96,
+    "airPress": 1018.98,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080107,
+    "light": 64322,
+    "airTemp": 21.43,
+    "airHum": 95.24,
+    "soilTemp": 21.43,
+    "soilHum": 74.05,
+    "airPress": 1019.2,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080108,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 94.61,
+    "soilTemp": 21.43,
+    "soilHum": 70.74,
+    "airPress": 1019.17,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080109,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 93.97,
+    "soilTemp": 82.87,
+    "soilHum": 69.28,
+    "airPress": 1019.47,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080110,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 98.76,
+    "soilTemp": 21.71,
+    "soilHum": 113.8,
+    "airPress": 1019.81,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080111,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 98.42,
+    "soilTemp": 21.71,
+    "soilHum": 113.77,
+    "airPress": 1019.95,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080112,
+    "light": 65535,
+    "airTemp": 21.79,
+    "airHum": 96.7,
+    "soilTemp": 26.03,
+    "soilHum": 94.22,
+    "airPress": 1019.63,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080113,
+    "light": 65535,
+    "airTemp": 22.73,
+    "airHum": 95.61,
+    "soilTemp": 26.25,
+    "soilHum": 105.53,
+    "airPress": 1019.27,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080114,
+    "light": 65535,
+    "airTemp": 21.93,
+    "airHum": 94.91,
+    "soilTemp": 24.09,
+    "soilHum": 61.28,
+    "airPress": 1019.15,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080115,
+    "light": 65535,
+    "airTemp": 22.47,
+    "airHum": 95.67,
+    "soilTemp": 23.35,
+    "soilHum": 59.3,
+    "airPress": 1018.99,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080116,
+    "light": 65535,
+    "airTemp": 21.67,
+    "airHum": 96.29,
+    "soilTemp": 87.99,
+    "soilHum": 64.89,
+    "airPress": 1018.74,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080117,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 22.39,
+    "soilHum": 64.86,
+    "airPress": 1018.14,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080118,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 96.49,
+    "soilTemp": 82.87,
+    "soilHum": 67.58,
+    "airPress": 1017.7,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080119,
+    "light": 26516,
+    "airTemp": 21.43,
+    "airHum": 97.46,
+    "soilTemp": 21.43,
+    "soilHum": 74.38,
+    "airPress": 1017.25,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080120,
+    "light": 8696,
+    "airTemp": 21.43,
+    "airHum": 98.76,
+    "soilTemp": 21.43,
+    "soilHum": 76.86,
+    "airPress": 1016.63,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080121,
+    "light": 294,
+    "airTemp": 21.43,
+    "airHum": 94.34,
+    "soilTemp": 21.43,
+    "soilHum": 78.87,
+    "airPress": 1015.96,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080122,
+    "light": 17,
+    "airTemp": 21.43,
+    "airHum": 94.65,
+    "soilTemp": 82.87,
+    "soilHum": 93.06,
+    "airPress": 1015.34,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080123,
+    "light": 17,
+    "airTemp": 21.43,
+    "airHum": 94.79,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1014.38,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080200,
+    "light": 17,
+    "airTemp": 21.43,
+    "airHum": 94.74,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1013.25,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016080201,
+    "light": 17,
+    "airTemp": 21.43,
+    "airHum": 94.65,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1012.01,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016080202,
+    "light": 17,
+    "airTemp": 21.43,
+    "airHum": 94.79,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1011.19,
+    "remainV": 5
+  },
+  {
+    "id": 32016080203,
+    "light": 16,
+    "airTemp": 21.43,
+    "airHum": 94.7,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1010.19,
+    "remainV": 5
+  },
+  {
+    "id": 32016080204,
+    "light": 16,
+    "airTemp": 21.43,
+    "airHum": 94.52,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1009.77,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080205,
+    "light": 100,
+    "airTemp": 21.43,
+    "airHum": 94.15,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1009.38,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016080206,
+    "light": 6733,
+    "airTemp": 21.43,
+    "airHum": 93.97,
+    "soilTemp": 82.87,
+    "soilHum": 93.06,
+    "airPress": 1009.21,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080207,
+    "light": 23152,
+    "airTemp": 21.43,
+    "airHum": 93.84,
+    "soilTemp": 82.87,
+    "soilHum": 93.06,
+    "airPress": 1009.45,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080208,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 98.68,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1009.54,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016080209,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 98.07,
+    "soilTemp": 87.99,
+    "soilHum": 78.87,
+    "airPress": 1009.64,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016080210,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 96.31,
+    "soilTemp": 23.35,
+    "soilHum": 80.46,
+    "airPress": 1009.67,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016080211,
+    "light": 65535,
+    "airTemp": 21.91,
+    "airHum": 96.06,
+    "soilTemp": 23.97,
+    "soilHum": 34.19,
+    "airPress": 1009.78,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080212,
+    "light": 65535,
+    "airTemp": 23.35,
+    "airHum": 95.84,
+    "soilTemp": 23.47,
+    "soilHum": 77.26,
+    "airPress": 1009.85,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016080213,
+    "light": 65535,
+    "airTemp": 23.83,
+    "airHum": 95.33,
+    "soilTemp": 23.67,
+    "soilHum": 80.39,
+    "airPress": 1010.05,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080214,
+    "light": 65535,
+    "airTemp": 22.63,
+    "airHum": 94.73,
+    "soilTemp": 25.91,
+    "soilHum": 75.7,
+    "airPress": 1009.91,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080215,
+    "light": 65535,
+    "airTemp": 23.99,
+    "airHum": 94.07,
+    "soilTemp": 24.95,
+    "soilHum": 72.97,
+    "airPress": 1010.03,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080216,
+    "light": 65535,
+    "airTemp": 24.03,
+    "airHum": 94.36,
+    "soilTemp": 26.23,
+    "soilHum": 74.57,
+    "airPress": 1010.08,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080217,
+    "light": 65535,
+    "airTemp": 23.35,
+    "airHum": 95.07,
+    "soilTemp": 24.33,
+    "soilHum": 79.49,
+    "airPress": 1009.9,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080218,
+    "light": 65535,
+    "airTemp": 22.87,
+    "airHum": 95.62,
+    "soilTemp": 24.27,
+    "soilHum": 81.03,
+    "airPress": 1009.87,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080219,
+    "light": 21876,
+    "airTemp": 22.75,
+    "airHum": 95.16,
+    "soilTemp": 23.73,
+    "soilHum": 80.85,
+    "airPress": 1009.53,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080220,
+    "light": 25188,
+    "airTemp": 21.71,
+    "airHum": 96.26,
+    "soilTemp": 21.95,
+    "soilHum": 93.2,
+    "airPress": 1009.77,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080221,
+    "light": 246,
+    "airTemp": 23.37,
+    "airHum": 97.09,
+    "soilTemp": 23.39,
+    "soilHum": 78.05,
+    "airPress": 1009.96,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016080222,
+    "light": 18,
+    "airTemp": 22.81,
+    "airHum": 97.77,
+    "soilTemp": 22.91,
+    "soilHum": 80.03,
+    "airPress": 1009.95,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080223,
+    "light": 17,
+    "airTemp": 22.39,
+    "airHum": 97.63,
+    "soilTemp": 22.41,
+    "soilHum": 80.43,
+    "airPress": 1009.84,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080300,
+    "light": 16,
+    "airTemp": 21.81,
+    "airHum": 97.47,
+    "soilTemp": 21.75,
+    "soilHum": 80.6,
+    "airPress": 1009.71,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080301,
+    "light": 17,
+    "airTemp": 21.43,
+    "airHum": 98.07,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1008.89,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080302,
+    "light": 17,
+    "airTemp": 21.43,
+    "airHum": 98.07,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1008.84,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080303,
+    "light": 17,
+    "airTemp": 21.43,
+    "airHum": 98.07,
+    "soilTemp": 82.87,
+    "soilHum": 93.06,
+    "airPress": 1008.2,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080304,
+    "light": 17,
+    "airTemp": 21.43,
+    "airHum": 98.07,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1007.88,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080305,
+    "light": 36,
+    "airTemp": 21.43,
+    "airHum": 98.16,
+    "soilTemp": 82.87,
+    "soilHum": 93.06,
+    "airPress": 1007.62,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080306,
+    "light": 14549,
+    "airTemp": 21.43,
+    "airHum": 98.16,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1007.47,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080307,
+    "light": 49771,
+    "airTemp": 21.43,
+    "airHum": 98.07,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1007.43,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080308,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 97.63,
+    "soilTemp": 22.11,
+    "soilHum": 73.38,
+    "airPress": 1007.89,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080309,
+    "light": 65535,
+    "airTemp": 22.95,
+    "airHum": 96.88,
+    "soilTemp": 22.65,
+    "soilHum": 72.21,
+    "airPress": 1008.19,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080310,
+    "light": 65535,
+    "airTemp": 21.79,
+    "airHum": 94.87,
+    "soilTemp": 24.47,
+    "soilHum": 66.21,
+    "airPress": 1008.18,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080311,
+    "light": 65535,
+    "airTemp": 23.93,
+    "airHum": 94.05,
+    "soilTemp": 24.15,
+    "soilHum": 60.58,
+    "airPress": 1008.12,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080312,
+    "light": 65535,
+    "airTemp": 24.73,
+    "airHum": 93.9,
+    "soilTemp": 31.67,
+    "soilHum": 107.14,
+    "airPress": 1007.83,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080313,
+    "light": 65535,
+    "airTemp": 25.91,
+    "airHum": 94.2,
+    "soilTemp": 31.67,
+    "soilHum": 61.36,
+    "airPress": 1007.55,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080314,
+    "light": 65535,
+    "airTemp": 25.51,
+    "airHum": 94.11,
+    "soilTemp": 31.67,
+    "soilHum": 60.58,
+    "airPress": 1007.26,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080315,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 31.67,
+    "soilHum": 52.46,
+    "airPress": 1007.06,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080316,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 103.35,
+    "soilHum": 60.58,
+    "airPress": 1006.67,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080317,
+    "light": 65535,
+    "airTemp": 25.91,
+    "airHum": 94.2,
+    "soilTemp": 31.67,
+    "soilHum": 60.58,
+    "airPress": 1006.39,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080318,
+    "light": 65535,
+    "airTemp": 26.41,
+    "airHum": 94.34,
+    "soilTemp": 24.39,
+    "soilHum": 61.83,
+    "airPress": 1006.07,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080319,
+    "light": 65535,
+    "airTemp": 24.37,
+    "airHum": 93.83,
+    "soilTemp": 24.01,
+    "soilHum": 66.2,
+    "airPress": 1006.38,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080320,
+    "light": 19912,
+    "airTemp": 22.45,
+    "airHum": 95.05,
+    "soilTemp": 21.63,
+    "soilHum": 61.9,
+    "airPress": 1006.58,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080321,
+    "light": 829,
+    "airTemp": 22.55,
+    "airHum": 95.86,
+    "soilTemp": 21.43,
+    "soilHum": 68.55,
+    "airPress": 1007.13,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080322,
+    "light": 12,
+    "airTemp": 21.43,
+    "airHum": 95.6,
+    "soilTemp": 21.43,
+    "soilHum": 67.92,
+    "airPress": 1007.33,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080323,
+    "light": 15,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 82.87,
+    "soilHum": 70.3,
+    "airPress": 1007.58,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080400,
+    "light": 13,
+    "airTemp": 21.43,
+    "airHum": 98.07,
+    "soilTemp": 82.87,
+    "soilHum": 77.92,
+    "airPress": 1007.68,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080401,
+    "light": 13,
+    "airTemp": 21.43,
+    "airHum": 98.07,
+    "soilTemp": 21.43,
+    "soilHum": 75.25,
+    "airPress": 1007.62,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080402,
+    "light": 12,
+    "airTemp": 21.43,
+    "airHum": 98.72,
+    "soilTemp": 21.43,
+    "soilHum": 76.75,
+    "airPress": 1007.47,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080403,
+    "light": 13,
+    "airTemp": 21.43,
+    "airHum": 98.59,
+    "soilTemp": 21.43,
+    "soilHum": 75.25,
+    "airPress": 1007.44,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080404,
+    "light": 14,
+    "airTemp": 21.43,
+    "airHum": 93.47,
+    "soilTemp": 21.43,
+    "soilHum": 78.87,
+    "airPress": 1007.3,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080405,
+    "light": 163,
+    "airTemp": 21.43,
+    "airHum": 98.42,
+    "soilTemp": 21.43,
+    "soilHum": 77.18,
+    "airPress": 1007.47,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080406,
+    "light": 16668,
+    "airTemp": 21.43,
+    "airHum": 94.15,
+    "soilTemp": 21.43,
+    "soilHum": 79.71,
+    "airPress": 1007.7,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080407,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 93.7,
+    "soilTemp": 21.43,
+    "soilHum": 73.34,
+    "airPress": 1008.24,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080408,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 93.52,
+    "soilTemp": 21.43,
+    "soilHum": 72.85,
+    "airPress": 1008.31,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080409,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 98.42,
+    "soilTemp": 87.99,
+    "soilHum": 113.8,
+    "airPress": 1008.51,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080410,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 23.67,
+    "soilHum": 62.22,
+    "airPress": 1008.93,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080411,
+    "light": 65535,
+    "airTemp": 24.47,
+    "airHum": 95.26,
+    "soilTemp": 31.67,
+    "soilHum": 107.14,
+    "airPress": 1008.75,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080412,
+    "light": 65535,
+    "airTemp": 24.77,
+    "airHum": 94.76,
+    "soilTemp": 25.43,
+    "soilHum": 115.04,
+    "airPress": 1008.88,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080413,
+    "light": 65535,
+    "airTemp": 25.91,
+    "airHum": 94.2,
+    "soilTemp": 25.97,
+    "soilHum": 59.71,
+    "airPress": 1008.97,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080414,
+    "light": 65535,
+    "airTemp": 25.13,
+    "airHum": 94.23,
+    "soilTemp": 24.95,
+    "soilHum": 59.55,
+    "airPress": 1008.95,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080415,
+    "light": 65535,
+    "airTemp": 24.55,
+    "airHum": 93.87,
+    "soilTemp": 31.67,
+    "soilHum": 60.58,
+    "airPress": 1009.29,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080416,
+    "light": 65535,
+    "airTemp": 26.47,
+    "airHum": 94.34,
+    "soilTemp": 31.67,
+    "soilHum": 107.14,
+    "airPress": 1009.49,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080417,
+    "light": 65535,
+    "airTemp": 26.53,
+    "airHum": 95.45,
+    "soilTemp": 93.11,
+    "soilHum": 105.44,
+    "airPress": 1009.64,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080418,
+    "light": 65535,
+    "airTemp": 26.23,
+    "airHum": 95.35,
+    "soilTemp": 24.67,
+    "soilHum": 114.77,
+    "airPress": 1010.17,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080419,
+    "light": 65535,
+    "airTemp": 24.95,
+    "airHum": 95.16,
+    "soilTemp": 25.39,
+    "soilHum": 59.62,
+    "airPress": 1011.03,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080420,
+    "light": 22021,
+    "airTemp": 22.55,
+    "airHum": 96.97,
+    "soilTemp": 21.81,
+    "soilHum": 65.71,
+    "airPress": 1011.87,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080421,
+    "light": 648,
+    "airTemp": 23.35,
+    "airHum": 97.98,
+    "soilTemp": 22.13,
+    "soilHum": 72.98,
+    "airPress": 1012.59,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080422,
+    "light": 15,
+    "airTemp": 21.43,
+    "airHum": 98.68,
+    "soilTemp": 82.87,
+    "soilHum": 93.06,
+    "airPress": 1013.28,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080423,
+    "light": 12,
+    "airTemp": 21.43,
+    "airHum": 94.43,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1013.71,
+    "remainV": 5.04
+  },
+  {
+    "id": 32016080500,
+    "light": 12,
+    "airTemp": 21.43,
+    "airHum": 94.83,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1014.25,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080501,
+    "light": 12,
+    "airTemp": 21.43,
+    "airHum": 95.24,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1014.61,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016080502,
+    "light": 12,
+    "airTemp": 21.43,
+    "airHum": 95.24,
+    "soilTemp": 82.87,
+    "soilHum": 93.06,
+    "airPress": 1014.98,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016080503,
+    "light": 13,
+    "airTemp": 21.43,
+    "airHum": 95.33,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1015.64,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080504,
+    "light": 12,
+    "airTemp": 21.43,
+    "airHum": 95.6,
+    "soilTemp": 82.87,
+    "soilHum": 93.06,
+    "airPress": 1016.18,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080505,
+    "light": 126,
+    "airTemp": 21.43,
+    "airHum": 95.78,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1016.76,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080506,
+    "light": 13633,
+    "airTemp": 21.43,
+    "airHum": 95.87,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1017.33,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016080507,
+    "light": 41899,
+    "airTemp": 21.43,
+    "airHum": 95.87,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1017.73,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016080508,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 95.6,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1018.42,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080509,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 94.79,
+    "soilTemp": 21.43,
+    "soilHum": 79.71,
+    "airPress": 1019.19,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016080510,
+    "light": 65535,
+    "airTemp": 24.23,
+    "airHum": 98.85,
+    "soilTemp": 103.35,
+    "soilHum": 60.58,
+    "airPress": 1019.61,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080511,
+    "light": 65535,
+    "airTemp": 26.41,
+    "airHum": 95.81,
+    "soilTemp": 31.67,
+    "soilHum": 60.58,
+    "airPress": 1020.02,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080512,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 96.58,
+    "soilTemp": 31.67,
+    "soilHum": 52.46,
+    "airPress": 1020.23,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080513,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.91,
+    "soilTemp": 31.67,
+    "soilHum": 52.46,
+    "airPress": 1020.49,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080514,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 33.59,
+    "soilHum": 96.33,
+    "airPress": 1020.66,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080515,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 108.47,
+    "soilHum": 83.23,
+    "airPress": 1020.71,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080516,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 33.69,
+    "soilHum": 43.99,
+    "airPress": 1020.59,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080517,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 96.24,
+    "soilTemp": 31.67,
+    "soilHum": 60.58,
+    "airPress": 1020.83,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080518,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 97.56,
+    "soilTemp": 103.35,
+    "soilHum": 62.15,
+    "airPress": 1020.74,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016080519,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 98.4,
+    "soilTemp": 26.55,
+    "soilHum": 62.12,
+    "airPress": 1020.83,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080520,
+    "light": 46068,
+    "airTemp": 24.95,
+    "airHum": 97.21,
+    "soilTemp": 26.47,
+    "soilHum": 66.26,
+    "airPress": 1021.48,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080521,
+    "light": 205,
+    "airTemp": 25.53,
+    "airHum": 98.46,
+    "soilTemp": 24.25,
+    "soilHum": 70.03,
+    "airPress": 1021.96,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080522,
+    "light": 13,
+    "airTemp": 23.67,
+    "airHum": 98.16,
+    "soilTemp": 21.83,
+    "soilHum": 75.32,
+    "airPress": 1022.77,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080523,
+    "light": 13,
+    "airTemp": 21.73,
+    "airHum": 98.47,
+    "soilTemp": 21.93,
+    "soilHum": 75.14,
+    "airPress": 1022.99,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016080600,
+    "light": 12,
+    "airTemp": 22.39,
+    "airHum": 98.87,
+    "soilTemp": 21.43,
+    "soilHum": 69.34,
+    "airPress": 1023.31,
+    "remainV": 5
+  },
+  {
+    "id": 32016080601,
+    "light": 13,
+    "airTemp": 21.43,
+    "airHum": 93.61,
+    "soilTemp": 21.43,
+    "soilHum": 75.63,
+    "airPress": 1023.69,
+    "remainV": 5
+  },
+  {
+    "id": 32016080713,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 100.96,
+    "soilTemp": 31.67,
+    "soilHum": 73.9,
+    "airPress": 1022.73,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080714,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 98.31,
+    "soilTemp": 33.59,
+    "soilHum": 60.87,
+    "airPress": 1022.45,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080715,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.86,
+    "soilTemp": 39.35,
+    "soilHum": 53.48,
+    "airPress": 1022.25,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080716,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 97.19,
+    "soilTemp": 36.79,
+    "soilHum": 53.14,
+    "airPress": 1021.85,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080717,
+    "light": 48475,
+    "airTemp": 31.67,
+    "airHum": 100.15,
+    "soilTemp": 31.67,
+    "soilHum": 68.33,
+    "airPress": 1020.99,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080718,
+    "light": 31269,
+    "airTemp": 31.67,
+    "airHum": 100.87,
+    "soilTemp": 26.55,
+    "soilHum": 67.44,
+    "airPress": 1021.02,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080719,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 101.41,
+    "soilTemp": 31.67,
+    "soilHum": 68.33,
+    "airPress": 1020.63,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080720,
+    "light": 10213,
+    "airTemp": 24.99,
+    "airHum": 99.65,
+    "soilTemp": 26.55,
+    "soilHum": 74.72,
+    "airPress": 1020.38,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016080721,
+    "light": 123,
+    "airTemp": 24.73,
+    "airHum": 95.29,
+    "soilTemp": 23.99,
+    "soilHum": 74.22,
+    "airPress": 1020.82,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016080722,
+    "light": 5,
+    "airTemp": 22.39,
+    "airHum": 95.49,
+    "soilTemp": 21.43,
+    "soilHum": 73.73,
+    "airPress": 1021,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016080723,
+    "light": 4,
+    "airTemp": 22.75,
+    "airHum": 96.17,
+    "soilTemp": 21.43,
+    "soilHum": 80.54,
+    "airPress": 1020.91,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016080800,
+    "light": 4,
+    "airTemp": 21.47,
+    "airHum": 96.13,
+    "soilTemp": 21.43,
+    "soilHum": 80.54,
+    "airPress": 1020.47,
+    "remainV": 5
+  },
+  {
+    "id": 32016080801,
+    "light": 5,
+    "airTemp": 21.43,
+    "airHum": 96.4,
+    "soilTemp": 21.43,
+    "soilHum": 80.54,
+    "airPress": 1020.39,
+    "remainV": 5
+  },
+  {
+    "id": 32016080802,
+    "light": 5,
+    "airTemp": 21.43,
+    "airHum": 96.31,
+    "soilTemp": 21.43,
+    "soilHum": 80.54,
+    "airPress": 1019.79,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016080803,
+    "light": 5,
+    "airTemp": 21.43,
+    "airHum": 96.4,
+    "soilTemp": 21.43,
+    "soilHum": 80.54,
+    "airPress": 1019.65,
+    "remainV": 4.96
+  },
+  {
+    "id": 32016080804,
+    "light": 4,
+    "airTemp": 21.43,
+    "airHum": 96.4,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1019.4,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016080805,
+    "light": 26,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1019.53,
+    "remainV": 4.97
+  },
+  {
+    "id": 32016080806,
+    "light": 6296,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1020.01,
+    "remainV": 4.96
+  },
+  {
+    "id": 32016080807,
+    "light": 17089,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1021.05,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016080808,
+    "light": 22909,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1021.53,
+    "remainV": 5
+  },
+  {
+    "id": 32016080809,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1021.81,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016080810,
+    "light": 65535,
+    "airTemp": 22.39,
+    "airHum": 94.22,
+    "soilTemp": 31.67,
+    "soilHum": 66.43,
+    "airPress": 1021.83,
+    "remainV": 5
+  },
+  {
+    "id": 32016080811,
+    "light": 65535,
+    "airTemp": 24.49,
+    "airHum": 99.54,
+    "soilTemp": 24.95,
+    "soilHum": 59.56,
+    "airPress": 1021.95,
+    "remainV": 5
+  },
+  {
+    "id": 32016080812,
+    "light": 65535,
+    "airTemp": 24.97,
+    "airHum": 99.61,
+    "soilTemp": 31.67,
+    "soilHum": 107.14,
+    "airPress": 1022.13,
+    "remainV": 5
+  },
+  {
+    "id": 32016080813,
+    "light": 65535,
+    "airTemp": 24.29,
+    "airHum": 99.02,
+    "soilTemp": 103.35,
+    "soilHum": 61.36,
+    "airPress": 1021.92,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016080814,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 100.15,
+    "soilTemp": 31.67,
+    "soilHum": 52.46,
+    "airPress": 1021.84,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016080815,
+    "light": 65535,
+    "airTemp": 26.07,
+    "airHum": 99.34,
+    "soilTemp": 31.67,
+    "soilHum": 60.58,
+    "airPress": 1021.7,
+    "remainV": 5
+  },
+  {
+    "id": 32016080816,
+    "light": 65535,
+    "airTemp": 24.25,
+    "airHum": 99.51,
+    "soilTemp": 25.91,
+    "soilHum": 61.7,
+    "airPress": 1021.46,
+    "remainV": 5
+  },
+  {
+    "id": 32016080817,
+    "light": 65535,
+    "airTemp": 25.91,
+    "airHum": 94.76,
+    "soilTemp": 25.91,
+    "soilHum": 62.06,
+    "airPress": 1021.53,
+    "remainV": 5
+  },
+  {
+    "id": 32016080818,
+    "light": 31952,
+    "airTemp": 23.67,
+    "airHum": 95.05,
+    "soilTemp": 23.67,
+    "soilHum": 74.2,
+    "airPress": 1021.74,
+    "remainV": 5
+  },
+  {
+    "id": 32016080819,
+    "light": 24993,
+    "airTemp": 22.09,
+    "airHum": 95.42,
+    "soilTemp": 23.67,
+    "soilHum": 73.5,
+    "airPress": 1021.78,
+    "remainV": 5
+  },
+  {
+    "id": 32016080820,
+    "light": 4135,
+    "airTemp": 22.91,
+    "airHum": 96.05,
+    "soilTemp": 21.43,
+    "soilHum": 73.7,
+    "airPress": 1022.02,
+    "remainV": 5
+  },
+  {
+    "id": 32016080821,
+    "light": 61,
+    "airTemp": 21.43,
+    "airHum": 96.22,
+    "soilTemp": 21.43,
+    "soilHum": 73.7,
+    "airPress": 1022.56,
+    "remainV": 5
+  },
+  {
+    "id": 32016080822,
+    "light": 6,
+    "airTemp": 21.43,
+    "airHum": 96.67,
+    "soilTemp": 21.43,
+    "soilHum": 80.54,
+    "airPress": 1023.03,
+    "remainV": 5
+  },
+  {
+    "id": 32016080823,
+    "light": 7,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 73.56,
+    "airPress": 1023.34,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016080900,
+    "light": 6,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 82.87,
+    "soilHum": 75.03,
+    "airPress": 1023.55,
+    "remainV": 5
+  },
+  {
+    "id": 32016080901,
+    "light": 4,
+    "airTemp": 21.43,
+    "airHum": 98.07,
+    "soilTemp": 82.87,
+    "soilHum": 76.32,
+    "airPress": 1023.89,
+    "remainV": 5
+  },
+  {
+    "id": 32016080902,
+    "light": 4,
+    "airTemp": 21.43,
+    "airHum": 98.42,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1023.91,
+    "remainV": 5
+  },
+  {
+    "id": 32016080903,
+    "light": 4,
+    "airTemp": 21.43,
+    "airHum": 98.59,
+    "soilTemp": 82.87,
+    "soilHum": 93.06,
+    "airPress": 1023.86,
+    "remainV": 5
+  },
+  {
+    "id": 32016080904,
+    "light": 4,
+    "airTemp": 21.43,
+    "airHum": 104.11,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1023.87,
+    "remainV": 5
+  },
+  {
+    "id": 32016080905,
+    "light": 22,
+    "airTemp": 21.43,
+    "airHum": 104.11,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1024.11,
+    "remainV": 5
+  },
+  {
+    "id": 32016080906,
+    "light": 7189,
+    "airTemp": 21.43,
+    "airHum": 104.11,
+    "soilTemp": 82.87,
+    "soilHum": 93.06,
+    "airPress": 1024.4,
+    "remainV": 5
+  },
+  {
+    "id": 32016080907,
+    "light": 18827,
+    "airTemp": 21.43,
+    "airHum": 104.11,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1024.95,
+    "remainV": 5
+  },
+  {
+    "id": 32016080908,
+    "light": 28456,
+    "airTemp": 21.43,
+    "airHum": 104.11,
+    "soilTemp": 82.87,
+    "soilHum": 93.06,
+    "airPress": 1025.38,
+    "remainV": 5
+  },
+  {
+    "id": 32016080909,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 98.59,
+    "soilTemp": 82.87,
+    "soilHum": 72.85,
+    "airPress": 1025.7,
+    "remainV": 5
+  },
+  {
+    "id": 32016080910,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 95.33,
+    "soilTemp": 26.29,
+    "soilHum": 59.77,
+    "airPress": 1025.89,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016080911,
+    "light": 65535,
+    "airTemp": 23.35,
+    "airHum": 94.15,
+    "soilTemp": 103.35,
+    "soilHum": 52.46,
+    "airPress": 1026.1,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080912,
+    "light": 65535,
+    "airTemp": 26.01,
+    "airHum": 99.83,
+    "soilTemp": 31.67,
+    "soilHum": 52.46,
+    "airPress": 1025.63,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080913,
+    "light": 65535,
+    "airTemp": 25.11,
+    "airHum": 99.39,
+    "soilTemp": 31.67,
+    "soilHum": 95.67,
+    "airPress": 1025.45,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016080914,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 100.24,
+    "soilTemp": 31.67,
+    "soilHum": 95.67,
+    "airPress": 1025.23,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016080915,
+    "light": 65535,
+    "airTemp": 26.25,
+    "airHum": 94.84,
+    "soilTemp": 25.43,
+    "soilHum": 65.39,
+    "airPress": 1025.04,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016080916,
+    "light": 65535,
+    "airTemp": 24.95,
+    "airHum": 95.07,
+    "soilTemp": 24.71,
+    "soilHum": 59.52,
+    "airPress": 1024.37,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016080917,
+    "light": 65535,
+    "airTemp": 24.59,
+    "airHum": 94.94,
+    "soilTemp": 25.11,
+    "soilHum": 62.46,
+    "airPress": 1023.99,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016080918,
+    "light": 65226,
+    "airTemp": 23.67,
+    "airHum": 95.03,
+    "soilTemp": 22.47,
+    "soilHum": 63.04,
+    "airPress": 1023.76,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016080919,
+    "light": 33691,
+    "airTemp": 21.67,
+    "airHum": 95.37,
+    "soilTemp": 22.63,
+    "soilHum": 66.3,
+    "airPress": 1023.64,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016080920,
+    "light": 8623,
+    "airTemp": 22.17,
+    "airHum": 96.27,
+    "soilTemp": 21.43,
+    "soilHum": 69.28,
+    "airPress": 1023.96,
+    "remainV": 5
+  },
+  {
+    "id": 32016080921,
+    "light": 81,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 70.13,
+    "airPress": 1024.08,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016080922,
+    "light": 5,
+    "airTemp": 21.43,
+    "airHum": 114.02,
+    "soilTemp": 21.43,
+    "soilHum": 73.07,
+    "airPress": 1024.58,
+    "remainV": 5
+  },
+  {
+    "id": 32016080923,
+    "light": 4,
+    "airTemp": 21.43,
+    "airHum": 98.11,
+    "soilTemp": 21.43,
+    "soilHum": 74.82,
+    "airPress": 1024.72,
+    "remainV": 5
+  },
+  {
+    "id": 32016081000,
+    "light": 5,
+    "airTemp": 21.43,
+    "airHum": 98.42,
+    "soilTemp": 21.43,
+    "soilHum": 75.14,
+    "airPress": 1024.67,
+    "remainV": 4.97
+  },
+  {
+    "id": 32016081001,
+    "light": 4,
+    "airTemp": 21.43,
+    "airHum": 98.76,
+    "soilTemp": 21.43,
+    "soilHum": 74.38,
+    "airPress": 1024.48,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016081002,
+    "light": 4,
+    "airTemp": 21.43,
+    "airHum": 104.11,
+    "soilTemp": 21.43,
+    "soilHum": 79.71,
+    "airPress": 1024.37,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016081003,
+    "light": 4,
+    "airTemp": 21.43,
+    "airHum": 104.11,
+    "soilTemp": 21.43,
+    "soilHum": 79.08,
+    "airPress": 1024.25,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016081004,
+    "light": 4,
+    "airTemp": 21.43,
+    "airHum": 104.11,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1024.1,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016081005,
+    "light": 16,
+    "airTemp": 21.43,
+    "airHum": 104.11,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1024.03,
+    "remainV": 4.97
+  },
+  {
+    "id": 32016081006,
+    "light": 9386,
+    "airTemp": 21.43,
+    "airHum": 104.11,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1024.11,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016081007,
+    "light": 36316,
+    "airTemp": 21.43,
+    "airHum": 104.11,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1024.34,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016081008,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 115.09,
+    "soilTemp": 21.43,
+    "soilHum": 77.92,
+    "airPress": 1024.78,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016081009,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 82.87,
+    "soilHum": 71.97,
+    "airPress": 1025.08,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016081010,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 96.67,
+    "soilTemp": 87.99,
+    "soilHum": 70.14,
+    "airPress": 1025.1,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016081011,
+    "light": 65535,
+    "airTemp": 22.13,
+    "airHum": 111.54,
+    "soilTemp": 24.47,
+    "soilHum": 63.36,
+    "airPress": 1025.1,
+    "remainV": 5
+  },
+  {
+    "id": 32016081012,
+    "light": 65535,
+    "airTemp": 21.67,
+    "airHum": 95.32,
+    "soilTemp": 23.67,
+    "soilHum": 63.43,
+    "airPress": 1025.05,
+    "remainV": 5
+  },
+  {
+    "id": 32016081013,
+    "light": 65535,
+    "airTemp": 21.79,
+    "airHum": 95.33,
+    "soilTemp": 23.35,
+    "soilHum": 15.88,
+    "airPress": 1025.14,
+    "remainV": 5
+  },
+  {
+    "id": 32016081014,
+    "light": 65535,
+    "airTemp": 24.13,
+    "airHum": 94.47,
+    "soilTemp": 31.67,
+    "soilHum": 61.36,
+    "airPress": 1025.07,
+    "remainV": 5
+  },
+  {
+    "id": 32016081015,
+    "light": 65535,
+    "airTemp": 24.31,
+    "airHum": 99.36,
+    "soilTemp": 31.67,
+    "soilHum": 60.58,
+    "airPress": 1024.72,
+    "remainV": 4.97
+  },
+  {
+    "id": 32016081016,
+    "light": 65535,
+    "airTemp": 25.97,
+    "airHum": 99.89,
+    "soilTemp": 25.19,
+    "soilHum": 105.23,
+    "airPress": 1024.61,
+    "remainV": 4.97
+  },
+  {
+    "id": 32016081017,
+    "light": 65535,
+    "airTemp": 23.67,
+    "airHum": 95.01,
+    "soilTemp": 22.85,
+    "soilHum": 63.01,
+    "airPress": 1024.34,
+    "remainV": 5
+  },
+  {
+    "id": 32016081018,
+    "light": 64600,
+    "airTemp": 22.77,
+    "airHum": 94.93,
+    "soilTemp": 23.35,
+    "soilHum": 65.14,
+    "airPress": 1024.24,
+    "remainV": 5
+  },
+  {
+    "id": 32016081019,
+    "light": 55669,
+    "airTemp": 22.39,
+    "airHum": 95.04,
+    "soilTemp": 23.03,
+    "soilHum": 114.34,
+    "airPress": 1024.06,
+    "remainV": 5
+  },
+  {
+    "id": 32016081020,
+    "light": 11939,
+    "airTemp": 23.35,
+    "airHum": 95.99,
+    "soilTemp": 21.53,
+    "soilHum": 69.8,
+    "airPress": 1023.9,
+    "remainV": 5
+  },
+  {
+    "id": 32016081021,
+    "light": 34,
+    "airTemp": 21.43,
+    "airHum": 96.49,
+    "soilTemp": 21.43,
+    "soilHum": 73.29,
+    "airPress": 1024.12,
+    "remainV": 5
+  },
+  {
+    "id": 32016081022,
+    "light": 5,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 69.85,
+    "airPress": 1024.01,
+    "remainV": 5
+  },
+  {
+    "id": 32016081023,
+    "light": 5,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 71.97,
+    "airPress": 1023.81,
+    "remainV": 4.96
+  },
+  {
+    "id": 32016081100,
+    "light": 5,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 76.48,
+    "airPress": 1023.56,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016081101,
+    "light": 5,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 77.92,
+    "airPress": 1023.03,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016081102,
+    "light": 6,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 75.57,
+    "airPress": 1022.98,
+    "remainV": 4.96
+  },
+  {
+    "id": 32016081103,
+    "light": 5,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 75.79,
+    "airPress": 1022.4,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016081104,
+    "light": 5,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 82.87,
+    "soilHum": 76.32,
+    "airPress": 1022.03,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016081105,
+    "light": 9,
+    "airTemp": 21.43,
+    "airHum": 97.46,
+    "soilTemp": 21.43,
+    "soilHum": 80.23,
+    "airPress": 1022.03,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016081106,
+    "light": 1949,
+    "airTemp": 21.43,
+    "airHum": 97.55,
+    "soilTemp": 82.87,
+    "soilHum": 80.38,
+    "airPress": 1021.84,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016081107,
+    "light": 22382,
+    "airTemp": 21.43,
+    "airHum": 114.13,
+    "soilTemp": 21.43,
+    "soilHum": 78.97,
+    "airPress": 1021.84,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016081108,
+    "light": 48992,
+    "airTemp": 21.43,
+    "airHum": 97.46,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1021.77,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016081109,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 78.87,
+    "airPress": 1021.85,
+    "remainV": 5
+  },
+  {
+    "id": 32016081110,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 112.29,
+    "soilTemp": 21.43,
+    "soilHum": 78.87,
+    "airPress": 1021.87,
+    "remainV": 5
+  },
+  {
+    "id": 32016081111,
+    "light": 65535,
+    "airTemp": 21.45,
+    "airHum": 95.25,
+    "soilTemp": 87.99,
+    "soilHum": 68.84,
+    "airPress": 1021.53,
+    "remainV": 5
+  },
+  {
+    "id": 32016081115,
+    "light": 47615,
+    "airTemp": 25.23,
+    "airHum": 105.25,
+    "soilTemp": 24.77,
+    "soilHum": 65.29,
+    "airPress": 1020.68,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081116,
+    "light": 18801,
+    "airTemp": 24.97,
+    "airHum": 99.67,
+    "soilTemp": 31.67,
+    "soilHum": 67.86,
+    "airPress": 1020.7,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081117,
+    "light": 45705,
+    "airTemp": 26.55,
+    "airHum": 95.1,
+    "soilTemp": 25.91,
+    "soilHum": 70.67,
+    "airPress": 1020.88,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081118,
+    "light": 17482,
+    "airTemp": 25.47,
+    "airHum": 95.17,
+    "soilTemp": 26.23,
+    "soilHum": 70.98,
+    "airPress": 1021.22,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081119,
+    "light": 15753,
+    "airTemp": 24.95,
+    "airHum": 95.09,
+    "soilTemp": 93.11,
+    "soilHum": 72.68,
+    "airPress": 1021.18,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081120,
+    "light": 4280,
+    "airTemp": 23.37,
+    "airHum": 95.29,
+    "soilTemp": 22.69,
+    "soilHum": 75.56,
+    "airPress": 1021.69,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081121,
+    "light": 24,
+    "airTemp": 22.57,
+    "airHum": 96.08,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1022.04,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081122,
+    "light": 2,
+    "airTemp": 21.43,
+    "airHum": 96.22,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1022.5,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081123,
+    "light": 2,
+    "airTemp": 21.43,
+    "airHum": 96.58,
+    "soilTemp": 82.87,
+    "soilHum": 93.06,
+    "airPress": 1022.58,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081200,
+    "light": 2,
+    "airTemp": 21.43,
+    "airHum": 96.67,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1023.03,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081201,
+    "light": 2,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1023.27,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081202,
+    "light": 2,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1023.01,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081203,
+    "light": 2,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1022.81,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081204,
+    "light": 1,
+    "airTemp": 21.43,
+    "airHum": 97.46,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1022.88,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081205,
+    "light": 3,
+    "airTemp": 21.43,
+    "airHum": 97.63,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1023.03,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016081206,
+    "light": 1974,
+    "airTemp": 21.43,
+    "airHum": 97.72,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1023.41,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016081207,
+    "light": 6067,
+    "airTemp": 21.43,
+    "airHum": 97.72,
+    "soilTemp": 82.87,
+    "soilHum": 93.06,
+    "airPress": 1023.58,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081208,
+    "light": 9937,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 82.87,
+    "soilHum": 93.06,
+    "airPress": 1023.84,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016081209,
+    "light": 45491,
+    "airTemp": 21.43,
+    "airHum": 96.49,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1024,
+    "remainV": 5.03
+  },
+  {
+    "id": 32016081210,
+    "light": 65535,
+    "airTemp": 25.33,
+    "airHum": 99.28,
+    "soilTemp": 103.35,
+    "soilHum": 71.95,
+    "airPress": 1024.13,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081211,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 98.96,
+    "soilTemp": 32.63,
+    "soilHum": 65.2,
+    "airPress": 1024.02,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081212,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 98.12,
+    "soilTemp": 32.99,
+    "soilHum": 65.68,
+    "airPress": 1023.77,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081213,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 97.28,
+    "soilTemp": 36.79,
+    "soilHum": 67.29,
+    "airPress": 1023.23,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081214,
+    "light": 65535,
+    "airTemp": 32.03,
+    "airHum": 95.77,
+    "soilTemp": 40.51,
+    "soilHum": 53.82,
+    "airPress": 1022.89,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081215,
+    "light": 65535,
+    "airTemp": 36.79,
+    "airHum": 96.98,
+    "soilTemp": 118.71,
+    "soilHum": 53.48,
+    "airPress": 1022.69,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081216,
+    "light": 65535,
+    "airTemp": 33.59,
+    "airHum": 96.56,
+    "soilTemp": 118.71,
+    "soilHum": 109.42,
+    "airPress": 1022.47,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081217,
+    "light": 14634,
+    "airTemp": 31.67,
+    "airHum": 98.91,
+    "soilTemp": 31.67,
+    "soilHum": 68.39,
+    "airPress": 1022.23,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081218,
+    "light": 10389,
+    "airTemp": 31.67,
+    "airHum": 100.33,
+    "soilTemp": 31.67,
+    "soilHum": 72.01,
+    "airPress": 1021.99,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081219,
+    "light": 29417,
+    "airTemp": 31.67,
+    "airHum": 100.87,
+    "soilTemp": 103.35,
+    "soilHum": 75.27,
+    "airPress": 1022.06,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081220,
+    "light": 2787,
+    "airTemp": 31.67,
+    "airHum": 101.5,
+    "soilTemp": 26.55,
+    "soilHum": 74.63,
+    "airPress": 1022.2,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081221,
+    "light": 8,
+    "airTemp": 26.51,
+    "airHum": 95.1,
+    "soilTemp": 23.99,
+    "soilHum": 74.22,
+    "airPress": 1022.9,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081222,
+    "light": 2,
+    "airTemp": 23.67,
+    "airHum": 96.01,
+    "soilTemp": 23.99,
+    "soilHum": 81.09,
+    "airPress": 1023.18,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081223,
+    "light": 2,
+    "airTemp": 23.49,
+    "airHum": 96.67,
+    "soilTemp": 21.43,
+    "soilHum": 80.54,
+    "airPress": 1023.07,
+    "remainV": 5.02
+  },
+  {
+    "id": 32016081300,
+    "light": 2,
+    "airTemp": 21.93,
+    "airHum": 96.53,
+    "soilTemp": 21.43,
+    "soilHum": 79.08,
+    "airPress": 1022.85,
+    "remainV": 5
+  },
+  {
+    "id": 32016081301,
+    "light": 2,
+    "airTemp": 21.43,
+    "airHum": 96.62,
+    "soilTemp": 21.43,
+    "soilHum": 76.97,
+    "airPress": 1022.41,
+    "remainV": 5
+  },
+  {
+    "id": 32016081302,
+    "light": 2,
+    "airTemp": 21.43,
+    "airHum": 96.67,
+    "soilTemp": 21.43,
+    "soilHum": 77.97,
+    "airPress": 1022.26,
+    "remainV": 5
+  },
+  {
+    "id": 32016081303,
+    "light": 2,
+    "airTemp": 21.43,
+    "airHum": 114.02,
+    "soilTemp": 21.43,
+    "soilHum": 78.03,
+    "airPress": 1022.1,
+    "remainV": 4.97
+  },
+  {
+    "id": 32016081304,
+    "light": 2,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 78.87,
+    "airPress": 1022.01,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016081305,
+    "light": 3,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 82.87,
+    "soilHum": 93.06,
+    "airPress": 1022.03,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016081306,
+    "light": 1614,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1022.22,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016081307,
+    "light": 8248,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 82.87,
+    "soilHum": 93.06,
+    "airPress": 1022.26,
+    "remainV": 5
+  },
+  {
+    "id": 32016081308,
+    "light": 17969,
+    "airTemp": 21.43,
+    "airHum": 113,
+    "soilTemp": 82.87,
+    "soilHum": 93.06,
+    "airPress": 1022.52,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016081309,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 95.87,
+    "soilTemp": 87.99,
+    "soilHum": 93.67,
+    "airPress": 1022.55,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016081310,
+    "light": 55164,
+    "airTemp": 24.39,
+    "airHum": 99.48,
+    "soilTemp": 31.67,
+    "soilHum": 68.21,
+    "airPress": 1022.79,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016081311,
+    "light": 65392,
+    "airTemp": 26.51,
+    "airHum": 98.85,
+    "soilTemp": 31.67,
+    "soilHum": 64.47,
+    "airPress": 1022.68,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016081312,
+    "light": 62093,
+    "airTemp": 25.23,
+    "airHum": 99.12,
+    "soilTemp": 31.67,
+    "soilHum": 68.45,
+    "airPress": 1022.96,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016081313,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 99,
+    "soilTemp": 32.89,
+    "soilHum": 68.3,
+    "airPress": 1022.51,
+    "remainV": 5
+  },
+  {
+    "id": 32016081314,
+    "light": 35722,
+    "airTemp": 31.67,
+    "airHum": 100.33,
+    "soilTemp": 31.67,
+    "soilHum": 75.91,
+    "airPress": 1022.35,
+    "remainV": 5
+  },
+  {
+    "id": 32016081315,
+    "light": 35731,
+    "airTemp": 31.67,
+    "airHum": 98.03,
+    "soilTemp": 36.79,
+    "soilHum": 61.36,
+    "airPress": 1021.95,
+    "remainV": 5
+  },
+  {
+    "id": 32016081316,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 98.08,
+    "soilTemp": 108.47,
+    "soilHum": 61.68,
+    "airPress": 1021.93,
+    "remainV": 5
+  },
+  {
+    "id": 32016081317,
+    "light": 15462,
+    "airTemp": 31.67,
+    "airHum": 99.37,
+    "soilTemp": 31.67,
+    "soilHum": 75.04,
+    "airPress": 1021.71,
+    "remainV": 5
+  },
+  {
+    "id": 32016081318,
+    "light": 10185,
+    "airTemp": 31.67,
+    "airHum": 100.42,
+    "soilTemp": 31.67,
+    "soilHum": 69.51,
+    "airPress": 1021.78,
+    "remainV": 5
+  },
+  {
+    "id": 32016081319,
+    "light": 11379,
+    "airTemp": 31.67,
+    "airHum": 100.87,
+    "soilTemp": 31.67,
+    "soilHum": 75.84,
+    "airPress": 1021.91,
+    "remainV": 5
+  },
+  {
+    "id": 32016081320,
+    "light": 472,
+    "airTemp": 25.53,
+    "airHum": 99.78,
+    "soilTemp": 24.57,
+    "soilHum": 68.48,
+    "airPress": 1022.24,
+    "remainV": 5
+  },
+  {
+    "id": 32016081321,
+    "light": 7,
+    "airTemp": 25.91,
+    "airHum": 95.32,
+    "soilTemp": 24.25,
+    "soilHum": 73.96,
+    "airPress": 1022.76,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016081322,
+    "light": 2,
+    "airTemp": 23.83,
+    "airHum": 95.39,
+    "soilTemp": 23.67,
+    "soilHum": 74.05,
+    "airPress": 1023.24,
+    "remainV": 5
+  },
+  {
+    "id": 32016081323,
+    "light": 2,
+    "airTemp": 22.69,
+    "airHum": 95.59,
+    "soilTemp": 23.67,
+    "soilHum": 73.28,
+    "airPress": 1023.65,
+    "remainV": 5
+  },
+  {
+    "id": 32016081400,
+    "light": 2,
+    "airTemp": 23.95,
+    "airHum": 96.07,
+    "soilTemp": 22.01,
+    "soilHum": 76.6,
+    "airPress": 1024.07,
+    "remainV": 5
+  },
+  {
+    "id": 32016081401,
+    "light": 2,
+    "airTemp": 22.73,
+    "airHum": 96.1,
+    "soilTemp": 21.43,
+    "soilHum": 79.81,
+    "airPress": 1024.22,
+    "remainV": 5
+  },
+  {
+    "id": 32016081402,
+    "light": 2,
+    "airTemp": 21.81,
+    "airHum": 96.18,
+    "soilTemp": 21.43,
+    "soilHum": 72.85,
+    "airPress": 1023.97,
+    "remainV": 5
+  },
+  {
+    "id": 32016081403,
+    "light": 2,
+    "airTemp": 21.43,
+    "airHum": 96.4,
+    "soilTemp": 21.43,
+    "soilHum": 79.71,
+    "airPress": 1023.92,
+    "remainV": 5
+  },
+  {
+    "id": 32016081404,
+    "light": 2,
+    "airTemp": 21.43,
+    "airHum": 96.58,
+    "soilTemp": 21.43,
+    "soilHum": 78.87,
+    "airPress": 1023.94,
+    "remainV": 5
+  },
+  {
+    "id": 32016081405,
+    "light": 3,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 78.87,
+    "airPress": 1024.26,
+    "remainV": 5
+  },
+  {
+    "id": 32016081406,
+    "light": 1232,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 77.5,
+    "airPress": 1024.53,
+    "remainV": 5
+  },
+  {
+    "id": 32016081407,
+    "light": 10037,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 82.87,
+    "soilHum": 79.29,
+    "airPress": 1024.95,
+    "remainV": 5
+  },
+  {
+    "id": 32016081408,
+    "light": 28123,
+    "airTemp": 21.43,
+    "airHum": 96.22,
+    "soilTemp": 21.43,
+    "soilHum": 79.03,
+    "airPress": 1025.24,
+    "remainV": 5
+  },
+  {
+    "id": 32016081409,
+    "light": 47609,
+    "airTemp": 22.95,
+    "airHum": 95.64,
+    "soilTemp": 87.99,
+    "soilHum": 73.23,
+    "airPress": 1025.63,
+    "remainV": 5
+  },
+  {
+    "id": 32016081410,
+    "light": 52472,
+    "airTemp": 23.35,
+    "airHum": 94.29,
+    "soilTemp": 24.23,
+    "soilHum": 73.82,
+    "airPress": 1025.82,
+    "remainV": 5
+  },
+  {
+    "id": 32016081411,
+    "light": 46203,
+    "airTemp": 25.91,
+    "airHum": 99.83,
+    "soilTemp": 31.67,
+    "soilHum": 117.15,
+    "airPress": 1025.88,
+    "remainV": 5
+  },
+  {
+    "id": 32016081412,
+    "light": 53798,
+    "airTemp": 26.53,
+    "airHum": 100.05,
+    "soilTemp": 31.67,
+    "soilHum": 69.27,
+    "airPress": 1025.89,
+    "remainV": 5
+  },
+  {
+    "id": 32016081413,
+    "light": 65535,
+    "airTemp": 26.47,
+    "airHum": 99.45,
+    "soilTemp": 31.67,
+    "soilHum": 67.38,
+    "airPress": 1025.6,
+    "remainV": 5
+  },
+  {
+    "id": 32016081414,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 98.86,
+    "soilTemp": 32.45,
+    "soilHum": 61.44,
+    "airPress": 1025.74,
+    "remainV": 5
+  },
+  {
+    "id": 32016081415,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 98.77,
+    "soilTemp": 32.15,
+    "soilHum": 66.98,
+    "airPress": 1025.87,
+    "remainV": 5
+  },
+  {
+    "id": 32016081416,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 98.31,
+    "soilTemp": 32.89,
+    "soilHum": 65.43,
+    "airPress": 1025.57,
+    "remainV": 5
+  },
+  {
+    "id": 32016081417,
+    "light": 25132,
+    "airTemp": 31.67,
+    "airHum": 99.14,
+    "soilTemp": 31.67,
+    "soilHum": 69.93,
+    "airPress": 1025.36,
+    "remainV": 5
+  },
+  {
+    "id": 32016081418,
+    "light": 7674,
+    "airTemp": 31.67,
+    "airHum": 100.87,
+    "soilTemp": 103.35,
+    "soilHum": 71.66,
+    "airPress": 1025.02,
+    "remainV": 5
+  },
+  {
+    "id": 32016081419,
+    "light": 15264,
+    "airTemp": 31.67,
+    "airHum": 101.59,
+    "soilTemp": 31.67,
+    "soilHum": 71.66,
+    "airPress": 1025.14,
+    "remainV": 5
+  },
+  {
+    "id": 32016081420,
+    "light": 2324,
+    "airTemp": 24.75,
+    "airHum": 94.65,
+    "soilTemp": 24.95,
+    "soilHum": 72.63,
+    "airPress": 1025.42,
+    "remainV": 5
+  },
+  {
+    "id": 32016081421,
+    "light": 5,
+    "airTemp": 23.83,
+    "airHum": 95.91,
+    "soilTemp": 23.67,
+    "soilHum": 74.07,
+    "airPress": 1025.81,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016081422,
+    "light": 3,
+    "airTemp": 23.97,
+    "airHum": 96.26,
+    "soilTemp": 21.43,
+    "soilHum": 74.11,
+    "airPress": 1026.14,
+    "remainV": 4.96
+  },
+  {
+    "id": 32016081423,
+    "light": 2,
+    "airTemp": 22.07,
+    "airHum": 96.18,
+    "soilTemp": 21.43,
+    "soilHum": 76.32,
+    "airPress": 1026.31,
+    "remainV": 4.97
+  },
+  {
+    "id": 32016081500,
+    "light": 2,
+    "airTemp": 21.43,
+    "airHum": 96.36,
+    "soilTemp": 21.43,
+    "soilHum": 79.24,
+    "airPress": 1026.47,
+    "remainV": 5
+  },
+  {
+    "id": 32016081501,
+    "light": 3,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 82.87,
+    "soilHum": 80.33,
+    "airPress": 1026.24,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016081502,
+    "light": 3,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1026.19,
+    "remainV": 5
+  },
+  {
+    "id": 32016081503,
+    "light": 3,
+    "airTemp": 21.43,
+    "airHum": 97.63,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1025.9,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016081504,
+    "light": 2,
+    "airTemp": 21.43,
+    "airHum": 98.07,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1025.7,
+    "remainV": 5
+  },
+  {
+    "id": 32016081505,
+    "light": 4,
+    "airTemp": 21.43,
+    "airHum": 98.2,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1025.55,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016081506,
+    "light": 1501,
+    "airTemp": 21.43,
+    "airHum": 98.42,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1025.48,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016081507,
+    "light": 5187,
+    "airTemp": 21.43,
+    "airHum": 98.42,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1025.81,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016081508,
+    "light": 8287,
+    "airTemp": 21.43,
+    "airHum": 98.07,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1025.93,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016081509,
+    "light": 41675,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 82.87,
+    "soilHum": 93.06,
+    "airPress": 1025.99,
+    "remainV": 5
+  },
+  {
+    "id": 32016081510,
+    "light": 65535,
+    "airTemp": 23.85,
+    "airHum": 99.28,
+    "soilTemp": 31.67,
+    "soilHum": 117.15,
+    "airPress": 1025.64,
+    "remainV": 5
+  },
+  {
+    "id": 32016081511,
+    "light": 42666,
+    "airTemp": 25.53,
+    "airHum": 98.49,
+    "soilTemp": 103.35,
+    "soilHum": 62.15,
+    "airPress": 1025.57,
+    "remainV": 4.98
+  },
+  {
+    "id": 32016081512,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 99.23,
+    "soilTemp": 32.63,
+    "soilHum": 60.72,
+    "airPress": 1025.15,
+    "remainV": 5
+  },
+  {
+    "id": 32016081513,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 97.47,
+    "soilTemp": 36.79,
+    "soilHum": 61.36,
+    "airPress": 1024.67,
+    "remainV": 5
+  },
+  {
+    "id": 32016081514,
+    "light": 65535,
+    "airTemp": 33.93,
+    "airHum": 96.27,
+    "soilTemp": 123.83,
+    "soilHum": 38.12,
+    "airPress": 1024.59,
+    "remainV": 4.97
+  },
+  {
+    "id": 32016081515,
+    "light": 65535,
+    "airTemp": 34.07,
+    "airHum": 96.3,
+    "soilTemp": 40.93,
+    "soilHum": 42.99,
+    "airPress": 1024.11,
+    "remainV": 5
+  },
+  {
+    "id": 32016081516,
+    "light": 65535,
+    "airTemp": 34.19,
+    "airHum": 96.55,
+    "soilTemp": 113.59,
+    "soilHum": 43.99,
+    "airPress": 1023.64,
+    "remainV": 5
+  },
+  {
+    "id": 32016081517,
+    "light": 13278,
+    "airTemp": 31.67,
+    "airHum": 99.05,
+    "soilTemp": 103.35,
+    "soilHum": 60.58,
+    "airPress": 1023.33,
+    "remainV": 4.96
+  },
+  {
+    "id": 32016081518,
+    "light": 9651,
+    "airTemp": 31.67,
+    "airHum": 100.87,
+    "soilTemp": 31.67,
+    "soilHum": 67.86,
+    "airPress": 1023.01,
+    "remainV": 5
+  },
+  {
+    "id": 32016081519,
+    "light": 26327,
+    "airTemp": 31.67,
+    "airHum": 101.05,
+    "soilTemp": 103.35,
+    "soilHum": 60.58,
+    "airPress": 1022.75,
+    "remainV": 5
+  },
+  {
+    "id": 32016081520,
+    "light": 2242,
+    "airTemp": 24.39,
+    "airHum": 94.72,
+    "soilTemp": 23.99,
+    "soilHum": 67,
+    "airPress": 1022.79,
+    "remainV": 5
+  },
+  {
+    "id": 32016081521,
+    "light": 8,
+    "airTemp": 23.35,
+    "airHum": 95.75,
+    "soilTemp": 23.99,
+    "soilHum": 74.22,
+    "airPress": 1023.14,
+    "remainV": 5
+  },
+  {
+    "id": 32016081522,
+    "light": 3,
+    "airTemp": 23.35,
+    "airHum": 96.56,
+    "soilTemp": 21.43,
+    "soilHum": 73.73,
+    "airPress": 1023,
+    "remainV": 5
+  },
+  {
+    "id": 32016081523,
+    "light": 3,
+    "airTemp": 21.43,
+    "airHum": 96.58,
+    "soilTemp": 21.43,
+    "soilHum": 80.54,
+    "airPress": 1022.88,
+    "remainV": 5
+  },
+  {
+    "id": 32016081600,
+    "light": 3,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 78.87,
+    "airPress": 1022.72,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016081601,
+    "light": 3,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 75.73,
+    "airPress": 1022.43,
+    "remainV": 5
+  },
+  {
+    "id": 32016081602,
+    "light": 3,
+    "airTemp": 21.43,
+    "airHum": 114.19,
+    "soilTemp": 82.87,
+    "soilHum": 78.87,
+    "airPress": 1022.16,
+    "remainV": 5
+  },
+  {
+    "id": 32016081603,
+    "light": 3,
+    "airTemp": 21.43,
+    "airHum": 98.07,
+    "soilTemp": 21.43,
+    "soilHum": 80.17,
+    "airPress": 1021.57,
+    "remainV": 5
+  },
+  {
+    "id": 32016081604,
+    "light": 3,
+    "airTemp": 21.43,
+    "airHum": 98.16,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1021.12,
+    "remainV": 5
+  },
+  {
+    "id": 32016081605,
+    "light": 3,
+    "airTemp": 21.43,
+    "airHum": 98.42,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1020.84,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016081606,
+    "light": 1001,
+    "airTemp": 21.43,
+    "airHum": 98.59,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1020.73,
+    "remainV": 5.01
+  },
+  {
+    "id": 32016081607,
+    "light": 9867,
+    "airTemp": 21.43,
+    "airHum": 98.24,
+    "soilTemp": 82.87,
+    "soilHum": 93.06,
+    "airPress": 1020.66,
+    "remainV": 5
+  },
+  {
+    "id": 32016081608,
+    "light": 22430,
+    "airTemp": 21.43,
+    "airHum": 97.72,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1020.44,
+    "remainV": 5
+  },
+  {
+    "id": 32016081609,
+    "light": 43788,
+    "airTemp": 21.43,
+    "airHum": 96.22,
+    "soilTemp": 21.91,
+    "soilHum": 77.79,
+    "airPress": 1020.33,
+    "remainV": 5
+  },
+  {
+    "id": 32016081610,
+    "light": 65535,
+    "airTemp": 22.85,
+    "airHum": 99.13,
+    "soilTemp": 31.67,
+    "soilHum": 71.61,
+    "airPress": 1020.38,
+    "remainV": 5
+  },
+  {
+    "id": 32016081611,
+    "light": 42093,
+    "airTemp": 26.41,
+    "airHum": 98.73,
+    "soilTemp": 31.67,
+    "soilHum": 60.58,
+    "airPress": 1020.3,
+    "remainV": 4.99
+  },
+  {
+    "id": 32016081612,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 100.96,
+    "soilTemp": 31.67,
+    "soilHum": 66.43,
+    "airPress": 1019.56,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081613,
+    "light": 65535,
+    "airTemp": 32.83,
+    "airHum": 96.23,
+    "soilTemp": 39.35,
+    "soilHum": 43.72,
+    "airPress": 1019.12,
+    "remainV": 5.1
+  },
+  {
+    "id": 32016081614,
+    "light": 65535,
+    "airTemp": 33.67,
+    "airHum": 96.21,
+    "soilTemp": 39.55,
+    "soilHum": 53.5,
+    "airPress": 1018.91,
+    "remainV": 5.1
+  },
+  {
+    "id": 32016081615,
+    "light": 65535,
+    "airTemp": 34.23,
+    "airHum": 96.33,
+    "soilTemp": 36.79,
+    "soilHum": 53.14,
+    "airPress": 1018.74,
+    "remainV": 5.1
+  },
+  {
+    "id": 32016081616,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.68,
+    "soilTemp": 108.47,
+    "soilHum": 52.71,
+    "airPress": 1018.39,
+    "remainV": 5.1
+  },
+  {
+    "id": 32016081617,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 31.67,
+    "soilHum": 60.58,
+    "airPress": 1018.03,
+    "remainV": 5.08
+  },
+  {
+    "id": 32016081618,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 31.67,
+    "soilHum": 60.58,
+    "airPress": 1017.76,
+    "remainV": 5.08
+  },
+  {
+    "id": 32016081619,
+    "light": 65535,
+    "airTemp": 26.39,
+    "airHum": 94.32,
+    "soilTemp": 31.67,
+    "soilHum": 60.58,
+    "airPress": 1017.5,
+    "remainV": 5.08
+  },
+  {
+    "id": 32016081620,
+    "light": 12726,
+    "airTemp": 23.73,
+    "airHum": 93.67,
+    "soilTemp": 23.99,
+    "soilHum": 67,
+    "airPress": 1017.43,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081621,
+    "light": 15,
+    "airTemp": 22.63,
+    "airHum": 93.37,
+    "soilTemp": 21.43,
+    "soilHum": 66.55,
+    "airPress": 1017.35,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081622,
+    "light": 9,
+    "airTemp": 21.43,
+    "airHum": 93.7,
+    "soilTemp": 21.43,
+    "soilHum": 73.73,
+    "airPress": 1017.48,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081623,
+    "light": 8,
+    "airTemp": 21.43,
+    "airHum": 95.24,
+    "soilTemp": 82.87,
+    "soilHum": 76.75,
+    "airPress": 1017.27,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081700,
+    "light": 8,
+    "airTemp": 21.43,
+    "airHum": 95.91,
+    "soilTemp": 82.87,
+    "soilHum": 79.71,
+    "airPress": 1017.24,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016081701,
+    "light": 8,
+    "airTemp": 21.43,
+    "airHum": 96.49,
+    "soilTemp": 21.43,
+    "soilHum": 80.43,
+    "airPress": 1016.84,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016081702,
+    "light": 8,
+    "airTemp": 21.43,
+    "airHum": 97.37,
+    "soilTemp": 21.43,
+    "soilHum": 76.75,
+    "airPress": 1016.38,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016081703,
+    "light": 8,
+    "airTemp": 21.43,
+    "airHum": 97.59,
+    "soilTemp": 82.87,
+    "soilHum": 77.71,
+    "airPress": 1015.9,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016081704,
+    "light": 8,
+    "airTemp": 21.43,
+    "airHum": 98.07,
+    "soilTemp": 21.43,
+    "soilHum": 79.81,
+    "airPress": 1015.4,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016081705,
+    "light": 11,
+    "airTemp": 21.43,
+    "airHum": 98.46,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1014.98,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016081706,
+    "light": 5878,
+    "airTemp": 21.43,
+    "airHum": 98.59,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1014.55,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016081707,
+    "light": 37590,
+    "airTemp": 21.43,
+    "airHum": 98.07,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1014.46,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016081708,
+    "light": 61255,
+    "airTemp": 21.43,
+    "airHum": 97.46,
+    "soilTemp": 82.87,
+    "soilHum": 93.06,
+    "airPress": 1014.35,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016081709,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 112.4,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1014.2,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016081710,
+    "light": 65535,
+    "airTemp": 25.91,
+    "airHum": 99.65,
+    "soilTemp": 31.67,
+    "soilHum": 66.48,
+    "airPress": 1014.43,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016081711,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 97.94,
+    "soilTemp": 108.47,
+    "soilHum": 60.92,
+    "airPress": 1014.23,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016081712,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 97.19,
+    "soilTemp": 36.79,
+    "soilHum": 61.36,
+    "airPress": 1013.88,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016081713,
+    "light": 65535,
+    "airTemp": 33.73,
+    "airHum": 96.32,
+    "soilTemp": 39.35,
+    "soilHum": 61.75,
+    "airPress": 1013.27,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016081714,
+    "light": 65535,
+    "airTemp": 36.79,
+    "airHum": 96.98,
+    "soilTemp": 41.95,
+    "soilHum": 41.56,
+    "airPress": 1012.99,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016081715,
+    "light": 65535,
+    "airTemp": 36.79,
+    "airHum": 96.98,
+    "soilTemp": 123.83,
+    "soilHum": 39.39,
+    "airPress": 1012.54,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016081716,
+    "light": 65535,
+    "airTemp": 36.79,
+    "airHum": 96.98,
+    "soilTemp": 39.35,
+    "soilHum": 53.48,
+    "airPress": 1012.13,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016081717,
+    "light": 60707,
+    "airTemp": 31.67,
+    "airHum": 95.96,
+    "soilTemp": 32.07,
+    "soilHum": 60.65,
+    "airPress": 1011.95,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016081718,
+    "light": 39647,
+    "airTemp": 31.67,
+    "airHum": 97.94,
+    "soilTemp": 31.67,
+    "soilHum": 66.43,
+    "airPress": 1011.77,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016081719,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 97.94,
+    "soilTemp": 31.67,
+    "soilHum": 61.38,
+    "airPress": 1011.65,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016081720,
+    "light": 3181,
+    "airTemp": 25.91,
+    "airHum": 98.59,
+    "soilTemp": 26.55,
+    "soilHum": 67.44,
+    "airPress": 1011.96,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016081721,
+    "light": 11,
+    "airTemp": 24.47,
+    "airHum": 99.28,
+    "soilTemp": 23.99,
+    "soilHum": 74.22,
+    "airPress": 1012.16,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016081722,
+    "light": 8,
+    "airTemp": 23.99,
+    "airHum": 93.76,
+    "soilTemp": 23.99,
+    "soilHum": 74.22,
+    "airPress": 1012.04,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016081723,
+    "light": 8,
+    "airTemp": 22.39,
+    "airHum": 94.63,
+    "soilTemp": 21.43,
+    "soilHum": 80.54,
+    "airPress": 1012.05,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016081800,
+    "light": 8,
+    "airTemp": 21.43,
+    "airHum": 94.88,
+    "soilTemp": 21.43,
+    "soilHum": 80.54,
+    "airPress": 1011.71,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081801,
+    "light": 8,
+    "airTemp": 21.43,
+    "airHum": 95.6,
+    "soilTemp": 21.43,
+    "soilHum": 76.97,
+    "airPress": 1011.04,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081802,
+    "light": 8,
+    "airTemp": 21.43,
+    "airHum": 96,
+    "soilTemp": 21.43,
+    "soilHum": 79.71,
+    "airPress": 1010.5,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081803,
+    "light": 8,
+    "airTemp": 21.43,
+    "airHum": 96.31,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1010.27,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081804,
+    "light": 8,
+    "airTemp": 21.43,
+    "airHum": 96.22,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1010.76,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081805,
+    "light": 11,
+    "airTemp": 21.43,
+    "airHum": 96.18,
+    "soilTemp": 82.87,
+    "soilHum": 93.06,
+    "airPress": 1010.62,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081806,
+    "light": 3083,
+    "airTemp": 21.43,
+    "airHum": 96.18,
+    "soilTemp": 82.87,
+    "soilHum": 93.06,
+    "airPress": 1010.25,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081807,
+    "light": 27351,
+    "airTemp": 21.43,
+    "airHum": 96.18,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1009.94,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081808,
+    "light": 63162,
+    "airTemp": 21.43,
+    "airHum": 95.6,
+    "soilTemp": 82.87,
+    "soilHum": 93.06,
+    "airPress": 1010.05,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081809,
+    "light": 65535,
+    "airTemp": 21.73,
+    "airHum": 94.85,
+    "soilTemp": 23.91,
+    "soilHum": 74.91,
+    "airPress": 1010.11,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081810,
+    "light": 65535,
+    "airTemp": 26.49,
+    "airHum": 97.56,
+    "soilTemp": 31.67,
+    "soilHum": 117.15,
+    "airPress": 1010.28,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081811,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 96.15,
+    "soilTemp": 32.71,
+    "soilHum": 60.75,
+    "airPress": 1010.51,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081812,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 96.81,
+    "soilTemp": 31.67,
+    "soilHum": 64.32,
+    "airPress": 1010.22,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081813,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 31.67,
+    "soilHum": 107.14,
+    "airPress": 1010.16,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081814,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 108.47,
+    "soilHum": 43.71,
+    "airPress": 1010.27,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081815,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 103.35,
+    "soilHum": 95.67,
+    "airPress": 1010.12,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081816,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 96.24,
+    "soilTemp": 31.67,
+    "soilHum": 60.58,
+    "airPress": 1009.88,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081817,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 96.24,
+    "soilTemp": 31.67,
+    "soilHum": 107.14,
+    "airPress": 1009.92,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081818,
+    "light": 65535,
+    "airTemp": 26.47,
+    "airHum": 95.53,
+    "soilTemp": 103.35,
+    "soilHum": 52.46,
+    "airPress": 1010.24,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081819,
+    "light": 57358,
+    "airTemp": 25.91,
+    "airHum": 94.95,
+    "soilTemp": 31.67,
+    "soilHum": 52.46,
+    "airPress": 1010.28,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081820,
+    "light": 5603,
+    "airTemp": 24.73,
+    "airHum": 96.63,
+    "soilTemp": 23.67,
+    "soilHum": 59.35,
+    "airPress": 1010.34,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081821,
+    "light": 8,
+    "airTemp": 21.99,
+    "airHum": 97.59,
+    "soilTemp": 22.95,
+    "soilHum": 73.5,
+    "airPress": 1010.61,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081822,
+    "light": 6,
+    "airTemp": 22.57,
+    "airHum": 98.9,
+    "soilTemp": 21.43,
+    "soilHum": 72.19,
+    "airPress": 1010.71,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081823,
+    "light": 7,
+    "airTemp": 21.43,
+    "airHum": 93.79,
+    "soilTemp": 82.87,
+    "soilHum": 75.03,
+    "airPress": 1010.51,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081900,
+    "light": 8,
+    "airTemp": 21.43,
+    "airHum": 93.97,
+    "soilTemp": 21.43,
+    "soilHum": 75.03,
+    "airPress": 1010.75,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081901,
+    "light": 8,
+    "airTemp": 21.43,
+    "airHum": 94.34,
+    "soilTemp": 82.87,
+    "soilHum": 78.87,
+    "airPress": 1010.25,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081902,
+    "light": 8,
+    "airTemp": 21.43,
+    "airHum": 94.88,
+    "soilTemp": 21.43,
+    "soilHum": 80.54,
+    "airPress": 1009.87,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081903,
+    "light": 9,
+    "airTemp": 21.43,
+    "airHum": 94.79,
+    "soilTemp": 21.43,
+    "soilHum": 78.87,
+    "airPress": 1009.35,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081904,
+    "light": 8,
+    "airTemp": 21.43,
+    "airHum": 94.88,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1008.67,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081905,
+    "light": 9,
+    "airTemp": 21.43,
+    "airHum": 95.24,
+    "soilTemp": 82.87,
+    "soilHum": 79.71,
+    "airPress": 1007.98,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081906,
+    "light": 4045,
+    "airTemp": 21.43,
+    "airHum": 95.24,
+    "soilTemp": 82.87,
+    "soilHum": 93.06,
+    "airPress": 1007.91,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081907,
+    "light": 23969,
+    "airTemp": 21.43,
+    "airHum": 95.24,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1007.68,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081908,
+    "light": 50591,
+    "airTemp": 21.43,
+    "airHum": 94.79,
+    "soilTemp": 21.43,
+    "soilHum": 77.18,
+    "airPress": 1007.4,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081909,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 94.61,
+    "soilTemp": 21.43,
+    "soilHum": 78.87,
+    "airPress": 1007.09,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081910,
+    "light": 55217,
+    "airTemp": 21.43,
+    "airHum": 93.97,
+    "soilTemp": 22.59,
+    "soilHum": 79.96,
+    "airPress": 1006.87,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081911,
+    "light": 65535,
+    "airTemp": 22.87,
+    "airHum": 99.16,
+    "soilTemp": 21.81,
+    "soilHum": 74.67,
+    "airPress": 1006.7,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081912,
+    "light": 65535,
+    "airTemp": 23.49,
+    "airHum": 99.31,
+    "soilTemp": 22.39,
+    "soilHum": 75.94,
+    "airPress": 1006.25,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081913,
+    "light": 65535,
+    "airTemp": 22.01,
+    "airHum": 93.75,
+    "soilTemp": 22.13,
+    "soilHum": 76.87,
+    "airPress": 1005.76,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081914,
+    "light": 54530,
+    "airTemp": 22.39,
+    "airHum": 93.76,
+    "soilTemp": 23.35,
+    "soilHum": 75.89,
+    "airPress": 1005.74,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081915,
+    "light": 65535,
+    "airTemp": 22.55,
+    "airHum": 98.39,
+    "soilTemp": 24.61,
+    "soilHum": 67.93,
+    "airPress": 1005.38,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081916,
+    "light": 65535,
+    "airTemp": 22.89,
+    "airHum": 98.1,
+    "soilTemp": 23.35,
+    "soilHum": 65.68,
+    "airPress": 1005.55,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081917,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 98.72,
+    "soilTemp": 21.43,
+    "soilHum": 75.3,
+    "airPress": 1005.18,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081918,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 93.79,
+    "soilTemp": 21.43,
+    "soilHum": 79.71,
+    "airPress": 1004.85,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081919,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 93.61,
+    "soilTemp": 21.63,
+    "soilHum": 78.08,
+    "airPress": 1004.84,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081920,
+    "light": 4845,
+    "airTemp": 21.43,
+    "airHum": 93.79,
+    "soilTemp": 21.43,
+    "soilHum": 79.24,
+    "airPress": 1005.07,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081921,
+    "light": 8,
+    "airTemp": 21.43,
+    "airHum": 94.61,
+    "soilTemp": 21.43,
+    "soilHum": 80.38,
+    "airPress": 1005.63,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081922,
+    "light": 6,
+    "airTemp": 21.43,
+    "airHum": 94.79,
+    "soilTemp": 21.43,
+    "soilHum": 78.87,
+    "airPress": 1005.74,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016081923,
+    "light": 6,
+    "airTemp": 21.43,
+    "airHum": 95.24,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1005.94,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082000,
+    "light": 6,
+    "airTemp": 21.43,
+    "airHum": 95.24,
+    "soilTemp": 21.43,
+    "soilHum": 78.87,
+    "airPress": 1005.88,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082001,
+    "light": 6,
+    "airTemp": 21.43,
+    "airHum": 95.42,
+    "soilTemp": 82.87,
+    "soilHum": 77.81,
+    "airPress": 1005.88,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082002,
+    "light": 6,
+    "airTemp": 21.43,
+    "airHum": 95.69,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1005.74,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082003,
+    "light": 6,
+    "airTemp": 21.43,
+    "airHum": 95.64,
+    "soilTemp": 21.43,
+    "soilHum": 79.71,
+    "airPress": 1005.59,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082004,
+    "light": 7,
+    "airTemp": 21.43,
+    "airHum": 95.78,
+    "soilTemp": 82.87,
+    "soilHum": 77.39,
+    "airPress": 1005.58,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082005,
+    "light": 7,
+    "airTemp": 21.43,
+    "airHum": 95.6,
+    "soilTemp": 21.43,
+    "soilHum": 79.29,
+    "airPress": 1005.47,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082006,
+    "light": 3864,
+    "airTemp": 21.43,
+    "airHum": 95.69,
+    "soilTemp": 21.43,
+    "soilHum": 78.03,
+    "airPress": 1005.28,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082007,
+    "light": 25366,
+    "airTemp": 21.43,
+    "airHum": 95.87,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1005.39,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082008,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 95.6,
+    "soilTemp": 21.43,
+    "soilHum": 76.43,
+    "airPress": 1005.46,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082009,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 94.43,
+    "soilTemp": 21.43,
+    "soilHum": 68.27,
+    "airPress": 1005.54,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082010,
+    "light": 35547,
+    "airTemp": 21.43,
+    "airHum": 93.7,
+    "soilTemp": 21.43,
+    "soilHum": 72.08,
+    "airPress": 1006.27,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082011,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 93.88,
+    "soilTemp": 23.35,
+    "soilHum": 70.09,
+    "airPress": 1006.3,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082012,
+    "light": 65535,
+    "airTemp": 22.57,
+    "airHum": 97.7,
+    "soilTemp": 26.43,
+    "soilHum": 115.39,
+    "airPress": 1006.45,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082013,
+    "light": 65535,
+    "airTemp": 25.19,
+    "airHum": 95.8,
+    "soilTemp": 26.29,
+    "soilHum": 105.58,
+    "airPress": 1006.19,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082014,
+    "light": 65535,
+    "airTemp": 24.69,
+    "airHum": 93.9,
+    "soilTemp": 103.35,
+    "soilHum": 95.67,
+    "airPress": 1006.33,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082015,
+    "light": 65535,
+    "airTemp": 24.77,
+    "airHum": 93.91,
+    "soilTemp": 103.35,
+    "soilHum": 95.67,
+    "airPress": 1006.69,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082016,
+    "light": 65535,
+    "airTemp": 22.39,
+    "airHum": 93.31,
+    "soilTemp": 22.65,
+    "soilHum": 59.2,
+    "airPress": 1006.58,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082017,
+    "light": 65535,
+    "airTemp": 22.07,
+    "airHum": 95.48,
+    "soilTemp": 22.67,
+    "soilHum": 114.11,
+    "airPress": 1006.87,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082018,
+    "light": 65535,
+    "airTemp": 23.97,
+    "airHum": 96.7,
+    "soilTemp": 22.13,
+    "soilHum": 113.91,
+    "airPress": 1007,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082019,
+    "light": 27247,
+    "airTemp": 21.61,
+    "airHum": 97.44,
+    "soilTemp": 82.87,
+    "soilHum": 67.07,
+    "airPress": 1007.48,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082020,
+    "light": 865,
+    "airTemp": 21.43,
+    "airHum": 98.68,
+    "soilTemp": 21.43,
+    "soilHum": 79.18,
+    "airPress": 1007.91,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082021,
+    "light": 10,
+    "airTemp": 21.43,
+    "airHum": 93.7,
+    "soilTemp": 21.43,
+    "soilHum": 76.32,
+    "airPress": 1008.5,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082022,
+    "light": 7,
+    "airTemp": 21.43,
+    "airHum": 94.15,
+    "soilTemp": 21.43,
+    "soilHum": 77.6,
+    "airPress": 1008.47,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082023,
+    "light": 7,
+    "airTemp": 21.43,
+    "airHum": 94.43,
+    "soilTemp": 21.43,
+    "soilHum": 76.32,
+    "airPress": 1008.6,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082100,
+    "light": 8,
+    "airTemp": 21.43,
+    "airHum": 94.43,
+    "soilTemp": 21.43,
+    "soilHum": 80.54,
+    "airPress": 1008.97,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082101,
+    "light": 8,
+    "airTemp": 21.43,
+    "airHum": 94.43,
+    "soilTemp": 21.43,
+    "soilHum": 78.87,
+    "airPress": 1009.25,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082102,
+    "light": 9,
+    "airTemp": 21.43,
+    "airHum": 94.43,
+    "soilTemp": 21.43,
+    "soilHum": 78.87,
+    "airPress": 1009.53,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082103,
+    "light": 8,
+    "airTemp": 21.43,
+    "airHum": 94.43,
+    "soilTemp": 21.43,
+    "soilHum": 73.84,
+    "airPress": 1010.11,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082104,
+    "light": 7,
+    "airTemp": 21.43,
+    "airHum": 94.79,
+    "soilTemp": 21.43,
+    "soilHum": 77.6,
+    "airPress": 1010.3,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082105,
+    "light": 8,
+    "airTemp": 21.43,
+    "airHum": 94.79,
+    "soilTemp": 82.87,
+    "soilHum": 74,
+    "airPress": 1011.1,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082106,
+    "light": 2366,
+    "airTemp": 21.43,
+    "airHum": 94.88,
+    "soilTemp": 21.43,
+    "soilHum": 76.97,
+    "airPress": 1011.65,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082107,
+    "light": 11543,
+    "airTemp": 21.43,
+    "airHum": 95.24,
+    "soilTemp": 21.43,
+    "soilHum": 77.5,
+    "airPress": 1012.51,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082108,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 94.61,
+    "soilTemp": 21.43,
+    "soilHum": 76.32,
+    "airPress": 1013.16,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082109,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 93.61,
+    "soilTemp": 22.55,
+    "soilHum": 69.71,
+    "airPress": 1014.14,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082110,
+    "light": 65535,
+    "airTemp": 22.09,
+    "airHum": 98.75,
+    "soilTemp": 22.21,
+    "soilHum": 113.95,
+    "airPress": 1014.93,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082111,
+    "light": 65535,
+    "airTemp": 22.15,
+    "airHum": 98.33,
+    "soilTemp": 25.29,
+    "soilHum": 65.6,
+    "airPress": 1015.64,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082112,
+    "light": 65535,
+    "airTemp": 22.39,
+    "airHum": 115.41,
+    "soilTemp": 24.47,
+    "soilHum": 62.36,
+    "airPress": 1016.45,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082113,
+    "light": 65535,
+    "airTemp": 24.95,
+    "airHum": 96.17,
+    "soilTemp": 31.67,
+    "soilHum": 61.36,
+    "airPress": 1017.09,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082114,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 31.67,
+    "soilHum": 60.58,
+    "airPress": 1017.45,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082115,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 31.67,
+    "soilHum": 61.36,
+    "airPress": 1018.26,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082116,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 103.35,
+    "soilHum": 60.58,
+    "airPress": 1018.84,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082117,
+    "light": 44521,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 31.67,
+    "soilHum": 52.46,
+    "airPress": 1018.96,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082118,
+    "light": 43551,
+    "airTemp": 26.23,
+    "airHum": 95.12,
+    "soilTemp": 26.27,
+    "soilHum": 115.31,
+    "airPress": 1019.54,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082119,
+    "light": 19975,
+    "airTemp": 23.35,
+    "airHum": 94.93,
+    "soilTemp": 22.65,
+    "soilHum": 66.65,
+    "airPress": 1020.21,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082120,
+    "light": 1611,
+    "airTemp": 22.55,
+    "airHum": 97.68,
+    "soilTemp": 87.99,
+    "soilHum": 72.89,
+    "airPress": 1020.13,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082121,
+    "light": 8,
+    "airTemp": 21.43,
+    "airHum": 98.07,
+    "soilTemp": 21.43,
+    "soilHum": 78.87,
+    "airPress": 1020.34,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082122,
+    "light": 8,
+    "airTemp": 21.43,
+    "airHum": 98.24,
+    "soilTemp": 21.43,
+    "soilHum": 75.68,
+    "airPress": 1020.24,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082123,
+    "light": 8,
+    "airTemp": 21.43,
+    "airHum": 98.42,
+    "soilTemp": 21.43,
+    "soilHum": 80.43,
+    "airPress": 1020.38,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082200,
+    "light": 7,
+    "airTemp": 21.43,
+    "airHum": 98.51,
+    "soilTemp": 82.87,
+    "soilHum": 74.65,
+    "airPress": 1020.3,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082201,
+    "light": 8,
+    "airTemp": 21.43,
+    "airHum": 98.76,
+    "soilTemp": 82.87,
+    "soilHum": 79.71,
+    "airPress": 1020.5,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082202,
+    "light": 7,
+    "airTemp": 21.43,
+    "airHum": 98.76,
+    "soilTemp": 82.87,
+    "soilHum": 79.71,
+    "airPress": 1020.43,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082203,
+    "light": 8,
+    "airTemp": 21.43,
+    "airHum": 93.38,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1020.71,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082204,
+    "light": 7,
+    "airTemp": 21.43,
+    "airHum": 93.61,
+    "soilTemp": 21.43,
+    "soilHum": 80.17,
+    "airPress": 1020.96,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082205,
+    "light": 6,
+    "airTemp": 21.43,
+    "airHum": 93.7,
+    "soilTemp": 21.43,
+    "soilHum": 80.12,
+    "airPress": 1020.66,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082206,
+    "light": 855,
+    "airTemp": 21.43,
+    "airHum": 94.15,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1021.05,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082207,
+    "light": 21306,
+    "airTemp": 21.43,
+    "airHum": 94.15,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1021.9,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082208,
+    "light": 37713,
+    "airTemp": 21.43,
+    "airHum": 93.97,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1022.48,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082209,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 93.42,
+    "soilTemp": 87.99,
+    "soilHum": 74.68,
+    "airPress": 1022.74,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082210,
+    "light": 65535,
+    "airTemp": 23.67,
+    "airHum": 98.68,
+    "soilTemp": 23.43,
+    "soilHum": 73.75,
+    "airPress": 1023.02,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082211,
+    "light": 65535,
+    "airTemp": 26.41,
+    "airHum": 94.98,
+    "soilTemp": 31.67,
+    "soilHum": 60.58,
+    "airPress": 1022.93,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082212,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 103.35,
+    "soilHum": 62.15,
+    "airPress": 1023.21,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082213,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 103.35,
+    "soilHum": 66.43,
+    "airPress": 1023.19,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082214,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 31.85,
+    "soilHum": 63.67,
+    "airPress": 1023.37,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082215,
+    "light": 65535,
+    "airTemp": 32.15,
+    "airHum": 95.8,
+    "soilTemp": 36.79,
+    "soilHum": 61.36,
+    "airPress": 1023.35,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082216,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 108.47,
+    "soilHum": 60.72,
+    "airPress": 1023.51,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082217,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 103.35,
+    "soilHum": 60.76,
+    "airPress": 1023.71,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082218,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 31.67,
+    "soilHum": 107.14,
+    "airPress": 1024.08,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082219,
+    "light": 20711,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 31.67,
+    "soilHum": 117.15,
+    "airPress": 1024.29,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082220,
+    "light": 2306,
+    "airTemp": 26.43,
+    "airHum": 94.59,
+    "soilTemp": 25.91,
+    "soilHum": 70.1,
+    "airPress": 1024.3,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082221,
+    "light": 6,
+    "airTemp": 23.45,
+    "airHum": 95.79,
+    "soilTemp": 22.57,
+    "soilHum": 68.95,
+    "airPress": 1024.64,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082222,
+    "light": 5,
+    "airTemp": 23.95,
+    "airHum": 96.83,
+    "soilTemp": 22.91,
+    "soilHum": 71.13,
+    "airPress": 1024.71,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082223,
+    "light": 5,
+    "airTemp": 22.11,
+    "airHum": 97.6,
+    "soilTemp": 82.87,
+    "soilHum": 77.66,
+    "airPress": 1024.79,
+    "remainV": 5.07
+  },
+  {
+    "id": 32016082300,
+    "light": 6,
+    "airTemp": 21.43,
+    "airHum": 97.59,
+    "soilTemp": 21.43,
+    "soilHum": 76.97,
+    "airPress": 1024.88,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082301,
+    "light": 5,
+    "airTemp": 21.43,
+    "airHum": 98.07,
+    "soilTemp": 21.43,
+    "soilHum": 74.16,
+    "airPress": 1024.96,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082302,
+    "light": 5,
+    "airTemp": 21.43,
+    "airHum": 98.51,
+    "soilTemp": 21.43,
+    "soilHum": 78.87,
+    "airPress": 1024.75,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082303,
+    "light": 5,
+    "airTemp": 21.43,
+    "airHum": 98.68,
+    "soilTemp": 21.43,
+    "soilHum": 79.71,
+    "airPress": 1024.63,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082304,
+    "light": 5,
+    "airTemp": 21.43,
+    "airHum": 93.61,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1024.31,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082305,
+    "light": 6,
+    "airTemp": 21.43,
+    "airHum": 93.88,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1024.26,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082306,
+    "light": 2367,
+    "airTemp": 21.43,
+    "airHum": 94.25,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1024.45,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082307,
+    "light": 12336,
+    "airTemp": 21.43,
+    "airHum": 94.43,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1024.64,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082308,
+    "light": 20024,
+    "airTemp": 21.43,
+    "airHum": 93.97,
+    "soilTemp": 21.43,
+    "soilHum": 93.06,
+    "airPress": 1024.62,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082309,
+    "light": 65535,
+    "airTemp": 21.43,
+    "airHum": 93.61,
+    "soilTemp": 21.43,
+    "soilHum": 78.87,
+    "airPress": 1024.57,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082310,
+    "light": 65535,
+    "airTemp": 25.47,
+    "airHum": 95.82,
+    "soilTemp": 103.35,
+    "soilHum": 60.58,
+    "airPress": 1024.34,
+    "remainV": 5.06
+  },
+  {
+    "id": 32016082311,
+    "light": 65535,
+    "airTemp": 31.67,
+    "airHum": 95.67,
+    "soilTemp": 36.79,
+    "soilHum": 53.14,
+    "airPress": 1023.65,
+    "remainV": 5.06
+  }
+]
