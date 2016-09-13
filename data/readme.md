@@ -21,7 +21,7 @@ soil humid = 34.64 %
 air pressure at sea level = 1020.52 millibar   
 remained voltages = 4.88 V.   
 
-Notes:    
+### Notes:    
 
 1. Next update of datasets for both json and txt ([datasets.zip](https://github.com/nandadoes/cs-sensor-unit/raw/master/data/datasets.zip)) formats will be notified here. For file conversion method, see [From TXT to JSON file conversion: how to](https://github.com/nandadoes/cs-sensor-unit/wiki/From-TXT-to-JSON-file-conversion:-how-to)
 2. Daily updates on Thingspeak [channels](https://github.com/nandadoes/cs-sensor-unit/wiki/Thingspeak-pages) are not fully pushed through due to 3G network connectivity issue
