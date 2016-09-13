@@ -3,7 +3,7 @@
 # This scirpt import content of a csv file into a dataframe then convert it into
 # a json object before saving it in JSON file format
 # 
-# Requuired package:
+# Required package:
 #         jsonlite
 # 
 # Last modified: 2016-09-12  
