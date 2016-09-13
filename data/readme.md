@@ -1,12 +1,6 @@
 Notes:    
-<<<<<<< HEAD
-1. Datasets in both json and txt ([datasets.zip](https://github.com/nandadoes/cs-sensor-unit/raw/master/data/datasets.zip) ) formats are updated weekly on Friday   
+1. Next update of datasets in both json and txt ([datasets.zip](https://github.com/nandadoes/cs-sensor-unit/raw/master/data/datasets.zip) ) will be notified here.   
 2. Daily updates on Thingspeak [channels](https://github.com/nandadoes/cs-sensor-unit/wiki/Thingspeak-pages) are not fully pushed through due to 3G network connectivity issue
-=======
-1) all datasets are updated weekly on Friday morning and can be downloaded as a compressed folder: [datasets.zip](https://github.com/nandadoes/cs-sensor-unit/raw/master/data/datasets.zip)   
-2) Daily updates on Thingspeak [channels](https://github.com/nandadoes/cs-sensor-unit/wiki/Thingspeak-pages) are not fully pushed through due to 3G network connectivity issue
->>>>>>> origin/master
-
 
 
 #File description 
