@@ -1,7 +1,7 @@
 Notes:    
 1. Next update of datasets for both json and txt ([datasets.zip](https://github.com/nandadoes/cs-sensor-unit/raw/master/data/datasets.zip) ) formats will be notified here.   
 2. Daily updates on Thingspeak [channels](https://github.com/nandadoes/cs-sensor-unit/wiki/Thingspeak-pages) are not fully pushed through due to 3G network connectivity issue      
-3. Awaing content for seeds09.json from Sara
+3. Awaiting content for seeds09.json
 
 #File description 
 
