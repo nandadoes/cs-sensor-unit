@@ -23,7 +23,7 @@ soil humid = 34.64 %
 air pressure at sea level = 1020.52 millibar   
 remained voltages = 4.88 V.   
 
-### File conversion method
+### File conversion method:
 see [TXT to JSON format conversion: how to](https://github.com/nandadoes/cs-sensor-unit/wiki/TXT-to-JSON-format-conversion:-how-to)
 
 ### Notes:    
