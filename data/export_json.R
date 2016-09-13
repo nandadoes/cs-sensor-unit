@@ -1,4 +1,4 @@
-# export-json.R
+# export_json.R
 # 
 # This scirpt import content of a csv file into a dataframe then convert it into
 # a json object before saving it in JSON file format
