@@ -1,7 +1,7 @@
 # export_json.R
 # 
-# This scirpt import content of a csv file into a dataframe then convert it into
-# a json object before saving it in JSON file format
+# This scirpt imports content of a csv file into a dataframe then converts it into
+# a json object before saving in JSON file format
 # 
 # Required package:
 #         jsonlite
