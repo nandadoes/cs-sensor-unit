@@ -41,14 +41,14 @@ See [component list](https://github.com/nandadoes/cs-sensor-unit/wiki/Component-
 ### Usage:
 * __How it works__ – On start up, MCU is put into sleep mode and only wakes up by 2 alarms to perform series of events: 
     + _Alarm 1_ wakes up MCU @ minute zero of every hour. This is to read, do a simple stat and store all data including alarm event in text files before entering sleep mode. 
-    + _Alarm 2_ wakes up MCU @ 23:10 every day to upload data toThingSpeak and record alarm and 3G communication events in text files. After that, it checks 3G shield's power state and attempts to power it off (several times since the 3G shield is having issue with its power on/off feature of the original hardware). Before going into sleep mode, it sends out an sms notification to two phone numbers if the sensed voltage is lower than the mininum threshold.
+    + _Alarm 2_ wakes up MCU @ 23:10 every day to upload data to ThingSpeak and record alarm and 3G communication events in text files. After that, it checks 3G shield's power state and attempts to power it off (several times since the 3G shield is having issue with its power on/off feature of the original hardware). Before going into sleep mode, it sends out an sms notification to two phone numbers if the sensed voltage is lower than the mininum threshold.
 
 
 ### Contributing: 
 The work is still under development. Though it is fully functional, several elements regarding both hardware and software can be improved. I will be very grateful if some parts or the entire system can be beneficial to your research or practice or play, and/or if you like to help improve. If so, please feedback using a [contributing template](https://github.com/nandakrpp/connectedseeds/edit/nandakrpp-cs-contributing-1/contributing.md?pr=/nandakrpp/connectedseeds/pull/2) or drop me a line at nandadoes@gmail.com
 
 ### Credits:
-* Connected Seeds project is sponsored by EPSRC and developed at Queen Mary University of London. 
+* Connected Seeds project is sponsored by [EPSRC](https://www.epsrc.ac.uk/) and developed at [Queen Mary University of London](http://www.qmul.ac.uk/). 
 * Special thanks go to: 
     + Research team i.e. [Dr Nick Bryan-Kinns (PI)](http://www.eecs.qmul.ac.uk/~nickbk/), [Dr Hamed Haddadi (Co-I)](http://www.eecs.qmul.ac.uk/~hamed/) and [Dr Sara Heitlinger (Researcher Col)](http://saraheitlinger.net/)
     + All seeds guardians i.e. Lutfun and Richard at Spitalfields City Farm, Lisa at Wilton Estate, Halema and Anwara at Selby Estate, Zimbabwean association and Nat at Cordwainern Garden
