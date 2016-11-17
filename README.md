@@ -54,7 +54,7 @@ The work is still under development. Though it is fully functional, several elem
     + All seeds guardians i.e. Lutfun and Richard at Spitalfields City Farm, Lisa at Wilton Estate, Halema and Anwara at Selby Estate, Zimbabwean association and Nat at Cordwainern Garden
     + QMUL Electronics Lab
     + Production team Ireti, Meng, Matt and Yulia
-    + Flim maker Donna
+    + Flim maker [Donna Lipowitz](http://www.lipowitzfilms.com/)
 * [Project partners](http://connectedseeds.eecs.qmul.ac.uk/partners/)
 
 ### Licenses:
