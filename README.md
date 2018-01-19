@@ -58,5 +58,5 @@ The work is still under development. Though it is fully functional, several elem
 
 ### Licenses:
 
-Copyright (c) 2016 Nanda Khaorapapong and Connected Seeds     
+Copyright (c) 2018 Nanda Khaorapapong and Connected Seeds     
 [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) license
