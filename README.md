@@ -44,7 +44,7 @@ See [component list](https://github.com/nandadoes/cs-sensor-unit/wiki/Component-
 
 
 ### Contributing: 
-The work is still under development. Though it is fully functional, several elements regarding both hardware and software can be improved. I will be very grateful if some parts or the entire system can be beneficial to your research or practice or play, and/or if you like to help improve. If so, please feedback using a [contributing template](https://github.com/nandakrpp/connectedseeds/edit/nandakrpp-cs-contributing-1/contributing.md?pr=/nandakrpp/connectedseeds/pull/2) or drop me a line at nandadoes@gmail.com
+The work is still under development. Though it is fully functional, several elements regarding both hardware and software can be improved. I will be very grateful if some parts or the entire system can be beneficial to your research or practice or play, and/or if you like to help improve. If so, please feedback using a [contributing template](https://github.com/nandakrpp/connectedseeds/edit/nandakrpp-cs-contributing-1/contributing.md?pr=/nandakrpp/connectedseeds/pull/2) or drop me a line at nanda.krpp@gmail.com
 
 ### Credits:
 * Connected Seeds project is sponsored by [EPSRC](https://www.epsrc.ac.uk/) and developed at [Queen Mary University of London](http://www.qmul.ac.uk/). 
