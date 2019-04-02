@@ -34,7 +34,7 @@ See [component list](https://github.com/nandadoes/cs-sensor-unit/wiki/Component-
   8. Place all of the components in the enclosure and install it half way into the soil. Make sure the upper SHT10 sensor is exposed to air.   
     <br/>
     _A fully assembled CS sensor unit with two STH10 sensors on the side:_    
-    ![image]((https://drive.google.com/uc?export=view&id=1IMr9PTEnhNhw0qnghrVkB43XFxRlwdrm)
+    ![image](https://drive.google.com/uc?export=view&id=1IMr9PTEnhNhw0qnghrVkB43XFxRlwdrm)
 
 ### Usage:
 * __How it works__ – On start up, MCU is put into sleep mode and only wakes up by 2 alarms to perform series of events: 
