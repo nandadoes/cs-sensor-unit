@@ -2,8 +2,7 @@
 Nanda Khaorapapong
 
 ### Description:
-As part of a research into how Internet of Things and sensor technologies can benefit an urban food growing community in London, this [Connected Seeds](http://www.connectedseeds.org) (CS) sensor unit is designed for outdoor monitoring weather and plant growing conditions. It measures 7 parameters hourly (i.e. luminosity, barometric pressure, air temperature and humidity, soil temperature and humidity and approximated voltage level of the power supply), all of which are stored in an SD card and uploaded to an cloud server [Thingspeak channels](https://github.com/nandadoes/cs-sensor-unit/wiki/Thingspeak-pages) via 3G communication once a day.
-
+As part of a research into how Internet of Things and sensor technologies can benefit an urban food growing community in London, this [Connected Seeds](http://www.connectedseeds.org) (CS) sensor unit is designed for outdoor monitoring weather and plant growing conditions. It measures 7 parameters hourly (i.e. luminosity, barometric pressure, air temperature and humidity, soil temperature and humidity and approximated voltage level of the power supply), all of which are averaged and stored in an SD card then uploaded hourly to a Cloud server [Thingspeak channels](https://github.com/nandadoes/cs-sensor-unit/wiki/Thingspeak-pages) via 3G communication.
 
 ### Required hardware:
 See [component list](https://github.com/nandadoes/cs-sensor-unit/wiki/Component-list)
@@ -24,7 +23,7 @@ See [component list](https://github.com/nandadoes/cs-sensor-unit/wiki/Component-
   2.  Assemble – Solder components on both shields and assemble a 4-layer circuit. See [Assemble note](https://github.com/nandadoes/cs-sensor-unit/wiki/Assemble-note) for details.
       <br/>
       _A fully assembled CS sensor circuit:_     
-      <img src="http://nandadoes.com/download_seeds/docu_media/stacking_circuit_4_Layers.jpg" width="350">
+      <img src="https://photos.google.com/share/AF1QipPyn0tW4vupT0M421sj-rAWG0jbyxTnF77-iUwd9sN5rFydK1fhzYmQMCO8yU-nMQ/photo/AF1QipPaO7dgM1ey5G9XiDoIk16vIwq5DsUSu4pWqsE_?key=MUpWWHFhbHl3cU9HMDNqMjJlUk5tbGFPdlB4eWxB" width="350">
  
   3. Download and install all required libraries into Arduino/library folder
   4. Download the zip folder of [CS_sensorUnit](https://github.com/nandadoes/cs-sensor-unit/blob/master/cs_sensorUnit.zip) software, unzip and open CS_sensorUnit.ino file in Arduino or other preferred IDE
