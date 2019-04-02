@@ -23,7 +23,7 @@ See [component list](https://github.com/nandadoes/cs-sensor-unit/wiki/Component-
   2.  Assemble – Solder components on both shields and assemble a 4-layer circuit. See [Assemble note](https://github.com/nandadoes/cs-sensor-unit/wiki/Assemble-note) for details.
       <br/>
       _A fully assembled CS sensor circuit:_     
-     ![image](https://drive.google.com/uc?export=view&id=1BJQUVkeBl1a9ZWs6AeCOv1REnQS-12hf)
+     <img src="https://drive.google.com/uc?export=view&id=1BJQUVkeBl1a9ZWs6AeCOv1REnQS-12hf" height="350">
 
  
   3. Download and install all required libraries into Arduino/library folder
@@ -34,7 +34,6 @@ See [component list](https://github.com/nandadoes/cs-sensor-unit/wiki/Component-
   8. Place all of the components in the enclosure and install it half way into the soil. Make sure the upper SHT10 sensor is exposed to air.   
     <br/>
     _A fully assembled CS sensor unit with two STH10 sensors on the side:_    
-    ![image](https://drive.google.com/uc?export=view&id=1IMr9PTEnhNhw0qnghrVkB43XFxRlwdrm)
     <img src="https://drive.google.com/uc?export=view&id=1IMr9PTEnhNhw0qnghrVkB43XFxRlwdrm" height="350">
 
 ### Usage:
