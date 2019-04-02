@@ -35,6 +35,7 @@ See [component list](https://github.com/nandadoes/cs-sensor-unit/wiki/Component-
     <br/>
     _A fully assembled CS sensor unit with two STH10 sensors on the side:_    
     ![image](https://drive.google.com/uc?export=view&id=1IMr9PTEnhNhw0qnghrVkB43XFxRlwdrm)
+    <img src="https://drive.google.com/uc?export=view&id=1IMr9PTEnhNhw0qnghrVkB43XFxRlwdrm" height="350">
 
 ### Usage:
 * __How it works__ – On start up, MCU is put into sleep mode and only wakes up by 2 alarms to perform series of events: 
