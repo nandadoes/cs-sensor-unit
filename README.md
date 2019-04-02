@@ -2,7 +2,7 @@
 Nanda Khaorapapong
 
 ### Description:
-As part of a research into how Internet of Things and sensor technologies can benefit an urban food growing community in London, this [Connected Seeds](http://www.connectedseeds.org) (CS) sensor unit is designed for outdoor monitoring weather and plant growing conditions. It measures 7 parameters hourly (i.e. luminosity, barometric pressure, air temperature and humidity, soil temperature and humidity and approximated voltage level of the power supply), all of which are averaged and stored in an SD card then uploaded hourly to a Cloud server [Thingspeak channels](https://github.com/nandadoes/cs-sensor-unit/wiki/Thingspeak-pages) via 3G communication.
+As part of a research into how Internet of Things and sensor technologies can benefit an urban food growing community in London, this sensor unit for [Connected Seeds](http://www.connectedseeds.org) (CS) project is designed for outdoor monitoring weather and plant growing conditions. It measures 7 parameters hourly (i.e. luminosity, barometric pressure, air temperature and humidity, soil temperature and humidity and approximated voltage level of the power supply), all of which are averaged and stored in an SD card then uploaded hourly to a Cloud server [Thingspeak channels](https://github.com/nandadoes/cs-sensor-unit/wiki/Thingspeak-pages) via 3G communication.
 
 ### Required hardware:
 See [component list](https://github.com/nandadoes/cs-sensor-unit/wiki/Component-list)
