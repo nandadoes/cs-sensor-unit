@@ -24,6 +24,9 @@ See [component list](https://github.com/nandadoes/cs-sensor-unit/wiki/Component-
       <br/>
       _A fully assembled CS sensor circuit:_     
       <img src="https://photos.google.com/share/AF1QipPyn0tW4vupT0M421sj-rAWG0jbyxTnF77-iUwd9sN5rFydK1fhzYmQMCO8yU-nMQ/photo/AF1QipPaO7dgM1ey5G9XiDoIk16vIwq5DsUSu4pWqsE_?key=MUpWWHFhbHl3cU9HMDNqMjJlUk5tbGFPdlB4eWxB" width="350">
+      
+      
+      ![image](https://drive.google.com/uc?export=view&id=1BJQUVkeBl1a9ZWs6AeCOv1REnQS-12hf)
  
   3. Download and install all required libraries into Arduino/library folder
   4. Download the zip folder of [CS_sensorUnit](https://github.com/nandadoes/cs-sensor-unit/blob/master/cs_sensorUnit.zip) software, unzip and open CS_sensorUnit.ino file in Arduino or other preferred IDE
