@@ -27,7 +27,7 @@ See [component list](https://github.com/nandadoes/cs-sensor-unit/wiki/Component-
 
  
   3. Download and install all required libraries into Arduino/library folder
-  4. Download the zip folder of [CS_sensorUnit](https://github.com/nandadoes/cs-sensor-unit/blob/master/cs_sensorUnit.zip) software, unzip and open CS_sensorUnit.ino file in Arduino or other preferred IDE
+  4. Download the zip folder of [CS_sensorUnit](https://github.com/nandadoes/cs-sensor-unit/blob/master/cs_sensorUnit.zip) software, unzip and open CS_sensorUnit.ino file in Arduino or other preferred C/C++ IDE
   5. Create a channel on [Thingspeak](https://thingspeak.com/channels) with 7 [fields](https://www.mathworks.com/help/thingspeak/create-a-channel.html); copy the channel's API write key to replace the 16-digit key on line 153 in CS_sensorUnit.ino file   
   6. Upload software: set two slide switches on the top shield at 'usb' positions before uploading CS_sensorUnit software onto Arduino Mega board. Set both switches back at 'serial' positions once the uploading process is completed.
   7. Switch on the circuit
